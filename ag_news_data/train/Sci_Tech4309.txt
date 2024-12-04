@@ -1,0 +1,1 @@
+Iomega REVs backup and recovery Iomega this week unveiled a SCSI version of its REV drive aimed at server backup and disaster recovery applications.

@@ -1,0 +1,1 @@
+Microsoft Delays SQL Server Software, Plans Beta To hold the interest of key parties, especially developers, Microsoft will release the first Community Technical Preview (CTP), or advanced beta release, of the database.

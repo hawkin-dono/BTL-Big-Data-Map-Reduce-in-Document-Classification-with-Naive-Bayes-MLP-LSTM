@@ -1,0 +1,1 @@
+IBM Releases Speech Technology To Open Source IBM has handed over speech technology to two open-source groups to boost development of speech-recognition applications, which proponents say will eventually become common in customer-service call centers, automobiles and elsewhere.

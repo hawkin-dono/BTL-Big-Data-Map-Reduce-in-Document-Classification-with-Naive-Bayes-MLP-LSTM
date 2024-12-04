@@ -1,0 +1,1 @@
+Adobe Fixes Multiple Flaws Adobe (Quote, Chart) issued a patch this week that helps prevent multiple flaws found in its products. The fixes clear up problems in Windows and Macintosh systems running Adobe Reader and Acrobat Pro versions 

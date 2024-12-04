@@ -1,0 +1,1 @@
+Microsoft warns of poisoned picture peril The old bromide that promises you can #39;t get a computer virus by looking at an image file crumbled a bit further Tuesday when Microsoft announced a critical vulnerability in its software #39;s handling of the ubiquitous JPEG graphics format.

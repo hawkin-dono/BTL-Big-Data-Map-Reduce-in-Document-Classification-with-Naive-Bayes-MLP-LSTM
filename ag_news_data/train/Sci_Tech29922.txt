@@ -1,0 +1,1 @@
+Longhorn will let users tune Windows for different servers Bob Muglia, senior vice president of the Windows Server division at Microsoft, said in an interview that he thinks the ability to configure Windows system images for various types of servers will be "the heart and soul" of the Longhorn upgrade due in 2007.

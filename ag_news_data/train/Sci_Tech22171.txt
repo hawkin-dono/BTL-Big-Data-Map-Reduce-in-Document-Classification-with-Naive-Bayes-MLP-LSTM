@@ -1,0 +1,1 @@
+Google delivers POP3 Gmail Google will introduce POP3 (Post Office Protocol) support in the next few weeks for Gmail users, allowing them to download their email from the service using mail clients.

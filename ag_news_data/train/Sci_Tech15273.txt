@@ -1,0 +1,1 @@
+CA adds antivirus, antispyware to Cisco NAC program Computer Associates International Inc. (CA) said on Wednesday that it was joining a Cisco Systems Inc. program to harden enterprise networks against attacks by enforcing security policies on computer hosts that attempt to access network resources, the company said in a statement.

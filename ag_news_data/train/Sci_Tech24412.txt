@@ -1,0 +1,1 @@
+Oracle settles on quarterly patch regime Oracle Corp is following rival Microsoft Corp in making its security patching schedule more predictable for customers. Unlike Microsoft, which faces more scrutiny from security researchers and patches every month, Oracle will patch quarterly.

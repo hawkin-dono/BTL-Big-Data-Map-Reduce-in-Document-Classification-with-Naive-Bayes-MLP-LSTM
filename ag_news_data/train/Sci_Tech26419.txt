@@ -1,0 +1,1 @@
+Cisco Revamps Catalyst Switch Range To extend 10GbE support to the network edge, the revamped 6500 Supervisor Engine 32 ships with a choice of two 10GbE XENPAK-based or eight one GbE Small Form Factor Pluggable based uplinks.

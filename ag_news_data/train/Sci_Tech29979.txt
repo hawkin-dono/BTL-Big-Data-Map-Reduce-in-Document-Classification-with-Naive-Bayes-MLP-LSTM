@@ -1,0 +1,1 @@
+New IE Exploit Spoofs Web Sites Security researchers have uncovered a spoofing flaw in Internet Explorer that could turn out to be the perfect holiday gift for scammers.

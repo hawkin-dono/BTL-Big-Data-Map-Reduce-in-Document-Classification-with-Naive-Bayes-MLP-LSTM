@@ -1,0 +1,1 @@
+New IE Bugs Open Up XP SP2 To Attack (TechWeb) TechWeb - Two new vulnerabilities in Internet Explorer 6.0 -- unveiled by a security firm Wednesday -- could be exploited by hackers to bypass security features in Microsoft's Windows XP SP2.

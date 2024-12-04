@@ -1,0 +1,1 @@
+Macromedia upgrading Flex presentation server Macromedia on Monday will introduce an upgrade to its Flex presentation server and framework for building rich Internet applications, with improvements in data display, visualization, styling, and performance.

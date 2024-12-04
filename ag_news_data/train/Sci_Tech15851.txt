@@ -1,0 +1,1 @@
+Oracle warns of exploits for latest DB flaws Oracle Corp. is warning customers to apply software patches it released in August, citing the availability of malicious code that can exploit unpatched vulnerabilities in its software.

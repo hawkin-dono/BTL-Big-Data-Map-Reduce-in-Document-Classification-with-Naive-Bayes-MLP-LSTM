@@ -1,0 +1,1 @@
+Sun submits mystery license to open source group A Sun Microsystems engineer chartered with directing the engineering effort to open source Solaris has published a new software licence that could be used for the open source release of Sun #39;s Unix operating system.

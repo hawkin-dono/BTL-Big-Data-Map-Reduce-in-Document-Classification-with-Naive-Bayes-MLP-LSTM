@@ -1,0 +1,12 @@
+Monday, June 13, 2005 
+
+Su Doku
+
+Su Doku is a logic puzzle of numbers. This Japanese game, originally from USA, is causing waves in the media, especially Britian. Each publisher is vying to introduce the puzzle in his paper. An ex-judge, Wayne Gould introduced the Su Doku in the The Times.
+
+Wayne's website on Su Doku runs a monthly contest and is the source for newspaper puzzles and solutions. There is lot of brouhaha after the puzzle was introduced in major newspapers in the last two months. In India, 9x9 puzzles were introduced this month in the TOI and The Hindu.
+
+Su Doku literally translates to Single Number. The rules of the game are simple - numbers are to arranged in a 9x9 square such that no number appears more than once in a row, column or the smaller 3x3 squares. There are variants from the 9x9 like the 6x6 or the 5x5. There is even a 3D version of the logic puzzle from the Daily Telegraph. Mathematically speaking, Su Doku puzzles are Latin Squares. You get a Latin Square for example in a nxn matrix by using addition of numbers with modulo n.
+
+If solving puzzles is your forte, you will find right at home. For others it is still worth a try as knowledge of either maths or complex logic is not required. I got addicted to this game last week. Below you will find links to play the game online. I felt it is best to solve using the paper-pencil way (puzzle print-out) or the stare-till-you-get-it way (software like MS-Paint will do). It is never fun to solve logic using "solver" programs.
+

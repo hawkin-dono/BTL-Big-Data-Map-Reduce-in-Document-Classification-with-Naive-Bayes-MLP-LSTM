@@ -1,0 +1,1 @@
+Group releases open-source Web services messaging app Three of Japan #39;s largest IT companies have developed an open-source implementation of a standard from OASIS to ensure reliable messaging between Web services applications.

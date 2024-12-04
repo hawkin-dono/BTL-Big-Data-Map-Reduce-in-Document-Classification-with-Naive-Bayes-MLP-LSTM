@@ -1,0 +1,1 @@
+New bug in open source database MySQL Users of the open-source MySQL database could be at risk from remote attacks from a bug in phpMyAdmin, the web-based MySQL administration tool.

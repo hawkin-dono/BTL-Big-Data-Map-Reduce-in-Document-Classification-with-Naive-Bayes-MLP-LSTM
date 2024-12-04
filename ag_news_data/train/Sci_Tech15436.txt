@@ -1,0 +1,1 @@
+Deepnet browser guards against phishing On the heels of a new Netscape preview release and the launch of Firefox 1.0, a UK company has released a web browser it claims is more secure than Internet Explorer (IE) or Firefox.

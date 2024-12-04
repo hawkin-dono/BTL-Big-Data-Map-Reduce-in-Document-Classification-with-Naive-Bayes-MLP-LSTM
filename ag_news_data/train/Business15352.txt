@@ -1,0 +1,1 @@
+Microsoft delays access control technology for two years Microsoft Monday again revised its Windows server roadmap, this time delaying for nearly two years the release of features for controlling network access - in part to implement a new plan to develop the technology in unison with similar technology from 

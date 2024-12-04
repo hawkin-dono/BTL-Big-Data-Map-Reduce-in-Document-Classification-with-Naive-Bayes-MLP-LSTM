@@ -1,0 +1,1 @@
+SC2004: PathScale Introduces World #39;s Lowest-Latency Cluster &lt;b&gt;...&lt;/b&gt; PITTSBURGH, SC2004 SuperComputing Conference, Nov. 9 /PRNewswire/ -- PathScale, developer of innovative software and hardware solutions to accelerate the performance and efficiency of Linux clusters, announces the PathScale InfiniPath Interconnect.

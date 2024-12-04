@@ -1,0 +1,1 @@
+Oracle readies major app server upgrade Oracle plans tomorrow to introduce Oracle Application Server 10g Release 2, a significant upgrade with improvements in Java, Web services and identity management, as well as support for RFID technology.

@@ -1,0 +1,1 @@
+IBM  quot;Stinger quot; release pushes .NET, Linux support IBM is launching the next version of its DB2 Universal Database, code-named Stinger, touting new autonomic features and .NET developer tools.

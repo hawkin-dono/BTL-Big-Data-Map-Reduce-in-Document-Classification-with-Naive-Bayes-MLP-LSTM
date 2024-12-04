@@ -1,0 +1,1 @@
+News: New Bagle worm drops in and downloads A new Bagle dropper and downloader, Bagle-AQ, was bulk mailed to numerous internet users yesterday.

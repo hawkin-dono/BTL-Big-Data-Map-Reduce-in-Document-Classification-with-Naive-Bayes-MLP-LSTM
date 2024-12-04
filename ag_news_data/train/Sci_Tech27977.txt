@@ -1,0 +1,1 @@
+AMD releases details of 90 nm Opterons, multicore chips AMD quietly published first specs of the first 90 nm Opteron processors and talked about Opterons with up to eight cores during a conference with analysts.

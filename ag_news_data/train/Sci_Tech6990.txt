@@ -1,0 +1,1 @@
+Borland looks to take on Visual Studio with Diamondback San Jose, Calif. - Borland Software with the planned Diamondback release of its Delphi tool for Windows applications is looking to take on Microsoft while accommodating .Net, Win32 and Delphi development, a Borland official said on Monday at the BorCon conference here. 

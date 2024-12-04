@@ -1,0 +1,1 @@
+Apple's Mac OS X Update Brings Word of Firewire Problems (Ziff Davis) Ziff Davis - Some users have said that after updating to Mac OS X "Panther" 10.3.6, their computers no longer recognize external Firewire 400 hard drives. Others report no such problems with the update, which includes networking optimizations and fixes for video and font glitches.

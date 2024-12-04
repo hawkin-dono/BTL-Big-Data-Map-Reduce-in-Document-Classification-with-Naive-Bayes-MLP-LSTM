@@ -1,0 +1,1 @@
+The IT security vuln league table of fear A list of the worst 20 security vulnerabilities bedevilling Windows and *Nix systems was unveiled last Friday by the SANS (SysAdmin, Audit, Network, Security) Institute.

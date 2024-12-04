@@ -1,0 +1,1 @@
+Mozilla Updates Firefox Browser Mozilla has released a preview version of its open source FireFox Web browser. FireFox 1.0PR includes some bug fixes and many new features, including Live Bookmarks, a new Find toolbar and better IE compatability.

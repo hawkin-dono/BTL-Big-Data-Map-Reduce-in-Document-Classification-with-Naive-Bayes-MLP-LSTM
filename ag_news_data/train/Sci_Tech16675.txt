@@ -1,0 +1,1 @@
+Microsoft Clarifies Multicore Processor Software Licensing Microsoft gave some encouraging news for IT managers considering future server hardware based on multicore processors. Both Intel and AMD are developing multicore chips, which pack two processors onto a single 

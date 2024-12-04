@@ -1,0 +1,1 @@
+VMware aims to secure network sharing Releases beta software to protect company networks used by outside contractors and telecommuters.

@@ -1,0 +1,1 @@
+Are Hackers Now Gunning for the Mac? In early October Apple released a small series of patches for Mac OS X version 10.2 and later. Most of the fixes in this group blocked possible denial-of-service problems that are, to date, theoretical.

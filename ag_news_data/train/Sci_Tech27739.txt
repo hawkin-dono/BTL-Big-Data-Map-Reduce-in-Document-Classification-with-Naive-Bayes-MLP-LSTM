@@ -1,0 +1,1 @@
+Siemens records 1 Gbit/s over mobile transmission For the first time, data were transferred in real time via mobile communication at a speed of one gigabit per second (Gbit/s), or 1,000 megabits per second (Mbit/s).

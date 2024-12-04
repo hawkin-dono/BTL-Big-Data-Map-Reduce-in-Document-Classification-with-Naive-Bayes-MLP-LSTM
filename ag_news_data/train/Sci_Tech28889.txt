@@ -1,0 +1,1 @@
+IBM claims virtualisation victory over EMC IBM is claiming a storage management victory over EMCand has said it can control its entire line of storage arrays with the latest version of its San Volume Controller appliance.

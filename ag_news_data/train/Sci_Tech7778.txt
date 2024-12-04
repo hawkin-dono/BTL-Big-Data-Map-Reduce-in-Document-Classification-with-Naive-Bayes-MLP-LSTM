@@ -1,0 +1,1 @@
+Critical JPEG security flaw leaves Windows users vulnerable Microsoft issued a patch for what it says is a  quot;critical quot; security flaw in the way Windows programs handle JPEG images. According to a security bulletin accompanying the patch, the flaw 

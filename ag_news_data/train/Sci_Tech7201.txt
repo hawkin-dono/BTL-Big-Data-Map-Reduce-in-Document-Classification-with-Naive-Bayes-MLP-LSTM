@@ -1,0 +1,1 @@
+Samba servers vulnerable to denial-of-service attacks Patches released for flaws in software package that lets Windows files and printers be shared by Unix and Linux systems.

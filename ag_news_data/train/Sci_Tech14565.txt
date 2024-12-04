@@ -1,0 +1,1 @@
+IBM upgrades blade servers Enhancements include a SCSI option that will double the number of SCSI blades that users can fit into a single chassis, and software designed to make them cooler and easier to manage.

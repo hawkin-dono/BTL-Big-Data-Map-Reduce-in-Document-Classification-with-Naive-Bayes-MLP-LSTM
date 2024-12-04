@@ -1,0 +1,1 @@
+Symantec issues fixes for critical flaws Symantec has released firmware fixes for a string of critical security holes in its firewall/VPN and Gateway Security products which could be exploited to cause a denial of service, identify 

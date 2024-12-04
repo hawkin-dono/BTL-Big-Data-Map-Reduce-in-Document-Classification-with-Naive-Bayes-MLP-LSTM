@@ -1,0 +1,1 @@
+HDS slides into midrange storage market Hitachi has released its first all Serial ATA array and has bundled it with switches and network interface cards to create a preconfigured low-to-midrange SAN that competes with products from EMC and IBM.

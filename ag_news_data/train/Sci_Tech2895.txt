@@ -1,0 +1,1 @@
+News: WinAmp flayed by skins attack A serious security flaw in NullSoft's popular WinAmp player opens the door for crackers to seize control of vulnerable systems.

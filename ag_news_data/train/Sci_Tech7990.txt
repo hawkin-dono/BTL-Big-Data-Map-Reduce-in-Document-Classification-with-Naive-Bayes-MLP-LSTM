@@ -1,0 +1,1 @@
+MyDoom Variant Describes Itself A new variant of the Internet worm MyDoom - Mydoom.Y - has anti-virus vendors puzzled. Not because they can #39;t do anything about it but because it comes along with a description of itself.

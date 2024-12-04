@@ -1,0 +1,1 @@
+Microsoft Previews Developer Tools Microsoft has previewed  quot;Whitehorse, quot; a set of visual design tools intended to support the design and validation of Web services-based applications.

@@ -1,0 +1,1 @@
+Securing RFID information RFID data is vulnerable under certain circumstances, but tougher standards have been developed to protect information stored on RFID chips and to prevent hackers from using sensitive data stored there in malicious exploits.

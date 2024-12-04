@@ -1,0 +1,13 @@
+ The Proceedings
+
+It is a conference ritual as far back as I remember. Your arrive at the conference and receive the proceedings, all the papers to be presented at the conference many of which you are seeing for the very first time. I would take the proceedings to my room, smell that new proceedings smell and open it up, first checking that my papers looked fine, not that I could do anything if they weren't. Using the proceedings I would plan what talks I would attend the first day.
+
+The proceedings would never leave my room until after the conference. I just hated lugging the heavy proceedings around. Sometimes when a speaker said something that didn't make sense to me, I would simply borrow a proceedings from someone sitting next to me.
+
+When I returned home I would put the proceedings in its proper place on my office shelf, marveling at my complete collection of STOC, FOCS and Complexity proceedings back to 1986, incredibly useful for looking up recent papers.
+
+How has technology changed how I use a proceedings? Not much during the conference, but I now rarely use proceedings to look up papers and no longer have complete collections of STOC and FOCS.
+
+Other people use proceedings during a conference in different ways. Some never open them up. Some follow along in the proceedings during a talk. Some read the paper before or after the talk.
+
+That's the important point to keep in mind when we have our debates on whether to eliminate proceedings, or put them on the web or on CD-ROMs. We all use proceedings in different ways and no single solution will address everyone's needs.

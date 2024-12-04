@@ -1,0 +1,34 @@
+ 
+Events
+    This year celebrations
+
+    Jan van Leeuwen runs down many of the anniversaries coming up this year.
+
+    Reading your post 2006 Year in Review, I was reminded of a number of memorable things that are coming up in 2007.
+
+    Are there any commemorative facts to be noted in 2007? Most certainly there are, although it isn't anything like the Gödel year we just had. I'm not counting the Robert A. Heinlein Centennial to be held in Kansas City later this year, undoubtedly a major event for the science fictionists among us.
+
+    Staying closer to our field, in 2007 it will be 100 years ago that John Mauchly was born. Together with Howard Aiken and J. Presper Eckert he is one of the best known, early computer pioneers from the US. Together with Eckert he built the ENIAC and later the UNIVAC I (built between 1946 and 1951).
+
+    2007 also marks the 100 year anniversary of another computer pioneer, namely Antonin Svoboda from the Czech Republic. He was the main designer of the first Czechoslovak relay automatic computer SAPO (built between 1947 and 1951), working in the Research Institute of Mathematical Machines within the Czech Academy of Sciences.
+
+    From a more theoretical perspective, in 2007 it will be 100 years ago that Hassler Whitney was born. As a mathematician he made some highly original contributions to early graph theory, notably on the four color problem and on planarity (cf. Whitney's planarity criterion). He is also widely credited as the inventor of matroid theory, of which the foundations were defined in his 1935 paper On the Abstract Properties of Linear Dependence.
+
+    Other mathematicians whose centennials are coming up include H.M.S. Coxeter and Harold Davenport.
+
+    But 2007 also marks the 300 year (!) anniversary of the birth of Leonhard Euler. The math community is celebrating the Tri-Centennial Birthday of Euler in many ways.
+
+        * The journal IJMAS is devoting special issues to this year.
+        * The MAA devoted it Mathematical Study Tour for 2007 to an Euler tour, visiting his birthplace, Basel, and the two cities in which he spent his working life, St. Petersburg and Berlin.
+        * The city of Basel itself organizes The Leonhard Euler Tercentenary - Basel 2007 and celebrates it with a series of activities. 
+
+     
+    Solving Puzzles
+
+    An economist, a physicist and a computer scientist were sitting at a table. A true story, not the beginning of a joke. One of them said
+
+        We were solving fundamental problems twenty to thirty years ago. There is still much we don't understand but today we are only solving puzzles. 
+
+    Any one of them could have said that, scientific insecurity runs through all fields. A similar set of scientists probably had a similar discussion twenty years ago as well.
+
+    At the end they all concluded that the future of their fields lied not in the cores of their fields but in the interaction between them and other fields not represented, like biology. They probably also said that twenty years ago.

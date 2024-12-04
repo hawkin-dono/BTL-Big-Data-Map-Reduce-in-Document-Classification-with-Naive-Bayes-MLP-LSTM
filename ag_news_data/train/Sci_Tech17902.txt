@@ -1,0 +1,1 @@
+Linux speared by trio of security holes A series of security holes in three common Linux components has led open-source vendors to rush out several updates. Two of them, rated  quot;highly critical quot; by security company Secunia, are in libpng, a library 

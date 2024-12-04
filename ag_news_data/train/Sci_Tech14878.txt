@@ -1,0 +1,1 @@
+Redesign Cripples Paypal Service Problems implementing a site redesign temporarily crippled some operations of Paypal the popular payment processing service. The performance problems, which began after a site update Thursday night, escalated 

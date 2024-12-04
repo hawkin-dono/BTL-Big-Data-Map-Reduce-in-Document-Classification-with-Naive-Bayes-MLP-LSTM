@@ -1,0 +1,1 @@
+Breaking RSS Semantics \\Whats wrong with this picture?\\All these URLs return HTTP 200 0K.  The only problem is that none of them\actually exist and they're just HTML error pages.\

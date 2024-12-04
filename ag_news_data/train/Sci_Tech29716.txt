@@ -1,0 +1,1 @@
+Microsoft Fixes 'Critical' XP Firewall Issue Fix prevents users from sharing their files and printers with the entire Internet.

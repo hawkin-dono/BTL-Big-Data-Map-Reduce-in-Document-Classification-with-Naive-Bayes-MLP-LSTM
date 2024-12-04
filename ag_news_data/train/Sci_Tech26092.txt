@@ -1,0 +1,1 @@
+Microsoft WINS Said To Be Vulnerable Microsoft said Sunday it #39;s looking into reports of a security screw-up in Windows Internet Name Service (WINS), a component of its most popular server software, including Windows NT 4.0 Server, Windows 2000 Server, and Windows Server 2003.

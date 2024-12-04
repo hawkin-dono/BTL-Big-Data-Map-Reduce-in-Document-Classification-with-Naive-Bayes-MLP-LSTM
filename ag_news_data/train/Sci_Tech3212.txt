@@ -1,0 +1,1 @@
+Windows update harbors AMD conflict A problem in the Service Pack 2 update for Windows XP may keep owners of AMD-based computers from using the long-awaited security package, according to Microsoft.

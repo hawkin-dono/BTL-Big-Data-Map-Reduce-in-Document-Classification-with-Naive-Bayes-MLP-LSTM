@@ -1,0 +1,1 @@
+Microsoft checks out new IE security flaw reports  Microsoft is investigating reports of a serious security flaw in Internet Explorer (IE), but has not yet seen malicious code that exploits the reported flaw, the company said Thursday.

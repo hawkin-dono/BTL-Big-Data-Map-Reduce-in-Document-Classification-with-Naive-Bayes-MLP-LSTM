@@ -1,0 +1,10 @@
+The Hungarian Reputation foR Combinatorics
+
+I met and talked with two Israeli Graduate Students Working on Derandomization (if you are them please email me- I seem to have lost your names and email addresses, and I want to acknowledge you in a paper I am working on and send you a first draft).
+
+Is Israel known for work in derandomization? I do not know. Is Hungary known for combinatorics? Of course. This raises some questions.
+
+   1. Is the notion that Hungary is strong in combinatorics true? I would think so; however, I would like to see some hard data: Do they have the most combinatorists per capita? (probably yes). Do they teach Ramsey Theory in Kindergarden? (probably not).
+   2. Assuming that Hungary is strong in combinatorics, what caused it? One answer is Erdos. Certainly Erdos encouraged and amplified the trend, but it was already there. In particular there were already Math Competitions in Hungary way back in 1884. See here for a short history of The Eotvos Compeition and see here for the problems.
+   3. What other countries have reputations for certain areas? Are these reputations accurate? How does one measure such things? One problem with measuring such things is how much do you count one superstar? Is Israel strong in Logic because of Shelah? (I tried to see if he was the best logician in the world by typing Best Logician in the world into Google; however, it returned Did you mean Best Magician in the world?.) Do you count where someone was born? where they went to High School? College? Grad School? Where they are now?
+   4. With Globalization will these differences fade away? (probably Yes). Have they already? (probably yes). 

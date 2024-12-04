@@ -1,0 +1,1 @@
+IBM Upgrades Web-Transaction Performance Tool IBM on Friday introduced an upgrade of its performance-monitoring software for web-based transactions, expanding its view of transaction flows by adding support for more infrastructure components.

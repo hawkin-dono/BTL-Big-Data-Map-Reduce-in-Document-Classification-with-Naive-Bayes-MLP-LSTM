@@ -1,0 +1,1 @@
+WS-I Addresses Web Services Attachments Interoperability The Web Services Interoperability Organization (WS-I) on Tuesday announced three new profiles have been published as  quot;Final Material: quot; Basic Profile 1.1, Attachments Profile 1.0, and Simple SOAP Binding Profile 1.0.

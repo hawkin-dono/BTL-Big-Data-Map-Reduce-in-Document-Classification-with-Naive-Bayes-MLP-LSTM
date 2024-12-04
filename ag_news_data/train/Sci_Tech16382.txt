@@ -1,0 +1,1 @@
+Q A: Red Hat exec talks of challenges to open-source He discusses the dearth of developers, scaling problems and his public blog war with Sun's Jonathan Schwartz.

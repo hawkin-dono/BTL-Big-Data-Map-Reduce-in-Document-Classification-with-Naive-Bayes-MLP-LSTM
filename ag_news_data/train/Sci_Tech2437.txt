@@ -1,0 +1,1 @@
+ISS: Critical Netscape hole could be widespread Security company Internet Security Systems Inc. (ISS) is warning its customers about a critical security hole in a commonly used technology from the Mozilla Foundation called the Netscape Network Security Services (NSS) library that could make Web servers vulnerable to remote attack.

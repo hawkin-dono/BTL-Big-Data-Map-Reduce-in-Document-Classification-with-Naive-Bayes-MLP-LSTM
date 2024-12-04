@@ -1,0 +1,1 @@
+Sun executive reveals NAS strategy Sun Microsystems plans to beef up its NAS (network-attached storage) product line with support for utility computing and its new zettabyte file system (ZFS), according to an executive of the company's network storage products group.

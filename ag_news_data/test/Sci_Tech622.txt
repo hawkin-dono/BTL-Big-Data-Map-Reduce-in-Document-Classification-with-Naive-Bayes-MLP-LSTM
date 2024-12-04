@@ -1,0 +1,1 @@
+Symantec warns of weakness in its firewall and gateway products Security specialist Symantec has admitted to a number of vulnerabilities in its firewall and gateway products. The weaknesses make them liable to denial of service attacks and other compromises.

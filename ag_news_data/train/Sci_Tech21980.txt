@@ -1,0 +1,1 @@
+ISA Server 2000 and Proxy Server 2.0 Internet Content Spoofing This update resolves a newly-discovered, privately reported vulnerability. The vulnerability is documented in the Vulnerability details section of this bulletin.

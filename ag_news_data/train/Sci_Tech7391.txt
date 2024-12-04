@@ -1,0 +1,1 @@
+IETF knocks back Microsoft anti-spam plan The Internet Engineering Task Force (IETF) has turned down Microsoft #39;s technical contribution to the Sender ID proposal. A combination of Microsoft #39;s Caller ID and a domain authentication scheme devised by 

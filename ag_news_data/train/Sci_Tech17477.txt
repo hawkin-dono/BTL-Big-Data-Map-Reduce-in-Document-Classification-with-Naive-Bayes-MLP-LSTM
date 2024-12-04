@@ -1,0 +1,1 @@
+Nvidia aims to take lead in K8 chipset market with nForce 4 MCP With its recent introduction of the PCIe-enabled Nvidia nForce4 media and communication processors (MCP) for Advanced Micro Devices (AMD) processors, Nvidia expects to extend its lead against other chipmakers for the worlds K8 chipset market, said Drew 

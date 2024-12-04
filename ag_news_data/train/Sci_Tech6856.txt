@@ -1,0 +1,1 @@
+IBM Code for Speech Software To Be Open After decades of research and development, speech recognition is finally moving toward mainstream use. Advances in statistical modeling, pattern matching algorithms and processing power have 

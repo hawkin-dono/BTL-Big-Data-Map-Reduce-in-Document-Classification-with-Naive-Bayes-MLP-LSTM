@@ -1,0 +1,1 @@
+PalmSource to Port Palm OS on top of Linux Palm OS 6.0 (Palm OS Cobalt) hasn #39;t even seen the light of day on any device yet, nor is there any sign it will soon. All the same, PalmSource is steering its unused OS 6.0 onto the Linux platform.

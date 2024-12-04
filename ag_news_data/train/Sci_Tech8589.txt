@@ -1,0 +1,1 @@
+Embarcadero enhances SQL Server backup Embarcadero Technologies on Monday is unveiling its DBArtisan Workbench 8.0 database administration tool, featuring enhanced backup capabilities for Microsoft SQL Server databases and support for performance metrics in the Oracle10g database.

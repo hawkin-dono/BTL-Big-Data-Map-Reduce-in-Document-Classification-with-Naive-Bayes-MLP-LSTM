@@ -1,0 +1,15 @@
+Misha Alekhnovich Retrospective
+
+Last night we had a session to remember Mikhail Alekhnovich who died earlier this month in a white-water kayaking accident in Russia. Eli Ben-Sasson and Sasha Razborov (the later through a letter) gave personal remembrances of Misha. Alexander Shen in Russia turned Misha to theoretical computer science, where he came to IAS to work with Razborov as a "visiting postdoc" before he actually did his doctorate at MIT 
+followed by a real postdoc back at IAS before taking a faculty position at UCSD. He was very confident and aggressive in both his non-research and research lives, for example never being intimidated when working with Razborov.
+
+Toni Pitassi and Russell Impagliazzo highlighted a small sample of Misha's great work in proof complexity. Toni focused on automizability, given a proof system like resolution or DPLL (backtracking), how hard is it to find a proof not much larger than the original proof. Misha and his co-authors showed you cannot find
+
+    * Resolution proofs with a nearly linear factor larger than the smallest possible proof unless P=NP. (JSL 2001)
+    * Resolution proofs within a polynomial of the smallest proof size unless W[p] is fixed-parameter tractable, which implies SAT can be solved in time 2en for some e<1. (FOCS 2001) 
+
+These results also hold for DPLL and many other proof systems. Misha played a lead role in these papers, finding simple examples that cut to the heart of the problems.
+
+Russell talked about the problem of showing lower bounds for DPLL algorithms. Alekhnovich, Hirsch and Itsykson showed that certain randomly generated satisfiable formulas cannot be solved by certain kinds of backtracking algorithms (ICALP 2004). The 2005 Complexity paper showed lower bounds even when allowing arbitrary pruning of the search tree. Work on strengthening this later paper was an ongoing project when Misha passed away.
+
+When we lose our colleagues at or near the end of their careers we celebrate what they have given to our field. When we lose them early, like Alekhnovich at 28, we also regret what might have been. He would have continued his great research career as well as about to start a new phase in his personal life with a wedding in Russia planned for just next week. His loss still deeply affects many at this workshop.

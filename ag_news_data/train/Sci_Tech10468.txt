@@ -1,0 +1,1 @@
+HP Cuts Itanium-Based Workstations Hewlett-Packard will stop selling workstations equipped with Intel #39;s 64-bit Itanium processors. HP said its workstation customers want chips that are more compatible with 32-bit software, like Intel #39;s Xeon and the AMD Opteron.

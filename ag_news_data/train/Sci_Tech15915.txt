@@ -1,0 +1,1 @@
+BlackBerry can be bitten by DoS attacks Smart phones using older RIM software are open to remote rebooting, but the flaw's not as bad as first reported.

@@ -1,0 +1,1 @@
+New WebSphere app server has distinct SOA flavor IBM #39;s affections for service-oriented architectures deepened today when Big Blue offered details on the impending version 6 release of WebSphere Application Server.

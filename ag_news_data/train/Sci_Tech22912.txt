@@ -1,0 +1,1 @@
+Another Cool Firefox Search Tool In my Firefox series last week, I overlooked one of the browser's most powerful search functions: An 'always on' find as you type feature.

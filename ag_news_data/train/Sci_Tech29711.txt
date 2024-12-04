@@ -1,0 +1,1 @@
+Multicore designs might force Intel off its bus As Intel moves in step with the rest of the chip industry toward the multicore design era, it is preparing to overhaul the memory bus architecture that has served it well for so many years, according to company executives and analysts.

@@ -1,0 +1,1 @@
+Infocus: WEP:Dead Again, Part 1 This article is the first of a two-part series that looks at the new generation of WEP cracking tools for WiFi networks, which offer dramatically faster speeds for penetration testers over the previous generation of tools. In many cases, a WEP key can be determined in seconds or minutes.

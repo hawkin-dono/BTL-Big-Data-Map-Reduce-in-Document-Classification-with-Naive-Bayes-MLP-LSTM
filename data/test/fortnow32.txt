@@ -1,0 +1,20 @@
+A Recommendation Letter
+
+Dear Recruiting Committee:
+
+George Henry is among the top fifty computational complexity theorists on the market this year and you should consider him for any faculty, postdoc or janitorial position in your department.
+
+Computational Complexity compares complexity classes representing different amounts of complexity resources among different computational models. There are hundreds of complexity classes and thousands of variations on those classes. Henry's best result shows that for two of these classes, one of them is not contained in the other assuming that some third class is not contained in some fourth class. This work appeared in a theoretical computer science conference you've never heard of.
+
+For service, George Henry has wasted his money joining the ACM, IEEE, AMS, MAA, ASL and SIAM. He's even (under duress) refereed a paper or two.
+
+Henry gave a seminar once and nobody ran out screaming, probably because they were too busy sleeping. Henry also taught a course once. He was not actually convicted on any harassment charges.
+
+George Henry has no two body problem since he's never had a relationship last more than three days.
+
+In short, there are several great complexity theorists on the market this year but since your department has no chance of hiring any of them you might as well look at Henry.
+
+Sincerely,
+
+Lance Fortnow
+

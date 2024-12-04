@@ -1,0 +1,1 @@
+OSRM Tracing Linux Patents in EU In an effort to stem the spread of software patents in Europe, the Open Source Risk Management (OSRM) group has begun documenting the sources of innovation claimed by such patents.

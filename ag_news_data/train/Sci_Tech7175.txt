@@ -1,0 +1,1 @@
+Worm Seeks Out Network Passwords Sdbot  quot;spreads via network shares using NetBEUI functions to get ... user names and passwords, quot; says security firm Trend Micro.

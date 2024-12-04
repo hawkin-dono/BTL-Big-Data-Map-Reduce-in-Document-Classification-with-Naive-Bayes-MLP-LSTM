@@ -1,0 +1,1 @@
+Emulex Debuts 4-Gbps Fibre Channel Silicon Emulex Corp. unveiled Tuesday its new FibreSpy switch-on-a-chip SOC 804 family of embedded storage for OEM customers looking to build to the new 4-gigabit Fibre Channel standard.

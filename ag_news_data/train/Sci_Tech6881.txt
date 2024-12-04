@@ -1,0 +1,1 @@
+IBM Touts Entry-Level Linux Servers IBM today rolled out its eServer OpenPower family of entry-level Linux servers, positioning the systems as cost-effective alternatives to Solaris boxes offered by archrival Sun Microsystems.

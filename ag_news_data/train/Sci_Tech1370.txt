@@ -1,0 +1,1 @@
+New worm uses IM to lure victims A new version of the worm that spread from infected Microsoft Corp. Internet Information Services (IIS) Web servers in June has been identified and is using instant messages (IMs) and infected Web sites in Russia, Uruguay and the U.S. to spread itself, according to one security company.

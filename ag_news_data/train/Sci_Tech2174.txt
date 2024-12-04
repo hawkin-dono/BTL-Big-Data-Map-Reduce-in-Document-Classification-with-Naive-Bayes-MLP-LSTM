@@ -1,0 +1,1 @@
+Concept virus works on AMD64 Virus writers have created a proof-of-concept file infector specifically for machines that run Advanced Micro Devices Inc. #39;s AMD64 64-bit processors, antivirus companies said yesterday.

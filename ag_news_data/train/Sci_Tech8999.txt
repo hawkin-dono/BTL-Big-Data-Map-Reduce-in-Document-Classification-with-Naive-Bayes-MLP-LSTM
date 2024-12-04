@@ -1,0 +1,1 @@
+Exploit posted for Microsoft JPEG flaw Computer code that takes advantage of a flaw in the way many Microsoft Corp. applications process JPEG images has been published on the Internet and could be a precursor to actual attacks on vulnerable PCs, experts said.

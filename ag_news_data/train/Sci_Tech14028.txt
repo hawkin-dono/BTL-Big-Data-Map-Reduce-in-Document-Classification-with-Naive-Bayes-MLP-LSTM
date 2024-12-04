@@ -1,0 +1,1 @@
+IBM #39;s Dream Deferred When IBM started talking about its next generation version of WebSphere Appli-cation Server (code named Vela) late last year, company officials were all hopped up about how the upcoming product was to be the first componentized version of the server.

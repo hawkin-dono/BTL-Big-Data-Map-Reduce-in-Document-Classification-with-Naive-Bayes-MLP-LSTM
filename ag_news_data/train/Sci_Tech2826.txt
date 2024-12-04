@@ -1,0 +1,1 @@
+Nokia, Vodafone push for mobile Java standards The world's largest mobile phone manufacturer and Europe's largest wireless operator have launched an initiative to simplify Java standards for mobile devices in a move aimed to help developers create software for multiple Java-enabled devices, thus providing users with a wider choice of Java-based applications.

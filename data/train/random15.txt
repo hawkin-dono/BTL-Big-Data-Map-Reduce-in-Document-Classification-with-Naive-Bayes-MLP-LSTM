@@ -1,0 +1,17 @@
+August 24, 2006 - Blogs, modal checkboxes and action buttons
+
+    Jana wrote:
+
+        I have been trying to figure out why the radio buttons for published/draft status in some blog applications seem wrong to me.
+        ....
+        >In my case I am particularly concerned about a checkbox on a properties form that essentially says "make available". (This is applied to a blog entry)
+
+        I was trying to figure out if "being available" is a state or a property. I believe that this should effect whether it is applied through an action or through the existing checkbox in a form.
+
+    I think you describe another case of mode button related to the recent discussion of Play/Pause toggle.
+
+    In the case you have described, blog entry status ("state", "mode", "property") and action to change the status are combined in one checkbox, hence are confusing (the alternative to "make available" is not obvious).
+
+    Raskin describes similar example in The Humane Interface and recommends using a pair of radiobuttons instead of one check box. That would work, but, personally, I would prefer to separate status indicator ("Draft" label, for instance) and action button ("Publish").
+
+    Related thought: "Publish" is probably the single most important and frequently used action in a blog ("Unpublish" could be more important, occasionally). It should be accessible via visible button, not hidden in an obscure checkbox in properties form.

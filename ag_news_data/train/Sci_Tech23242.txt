@@ -1,0 +1,1 @@
+Apple releases AirPort 4.1 (MacCentral) MacCentral - Apple on Monday released AirPort 4.1, an update to the drivers for its wireless networking hardware running under Mac OS X v10.3. AirPort 4.1 is available for download from the Software Update system preference pane, and more information is available online.

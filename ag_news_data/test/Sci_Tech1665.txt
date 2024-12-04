@@ -1,0 +1,1 @@
+New strain of Skulls Trojan hits smart phones Mobile phones running Symbian's Series 60 operating system are the target of a new strain of the Skulls Trojan horse program. The new Trojan comes with the Cabir.B worm, which, unlike the first version of the virus, can spread to other phones within reach of Bluetooth broadcasting range.

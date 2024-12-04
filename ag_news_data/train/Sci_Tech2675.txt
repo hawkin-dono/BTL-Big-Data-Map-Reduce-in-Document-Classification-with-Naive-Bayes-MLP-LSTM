@@ -1,0 +1,1 @@
+Newisys paves way for 16-, 32-chip Opteron servers Company looks to leap past current limit of eight Opteron processors in a single server.

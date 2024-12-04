@@ -1,0 +1,1 @@
+Virus writers exploit Microsofts monthly patch cycle The creators of the Bofra worm, which exploits the recently discovered iFrame vulnerability in Internet Explorer, may have timed the release of their worm to throw Microsofts monthly patch cycle into disarray, say security experts.

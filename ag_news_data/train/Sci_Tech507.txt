@@ -1,0 +1,1 @@
+Sidebar: The nuts and bolts of COM -- Objects, Interfaces and GUIDs A quick course in how some of the most esoteric aspects of COM work.

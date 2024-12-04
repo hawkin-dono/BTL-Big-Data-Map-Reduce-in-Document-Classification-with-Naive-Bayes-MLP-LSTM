@@ -1,0 +1,1 @@
+News: MS plugs weak XP firewall Microsoft this week quietly fixed a security weakness in the configuration of the built-in firewall component of Windows XP.

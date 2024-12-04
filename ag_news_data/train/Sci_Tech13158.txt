@@ -1,0 +1,1 @@
+IBM: JBoss more of threat to BEA Robert Sutor, IBM #39;s director of WebSphere Foundation Software, told ZDNet UK on Friday at a press briefing in Montpellier that the open-source application server JBoss was more of threat to BEA than to IBM #39;s own application server software WebSphere.

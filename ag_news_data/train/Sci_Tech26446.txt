@@ -1,0 +1,1 @@
+Brief: IBM to market Sybase Linux database IBM and Sybase have agreed to add support for Sybase's database software on IBM's eServer OpenPower Linux servers, and the two companies will jointly sell and market each other's products.

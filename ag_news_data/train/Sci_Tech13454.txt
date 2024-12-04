@@ -1,0 +1,1 @@
+Interview with Chris Schlaeger from Novell/SUSE At aKademy I had the chance to talk to Chris Schlaeger about SUSE, its relationship with the KDE community, his view of the Linux enterprise desktop and the speed of development of several key features in KDE (a Dutch translation can be found at Bart amp;David 

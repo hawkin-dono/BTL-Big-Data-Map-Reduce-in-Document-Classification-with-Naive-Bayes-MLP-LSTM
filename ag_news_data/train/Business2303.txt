@@ -1,0 +1,1 @@
+Trading Privacy for Convenience A test project, now in use at Reagan National Airport, aims to give frequent fliers a quicker pass through security checkpoints by using the latest biometric technologies -- such as eye scans -- to verify a passenger's identity.

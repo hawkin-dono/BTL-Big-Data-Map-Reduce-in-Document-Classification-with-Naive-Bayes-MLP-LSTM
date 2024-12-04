@@ -1,0 +1,1 @@
+Gizza job, plead virus writers Three new MyDoom variants have been found in the wild that contain not only malicious code but a plea for a job. MyDoom U, V and W attempt to download a Trojan called Surila onto users #39; computers, which would 

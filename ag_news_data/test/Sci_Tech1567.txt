@@ -1,0 +1,1 @@
+Skulls Trojan keelhauls Symbian phones Users with Symbian-based mobile phones have been hit by malicious code that disables smartphone features. Skulls, a Trojan horse program that poses as gaming software, is one of the first examples of malicious code to successfully infect mobiles.

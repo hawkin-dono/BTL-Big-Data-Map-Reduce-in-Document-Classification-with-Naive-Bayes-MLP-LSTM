@@ -1,0 +1,15 @@
+
+Show Us Your Research
+
+Now that most of the FCRC Deadlines have passed, I would again suggest that you post your papers on a public archive like the Electronic Colloquium on Computational Complexity or the Computing Research Repository. The world wants to know about your research.
+
+Which one should you choose? You don't have to, you can freely submit to both ECCC and CoRR. But how do they compare? [Disclosure: I am on the ECCC Scientific Board.]
+
+    * ECCC focuses on computational complexity though often contains papers across theoretical computer science. CoRR broadly covers all of computer science (with tags for subfields) and is part of the arXiv project covering physics and math as well.
+    * An article has to be approved by an ECCC board member to meet a minimum standard before it can appear. CoRR only checks for relatedness to the topic area.
+    * Both plan to have papers posted forever. ArXiv is currently run by the Cornell Library that gives stronger backing to this promise. However every paper on the ECCC and CoRR should later appear in a conference proceedings and/or journal.
+    * ECCC takes postscript submissions. CoRR prefers LaTeX submissions and processes them with hypertex.
+    * Both systems allow revisions and all versions remain available.
+    * ECCC has a (not-so-user-friendly) discussion system and email announcements of new papers. CoRR has RSS feeds for each subject class. Both systems plan to continually update their interfaces and features. 
+
+

@@ -1,0 +1,1 @@
+Symantec: Anti-Blocking Software Is A Trojan According to a report in the Financial Times, Symantecs local office has announced that a program called Freegate, which allows users in China to access government-blocked Web sites, should be considered a Trojan horse.

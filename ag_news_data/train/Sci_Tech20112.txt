@@ -1,0 +1,1 @@
+CA ships Ingres r3 database for Linux As expected, Computer Associates (CA) is now shipping the Ingres r3 database for Linux following last summer #39;s announcement it would be available under an open source license.

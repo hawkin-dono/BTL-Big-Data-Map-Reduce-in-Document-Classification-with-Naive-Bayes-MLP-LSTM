@@ -1,0 +1,1 @@
+Flaw opens crack in Windows servers A flaw in popular Windows server software could allow remote attacks to be launched against systems, Microsoft has confirmed. The vulnerability is in Windows Internet Name Service, or WINS, a network infrastructure 

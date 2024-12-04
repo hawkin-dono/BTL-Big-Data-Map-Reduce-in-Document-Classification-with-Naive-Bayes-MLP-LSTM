@@ -1,0 +1,1 @@
+Word mangled by unpatched security hole A highly critical and unpatched security hole in Microsoft #39;s ubiquitous Word software could be used to launch a denial of service attack and give system access.

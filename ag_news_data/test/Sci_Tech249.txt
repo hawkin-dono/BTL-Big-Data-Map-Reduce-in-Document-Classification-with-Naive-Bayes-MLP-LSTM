@@ -1,0 +1,1 @@
+Microsoft To Ship Longhorn in 2006 Without WinFS Microsoft will ship its next Windows client code-named Longhorn in 2006 as originally promised -- but without the next-generation file system known as WinFS.

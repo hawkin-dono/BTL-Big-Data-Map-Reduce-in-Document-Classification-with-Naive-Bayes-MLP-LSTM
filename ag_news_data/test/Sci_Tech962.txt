@@ -1,0 +1,1 @@
+New bug found in MySQL Users of the increasingly popular, open-source MySQL database may be at risk from remote attacks due to a bug in phpMyAdmin, a widely used Web-based MySQL administration tool.

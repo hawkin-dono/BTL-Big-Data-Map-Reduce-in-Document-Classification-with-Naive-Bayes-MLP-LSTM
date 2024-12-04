@@ -1,0 +1,15 @@
+Understanding Proofs 
+When do you understand a proof? Such understanding has many levels. 
+Knowing the rough techniques used. 
+Following the proof line by line. 
+Can recreate the proof. 
+Can explain the proof to others. 
+If someone else claims a mistake in the proof, you can show them why they are wrong. 
+Applying the proof techniques to other theorems. 
+For me for example, Toda's theorem I fully understand; the PCP theorem I sort of understand (though hopefully I'll understand it better after I teach Dinur's proof in the fall) and the parallel repetition theorem I will never understand in its current form. 
+Why do we understand proofs? 
+Part of the job, as a referee, reviewer or advisor. 
+We care about the theorem, because it is important and/or something we've worked on. 
+We've heard the proof is nice and short and worth reading. 
+We want to apply the proof techniques to other problems. 
+Unfortunately I suspect most proofs are read with the last goal in mind. A nice proof is a work of art, something to be savored, not something to be milked.

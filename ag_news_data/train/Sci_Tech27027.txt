@@ -1,0 +1,1 @@
+Apple releases December Security Update (MacCentral) MacCentral - Apple Computer Inc. on Thursday released its December security update. The 12.7MB download consists of several updated components including Apache, AppKit, HIToolbox, Kerberos, Postfix, PSNormalizer, Safari and Terminal.

@@ -1,0 +1,1 @@
+Microsoft Includes SP2 in Windows XP Embedded Customers using Windows XP Embedded will be able to use a downloadable preview to test the new software for conflicts with existing drivers.

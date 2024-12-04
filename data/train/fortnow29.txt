@@ -1,0 +1,19 @@
+The Job Talk
+
+As we begin January so begins the hiring season. In January CS departments start sifting through candidates deciding whom to bring in for interviews. Don't wait until you get your interview call, now is the time to get your job talk ready.
+
+Year in Review
+
+The paper of the year goes to Settling the Complexity of 2-Player Nash-Equilibrium by Xi Chen and Xiaotie Deng which finished characterizing the complexity of one of the few problems between P and NP-complete. The paper won best paper award at FOCS.
+
+The story of the year goes to Grigori Perelman, his proof of the Poincaré Conjecture, his declining of the Fields Medal and Shing-Tung Yau's portrayal in the New Yorker and the lawsuit threat that followed. Science magazine named Perelman's proof the Breakthrough of the Year.
+
+Meanwhile the theory-friendly number theorist Terrence Tao accepted his Fields medal and CMU cryptographer Luis von Ahn and Tao won MacArthur genius awards.
+
+My post FOCS Accepts and a Movie received over 200 comments mostly about the state of the theory conferences. Sadly the movie and the rest of the science.tv site have disappeared. I also finished my favorite complexity theorems, at least for now.
+
+In 2006 we celebrated the centennials of the births of Kurt Gödel and Richard Rado and mourned the early death of Mikhail Alekhnovich.
+
+Thanks to guest blogger Claire Kenyon, guest posters Eldar Fischer, Jérémy Barbay, Janos Simon and podcast guests Luis Antunes, Eldar Fischer, Troy Lee and his opponents. The biggest thanks to Bill Gasarch who did all of the above several times.
+
+Happy New Years to all my readers and let's look forward to an exciting FCRC and a renewed US commitment to increased funding in the basic sciences.

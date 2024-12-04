@@ -1,0 +1,1 @@
+Microsoft Licenses ActiveSync For Motorola, PalmOne Smart Phones Microsoft has licensed its ActiveSync technology to OEM partners Motorola and PalmOne to enable a new class of non-Windows smart phones to wirelessly synchronize with Exchange Server 2003.

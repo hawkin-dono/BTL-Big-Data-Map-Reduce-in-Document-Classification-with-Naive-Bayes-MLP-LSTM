@@ -1,0 +1,1 @@
+IBM hails automation in database upgrade IBM on September 17 will ship the first major upgrade to its DB2 Universal Database data management platform in nearly two years, focusing on functional automation, advanced clustering and Web services deployment.

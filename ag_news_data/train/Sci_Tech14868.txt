@@ -1,0 +1,1 @@
+Sun Microsystems, Microsoft Cozying Up Former rivals Sun Microsystems and Microsoft have been working together to make their products more compatible -- permitting Windows to run on Sun #39;s hardware and making StarOffice and Java Runtime Environment compatible with XP SP2.

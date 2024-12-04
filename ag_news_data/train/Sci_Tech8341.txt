@@ -1,0 +1,1 @@
+Apple ships security patch for iChat Apple Computer last week released a security patch for its Mac OS X iChat instant messaging client, which contains a flaw that hackers could use to takeover a person #39;s computer.

@@ -1,0 +1,1 @@
+Double MyDoom for Internet Explorer flaw A second version of the MyDoom variant that uses a flaw in Internet Explorer has started to spread, antivirus researchers said on Tuesday.

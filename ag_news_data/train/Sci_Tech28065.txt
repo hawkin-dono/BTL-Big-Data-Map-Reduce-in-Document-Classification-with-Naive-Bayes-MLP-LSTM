@@ -1,0 +1,1 @@
+AMD cuts power on 90nm Opteron processors Advanced Micro Devices managed to reduce the maximum thermal output of its newly released 90 nanometer Opteron server processors by 25 percent compared to the previous generation, the company said Wednesday.

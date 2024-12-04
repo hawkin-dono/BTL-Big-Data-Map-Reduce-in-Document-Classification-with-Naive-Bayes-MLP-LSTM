@@ -1,0 +1,1 @@
+Russian Trojan sends SMS spam A Trojan virus has that uses infected computers to send SMS spam to mobile phones in Russia has been discovered. The Delf-HA Trojan uses the infected PC to exploit the  quot;send an SMS for free quot; service common on a number of Russian mobile operator websites.

@@ -1,0 +1,1 @@
+Public Exploit For Windows JPEG Bug Khoo writes  quot;A sample program hit the Internet on Wednesday, showing by example how malicious coders could compromise Windows computers by using a flaw in the handling of a widespread graphics format by Microsoft #39;s software.

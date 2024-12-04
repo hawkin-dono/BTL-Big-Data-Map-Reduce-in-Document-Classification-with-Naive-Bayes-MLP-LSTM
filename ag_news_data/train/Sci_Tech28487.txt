@@ -1,0 +1,1 @@
+AMD, IBM Speed Up Chips With Strained Wafers Researchers at IBM and AMD have improved a chip-making technology called strained silicon. Their announcement, of a new and unique strained silicon transistor technology, is aimed at improving processor performance and power efficiency.

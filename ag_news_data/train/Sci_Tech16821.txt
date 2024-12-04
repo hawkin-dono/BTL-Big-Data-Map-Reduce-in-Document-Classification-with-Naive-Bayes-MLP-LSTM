@@ -1,0 +1,1 @@
+ARM's new Cortex cores deliver big punch in small chip SANTA CLARA, CALIFORNIA - Chip designer Arm Ltd.'s new Cortex family of processor cores will help designers of mobile and embedded devices build powerful systems that use less memory, the company said Tuesday at its developer conference.

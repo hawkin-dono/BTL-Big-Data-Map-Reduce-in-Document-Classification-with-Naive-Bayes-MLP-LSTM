@@ -1,0 +1,1 @@
+Security researchers say JPEG virus imminent A Trojan horse that exploits a recent critical flaw in Microsoft Windows #39; handling of JPEG images has been posted to several newsgroups, but it has no way to spread, security experts said Tuesday.

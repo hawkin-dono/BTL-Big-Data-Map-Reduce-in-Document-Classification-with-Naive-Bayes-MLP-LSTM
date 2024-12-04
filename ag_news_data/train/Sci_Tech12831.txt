@@ -1,0 +1,1 @@
+Kodak wins patent lawsuit against Sun A federal jury in New York has ruled that Sun violated several patents held by Eastman Kodak when it developed its Java technology.

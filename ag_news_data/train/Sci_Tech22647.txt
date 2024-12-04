@@ -1,0 +1,1 @@
+Vendors seek certification for application security tools Four small security software vendors have teamed up to develop a set of technical criteria for tools designed to secure Web applications. They also invited Cisco and other large IT vendors to take part in the certification program.

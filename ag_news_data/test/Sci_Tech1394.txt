@@ -1,0 +1,1 @@
+Microsoft Patches for ISA Server 2000 and Proxy Server 2.0 Microsoft has released bulletin MS04-039 reporting a security vulnerability in Internet Security and Acceleration (ISA) Server 2000 and in Proxy Server 2.0, and has also announced the availability of the patches to resolve these issues.

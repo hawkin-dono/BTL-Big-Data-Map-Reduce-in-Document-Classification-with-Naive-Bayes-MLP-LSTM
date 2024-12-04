@@ -1,0 +1,1 @@
+IBM researchers eye 100TB tape drive ALMADEN, CALIFORNIA -- IBM has begun work on new technologies designed to boost the capacity of tape storage devices by 250 times. Using "nanopatterning" techniques derived from the company's microprocessor division, researchers say they expect to one day build cartridges that can store as much as 100TB of data.

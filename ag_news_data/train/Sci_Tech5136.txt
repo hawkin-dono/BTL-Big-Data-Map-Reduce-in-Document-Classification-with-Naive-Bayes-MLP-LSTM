@@ -1,0 +1,1 @@
+Traffic management shifting lanes The application traffic management space is getting resurfaced as vendors such as F5, Radware, and Redline green-light new products with traffic compression, DoS attack protection, server-side caching, and other features aimed at simplifying and lowering the cost of network management.

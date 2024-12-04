@@ -1,0 +1,1 @@
+Microsoft issues patch for 'critical' JPEG-handling flaw Microsoft has released a "critical" patch to fix a security flaw affecting how Windows, Office and developer tools software programs process images in the JPEG image format.

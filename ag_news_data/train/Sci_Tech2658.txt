@@ -1,0 +1,1 @@
+Dual-core chips bring dual caches Dual-core chips that AMD and Intel plan to bring to market next year won't be sharing their memories.

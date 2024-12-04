@@ -1,0 +1,21 @@
+A Busy Week
+
+I used to just stay off the Internet completely during a vacation week. But the net has just become so useful that one cannot ignore it, for example using my iPhone and the free WiFi at a Norwegian café to track down the Munch in Bergen. I use Skype to call home and download the New York Times on my Kindle. But I avoid all CS stuff: No email, blogs or Twitter. I just don't want to read anything that gets me upset or makes me feel I need to accomplish even a small task.
+
+This week we have many end-of-summer conferences and workshops. A sampling.
+
+    * In Princeton, the Barriers in Computational Complexity workshop. Each day they take a different research area and discuss the problems we don't know how to solve starting today with Boolean complexity and P v. NP. Hopefully Scott will post about the workshop but if someone would like to guest post for this blog let me know.
+    * The Mathematical Foundations of Computer Science Symposium, the Eastern European theory conference, in the Northern mountains of Slovakia. Muthu is an invited speaker and blogging about the experience.
+    * In Lyon the Conference on Very Large Data Bases (sic). Suresh is Twittering the conference as I write this.
+    * Right here in Chicago, the International Symposium on Mathematical Programming, the triennial OR meeting. Tallys Yunes is blogging. On Sunday they gave several major awards:
+          o Dantzig Prize: Gérard Cornuéjols
+          o Tucker Prize: Mohit Singh. Tobias Achterberg and Jiawang Nie were the other finalists.
+          o Lagrange Prize in Continuous Optimization: Jean Bernard Lasserre
+          o Beale-Orchard-Hays Prize: Tobias Achterberg
+          o Fulkerson Prize (awarded to three research groups):
+                + Maria Chudnovsky, Neil Robertson, Paul Seymour and Robin Thomas (for proving the Strong Perfect Graph conjecture)
+                + Daniel Spielman and Shang-Hua Teng (smoothed analysis)
+                + Thomas Hales and Samuel Ferguson (for proving the Kepler conjecture)
+
+
+I'm not attending any of the above, though I'm a bit sorry I'm missing Princeton. My older daughter starts high school this week, the younger one middle school. Both are joining schools much larger than the previous one and both are a bit nervous so I'm here for moral and other support. And besides it gives me a chance to catch up on the mountain of email I ignored on vacation.

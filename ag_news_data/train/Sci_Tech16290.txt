@@ -1,0 +1,1 @@
+IBM Adds 64-Way pSeries, iSeries OCTOBER 18, 2004 (COMPUTERWORLD) - IBM last week completed its lineup of servers based on its Power5 chips by adding high-end pSeries and iSeries models that can support up to 64 processors, double the previous threshold for CPUs.

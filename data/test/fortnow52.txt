@@ -1,0 +1,9 @@
+Using the web you may run into self-reference
+
+While the web is a wonderful to find things out there are times when it doesn't quite work.
+
+   1. An old blog of Scott Aaronson's had as part of its title a Woitian Link. Wanting to find out what a Woitian Link is but not wanting to bother Scott (he's busy enough making comments on Shtetl-Optimized) I went to Google and typed in "Woitian Link". The ONLY hits I got back were to Scott's blog. I finally had to email Scott. He told me that it was referring to the blog not even wrong by Peter Woit which often has links that... Well, Scott never told me quite what it was but I'll go there myself and try to figure it out.
+   2. An old blog of mine was the man who loved algorithms. Part of my blog said that I thought the man would be Knuth but it was not. (It was Thomas Kailath) One of the commenters said that it couldn't be Knuth since he was still alive. This made me want to check the original article to see if Thomas Kailath, is also still alive (he is). I didn't have the issue with me at the time so I typed "the man who loved algorithms" into Google. The first page of hits all referred to my posting. Eventually I found one to verify that yes, indeed, he was still alive.
+   3. Donald Knuth VOLUME FOUR is actually OUT in a series of fascicle's. Whats a fascicle? Here the web was helpful- Wikipedia said it was a book that comes out in short pieces, the pieces of which are called `fascicle'. They gave only one example: Donald Knuth's Volume 4 will be coming out in Fascicle. Still, they DID tell me what I want to know. (Note- this was a while back, they have since removed that comment.) 
+
+For most things the web is great. But for some more obscure things, better off asking someone who knows stuff. 

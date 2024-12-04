@@ -1,0 +1,1 @@
+IronPort Appliance Uses E-Mail Analysis To Fight Viruses New version of IronPort product draws on data from E-mail-monitoring network to quarantine viruses within minutes. By Thomas Claburn.

@@ -1,0 +1,1 @@
+File and Printer Sharing Insecure in XP SP2 ProKras writes  quot;German magazine PC-Welt has discovered a major security flaw in Windows XP SP2 when installing over SP1. The article says that  #39;with a certain configuration, your file and printer sharing data 

@@ -1,0 +1,1 @@
+NetApp updates Data ONTAP software NOVEMBER 15, 2004 (COMPUTERWORLD) - Network Appliance Inc. today brought out the latest version of its Data ONTAP software, which it said creates a grid storage architecture on its appliances by creating an 

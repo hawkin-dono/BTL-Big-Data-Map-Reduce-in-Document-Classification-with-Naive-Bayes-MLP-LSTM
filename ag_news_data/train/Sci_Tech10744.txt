@@ -1,0 +1,1 @@
+Adobe pushing for DNG photo standard Adobe is currently trying to push a new image format standard to solve many of the problems associated with the plethora of camera hardware and the differing formats they use for storing images.

@@ -1,0 +1,1 @@
+Solaris 10 to launch November 15 The suspense is finally over. On November 15, Sun Microsystems will finally launch its much-anticipated Solaris 10 Unix operating system for UltraSparc, Sparc64, and x86 platforms.

@@ -1,0 +1,1 @@
+Last minute name change for Nvidia #39;s new GeForce 6200 with &lt;b&gt;...&lt;/b&gt; PCI Express allows Nvidia to tap into system memory to save expensive on-board graphics memory and achieve high performance at the same time.

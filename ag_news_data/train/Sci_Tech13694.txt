@@ -1,0 +1,1 @@
+Microsoft stops winking on MSN 7.0 beta Microsoft has delayed beta testing of the next version of MSN Messenger because of a security flaw. Vulnerabilities were discovered in MSN Messenger 7.0, due to be released today, after testers found it had 

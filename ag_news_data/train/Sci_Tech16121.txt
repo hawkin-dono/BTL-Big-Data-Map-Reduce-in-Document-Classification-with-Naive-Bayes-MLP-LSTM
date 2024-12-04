@@ -1,0 +1,1 @@
+BPL Interference Evaluation Tool: I have developed a tool to assist in evaluating the effects of BPL on a radio receiving installation. The tool allows you to determine using your own Antenna and receiver installation parameters, the effect that BPL might have on your installation.

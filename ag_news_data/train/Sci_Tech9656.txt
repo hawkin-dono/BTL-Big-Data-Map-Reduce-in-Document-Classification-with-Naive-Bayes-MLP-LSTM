@@ -1,0 +1,1 @@
+Credit-Card Processor Hit by DDoS Attack Credit-card transaction processing firm Authorize.Net has been hit by a series of distributed denial-of-service attacks that have caused temporary disruptions in service to some of its customers.

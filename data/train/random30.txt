@@ -1,0 +1,80 @@
+On Transport Theory
+
+
+Posted by urs
+
+
+MathML-enabled post (click for more details).
+
+On Wed., Feb. 22, 18:00 there will be a talk (Hamburg math department)
+
+
+On Transport Theory
+
+
+Abstract:
+
+
+
+
+n-transports are an n-functors  
+describing 
+
+
+•
+parallel trasport in n-bundles
+
+•
+propagation in n-dimensional QFT.
+
+
+We describe basic notions of n-transport theory,
+such as trivialization, transition and trace
+and discuss examples.
+
+
+This is a synthesis of the
+material contained in 
+[I,
+II,
+III,
+IV,
+V,
+VI].
+
+This looks fascinating. Wish I could be there to hear it. Good luck!
+
+
+Eric
+
+
+PS: How far away are you from describing string theory within this framework of transport, i.e. QFT, on loop space (if that was the goal)? :)
+
+Posted by:
+Eric on February 17, 2006  6:06 PM | Permalink
+
+| Reply to this
+
+
+
+
+
+Re: On Transport Theory
+
+
+MathML-enabled post (click for more details).
+
+
+
+How far away are you from describing string theory within this framework of transport, i.e. QFT, on loop space (if that was the goal)? :)
+
+
+
+
+I am trying to show that certain “2-vector” transport (transport with target the 2-category C-Mod of module categories over an abelian monoidal category C) captures topological strings as described by Fukuma-Hosono-Kawai and captures CFT as described by Fuchs-Runkel-Schweigert. This does seem to work, at least concerning some aspects of these formulations.
+
+
+As I have tried to point out recently, such 2-vector transport can be understood as sort of a categorified QM. In particular, if you restrict attention to the vertical composition of 2-morphisms you do get something like QM on path space from this.
+
+
+So, I think, yes, this does work. There are however many loose ends that need to be worked out further.

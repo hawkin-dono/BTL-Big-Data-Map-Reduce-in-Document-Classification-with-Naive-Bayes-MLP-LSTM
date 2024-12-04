@@ -1,0 +1,1 @@
+Word flaw could lead to denial of service A highly critical vulnerability has been discovered in Microsoft Word 2000 and 2002, an advisory from security advisory service Secunia says.

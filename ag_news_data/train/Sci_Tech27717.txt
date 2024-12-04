@@ -1,0 +1,1 @@
+BEA Continues Service Oriented Architecture Push BEA Systems is set to release Diablo, an SOA-based application server that is the cornerstone of the upcoming WebLogic Platform 9.0.

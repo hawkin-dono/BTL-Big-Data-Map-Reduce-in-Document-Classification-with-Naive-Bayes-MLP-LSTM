@@ -1,0 +1,1 @@
+Microsoft previews 'Whitehorse' developer tools The tools, part of an upcoming Visual Studio update, are focused on making it easier to create customized Web applications.

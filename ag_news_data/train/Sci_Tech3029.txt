@@ -1,0 +1,1 @@
+NetBeans IDE beta released, tackles Java specs NetBeans.org, which oversees the NetBeans open source Java tools environment, has released a beta version of the NetBeans 4.0 IDE, featuring support for the latest Java specifications and Apache Ant-based projects.

@@ -1,0 +1,39 @@
+April 28, 2005
+On Language Complexity and Bloglines Hiring C++
+Stephen has generated a little snowball of a conversation about the role of C++.
+First came this news story, written by Ingrid Marsen, in which Bjarne Stroustrup (most inventors of successful programming languages have beards, but where did the pics go Tamir?) claims that its a misperception that C++ is being overtaken by newer languages such as Java and C#.
+"C++ is bigger than ever," Stroustrup said. "There are more than 3 million C++ programmers. Everywhere I look there has been an uprising--more and more projects are using C++. A lot of teaching was going to Java, but more are teaching C++ again. There has been a backlash."
+Tecosystems digs into the question with this post. It is worth reading the comments from folks like:
+Bryan Cantrill: "If the problem is performance-sensitive, it will be towards C and C++. If not, it will be towards dynamic languages like Python, Ruby, etc. FWIW, I see very little Python and Ruby deployed in production (and I pretty much always ask the question) -- and it's hard to even find a customer that intends to deploy Python or Ruby into production."
+Christopher Baus: "I can't say there is a deep disconnect with in the C++ community, but I feel that I am starting to disconnect with it personally. There are so many different programming styles going on in the language right now that it is literally becoming impossible to walk into a project as a "C++" developer and be guaranteed to understand what is going on." How about Python with c extensions?
+Bill de Hora: "Now, if we look at Bittorrent, or XMPP, or Jini, or JXTA, or even raw Erlang, as a middleware alternative. You can start seeing non-client-server distribution options where in extreme cases, the system will go faster as more clients come on board. Language/runtime scaling doesn't seem to matter so much there."
+Barry Lapthorn: "The whole industry is just under going a 'settling' period where people are 'choosing': (1) 'Back end' - C/C++, (2) 'Front end' - the 'VB' languages (VB, C#, Java - yeah, yeah, Java on the backend...), (3) 'glue' - the scripting languages (Ruby, perl, python, etc. ). Barry also points to this computerworld story which has some numbers on language useage.
+Ryan Tomayko is succinct as ever: "Python/Ruby and C are a great combination that provides both convenience and efficiency when you need it. C++ is really very fringe for me at this point when going into new projects but I guess I won't rule it out completely." How do I know Ryan is a genius? He can explain REST to his wife... its a brilliant primer on HTTP and REST folks...
+Now you're probably wondering what Bloglines has to do with this discussion, and why I am posting anyway. It's all about rss serendipity. Just after reading the comments, for some reason i decided to click on a link in my aggregator-Bloglines is hiring...What kind of people is the rather excellent service looking for?
+This kind: 
+
+SENIOR SOFTWARE ENGINEER, BLOGLINES
+
+Summary Description:
+Ask Jeeves, Inc. is seeking qualified candidates for the position of Sr. Software Engineer to work at our Los Gatos location. The Software Engineer will develop and implement a large scale data processing system in a distributed environment, in C++. The development tasks involve all aspects of scaling and improving a high-volume end-user focused web service.
+
+Responsibilities:
+Addressing scaling issues arising from storing large amounts of data and serving a lot of web pages
+Maintain and improve RSS crawling and parsing processes
+Implement new functionality
+Develop tools and utilities to track progress and provide statistics
+
+
+Job Requirements Technical Skill Level:
+Bachelors’s degree in Computer Science, Computer engineering, related fields or equivalent field experience. 
+Very strong C and C++ understanding and development abilities
+Very strong UNIX abilities, including multithreaded/multiprocess development skills
+Good understanding of web protocols such as HTTP and HTTPS
+Good understanding of performance issues in a UNIX system and distributed environment
+Familiarity with web templating systems
+Familiarity with RSS and blogs
+Familiarity with scripting languages such as Python, Perl, or Bash
+Familiarity with databases such as Sleepycat, GDBM, or MySQL
+Quick and Dirty Takeway? Bloglines sees C++ as performance glue, the essential foundation for a highly scalable service. Everything else is about interaction models - which is why all that's called for is "familiarity" rather than depth.
+Flickr, awesome though it is, has had plenty of scaling issues and performance problems recently. Note it evidently isn't looking for C++ experience. 
+Quick and Dirty and fully blog clustered - is that blustered?

@@ -1,0 +1,1 @@
+Linux groups patch image flaw com December 8, 2004, 2:48 PM PT. Several flaws in common Linux code used to process graphics in the GNOME desktop environment could allow an attacker to compromise a computer that 

@@ -1,0 +1,1 @@
+Sophos corrects 'theoretical' flaw Security software maker updates antivirus engine to plug hole that lets virus writers manipulate compressed files and avoid detection.

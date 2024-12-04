@@ -1,0 +1,1 @@
+New IE hole could perfect phishing scams A newly reported security problem in Microsoft's Internet Explorer (IE) Web browser allows attackers to create a fake Web site that looks exactly like a genuine site.

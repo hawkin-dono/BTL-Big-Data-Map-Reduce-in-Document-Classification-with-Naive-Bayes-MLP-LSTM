@@ -1,0 +1,1 @@
+Intel Introduces New Itanium, but Microsoft Skips It (NewsFactor) NewsFactor - Intel has introduced a third-generation Itanium 2 into the market, but Microsoft (Nasdaq: MSFT) has noted that its Windows Server 2003 Compute Cluster Edition will not run on servers with the chip.

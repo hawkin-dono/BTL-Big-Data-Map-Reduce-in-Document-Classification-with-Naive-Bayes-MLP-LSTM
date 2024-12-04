@@ -1,0 +1,1 @@
+Finnish Warn against IE6 Authorities in Finland have warned their citizen against using Microsofts Internet Explorer 6, citing a serious security flaw within the browser.

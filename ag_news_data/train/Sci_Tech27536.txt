@@ -1,0 +1,1 @@
+Mozilla #39;s Thunderbird is go The Mozilla Foundation has released version 1.0 of its Thunderbird open source email client, following up on the successful recent launch of its Firefox web browser, and delivering new anti-spam and anti-virus technology to the desktop.

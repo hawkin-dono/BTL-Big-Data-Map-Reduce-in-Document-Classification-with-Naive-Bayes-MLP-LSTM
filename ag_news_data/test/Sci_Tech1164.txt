@@ -1,0 +1,1 @@
+Security report: Windows vs Linux Much ado has been made about whether or not Linux is truly more secure than Windows. The results were not unexpected. Even by Microsoft #39;s subjective and flawed standards, fully 38 of the most recent patches address flaws that Microsoft ranks as Critical.

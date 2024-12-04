@@ -1,0 +1,1 @@
+Double MyDoom for Internet Explorer flaw A second MyDoom offshoot is taking advantage of an unpatched security hole in Microsoft's Web browser to spread.

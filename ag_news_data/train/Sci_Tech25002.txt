@@ -1,0 +1,1 @@
+Hackers Target IE through Ad Networks During the course of this weekend, hackers found an ingenious way to attack Microsofts ubiquitous Internet Explorer: compromise an ad networks servers.

@@ -1,0 +1,1 @@
+New Worm Attacks MSN Messenger As Service Falters Another candidate in the growing list of exploits on instant messaging clients and servers arrived in the wild. Called W32.Funner, the worm on Monday circulated to attack on the Windows Messenger platform.

@@ -1,0 +1,1 @@
+Borland folding CBuilder into Delphi Borland Software in 2005 plans to fold its CBuilder developer tool line into the companys Delphi IDE tool family for Windows application development, thus answering the question about what the company had planned to do with the technology.

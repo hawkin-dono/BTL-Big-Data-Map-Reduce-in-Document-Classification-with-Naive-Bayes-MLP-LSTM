@@ -1,0 +1,1 @@
+Blocking JPEGs no defence against Windows vulnerability One of the standard security tactics enterprises apply won #39;t work when defending PCs against threats posed by the image processing flaw found last week in Windows and numerous applications, according to security experts.

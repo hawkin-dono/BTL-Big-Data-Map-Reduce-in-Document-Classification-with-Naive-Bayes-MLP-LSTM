@@ -1,0 +1,1 @@
+Microsoft details new domain-specific modeling tools Microsoft has announced a new framework and tool for Visual Studio Team System to support the creation of service-oriented applications for various vertical industries.

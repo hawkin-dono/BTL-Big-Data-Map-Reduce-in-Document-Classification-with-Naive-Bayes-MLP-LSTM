@@ -1,0 +1,1 @@
+Flaw in Firefox fixed THE MOZILLA FOUNDATION has announced that a hole in its Firefox software has been patched. Firefox suffers from a vulnerability that could allow hackers to delete all the files in the Download directory.

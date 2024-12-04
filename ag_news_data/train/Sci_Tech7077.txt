@@ -1,0 +1,1 @@
+IBM Contributes Speech Recognition Software to Open Source IBM will donate key speech-recognition software to the open-source Apache Foundation in hopes of promoting standardization in speech-enabled applications.

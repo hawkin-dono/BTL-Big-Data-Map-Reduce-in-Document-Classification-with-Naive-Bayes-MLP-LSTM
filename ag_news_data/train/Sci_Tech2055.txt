@@ -1,0 +1,1 @@
+Sophos: Worm Spies on Innocent Computer Users Sophos believes that the W32/Rbot-GR worm is evidence of a growing trend of more and more malware spying on innocent home computer owners and poorly-protected businesses.

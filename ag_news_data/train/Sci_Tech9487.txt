@@ -1,0 +1,1 @@
+Microsoft Expands Code Sharing For a number of years, Microsoft has allowed government entities in most of the world access to the source code for Windows; as of today, Microsoft is expanding this so-called Shared Source Initiative to include Office.

@@ -1,0 +1,1 @@
+Samsung #39;s MMCmicro shrinks flash memory further Yet another card format is here, spun off of the venerable MMC format by Samsung. This one is small enough to fit on a key of a keyboard, or into the smallest device.

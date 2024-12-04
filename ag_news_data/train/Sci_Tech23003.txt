@@ -1,0 +1,1 @@
+BEA adds app server support to Beehive BEA Systems at the ApacheCon conference in Las Vegas on Monday is adding the Jonas and Geronimo application servers as platforms supporting the Project Beehive open source development initiative.

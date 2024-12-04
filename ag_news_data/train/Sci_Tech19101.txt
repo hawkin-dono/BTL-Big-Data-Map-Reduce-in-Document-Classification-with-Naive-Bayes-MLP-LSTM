@@ -1,0 +1,1 @@
+Sender-ID Back from the Dead With the closure of IETF #39;s MARID group a month ago, many of us have left Microsoft #39;s Sender-ID standard for the dead. After being rejected by the Apache Foundation and the Debian Project over licensing issues 

@@ -1,0 +1,1 @@
+US government, companies warn of critical Oracle flaws BOSTON - The U.S. government's Computer Emergency Response Team (US-CERT) and software security companies have issued warnings about a number of security vulnerabilities in versions of Oracle Corp.'s software.

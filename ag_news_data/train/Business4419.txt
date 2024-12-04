@@ -1,0 +1,1 @@
+Changes in check-processing lie ahead Consumers may notice their monthly bank statements are considerably lighter now that banks no longer have to return paper checks but instead can return digital images or substitute versions of the checks.

@@ -1,0 +1,1 @@
+JBoss reaches certification landmark JBoss Application Server 4.0, the next version of the open-source application server, was released on Monday. The company claims that JBoss AS 4.0 is the first open-source application server to achieve J2EE 

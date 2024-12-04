@@ -1,0 +1,1 @@
+New Skulls Program Kills Cell Phone Applications Virus authors have found new prey. They are going after Symbian based cell phones with a new trojan horse that kills applications and replaces their icons with a skull image.

@@ -1,0 +1,1 @@
+SAP Launches Security Service SAP has launched SAP Security Optimization, a service that evaluates a customer #39;s SAP system to identify and eliminate potential vulnerabilities and minimize the risk of intrusions.

@@ -1,0 +1,1 @@
+Microsoft plays down SP2 security glitches Glitches between Windows XP Service Pack 2 (SP2) and critical applications continue to emerge, with McAfee admitting its flagship VirusScan product prior to version 7.1 requires a customised patch to be operational with Windows Security Center, part of SP2 

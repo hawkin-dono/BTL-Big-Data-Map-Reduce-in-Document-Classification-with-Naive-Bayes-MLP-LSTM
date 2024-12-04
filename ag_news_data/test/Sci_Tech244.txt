@@ -1,0 +1,1 @@
+Microsoft to delay advanced search technology from Longhorn Microsoft said Friday that it is delaying the release of a new data-storage technology, named WinFS, from the next version of Windows, code-named Longhorn, in order to deliver the operating system by 2006.

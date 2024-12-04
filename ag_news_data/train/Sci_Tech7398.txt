@@ -1,0 +1,1 @@
+Microsoft patches  #39;critical #39; JPEG exploit Microsoft has issued a patch to fix the security flaw, and urges its customers to use a new utility to locate the computer applications that are vulnerable.

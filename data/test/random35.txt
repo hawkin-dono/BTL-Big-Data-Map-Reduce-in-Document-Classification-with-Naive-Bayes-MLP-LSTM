@@ -1,0 +1,25 @@
+Text
+A meeting to produce a basic list of enhancement terms for use in electronic news photo archives will be held at 10:45 a.m. Monday, June 8, in the News Division suite in the Hyatt Regency, Indianapolis. All News Division members who have or plan to have an electronic photo archive – and others who have a similar interest – are invited to participate.
+
+Background
+
+Members the News Division’s Technology Committee have been working for several years to develop a basic list of Enhancement Terms (also called keywords) for use with electronically archived news photos.
+
+The original draft was produced in 1994, using a voting method (the terms that received the most votes were included). In 1995 Tribune Company photo archivists and Library/Information Center managers, along with other interested members of the SLA News Division, created a second draft that reduced redundancies, addressed subject areas not covered, and set up general guidelines for use. It is being tested at Tribune Company newspapers and other major papers, including the Columbus Dispatch.
+
+The 1995 draft was developed in the context of fields in ANPA Bulletin 1312, which was produced by the forerunner of the Newspaper Association of America (NAA). Other relevant Bulletin 1312 fields include Category (International, Sports, Business, etc.), Subcategory and Caption, which some electronic photo archiving systems divide into Source Caption and Published Caption. The Keywords (Enhancement Terms) are designed for use in searches that include these other fields and can be used to limit or expand a search.
+
+Now that more news organizations have installed systems and are beginning to experience real situations, the time has come to produce a basic list that works for all news archives. This should help avoid repetition of the situation that occurred in the early 1980s, when nearly every news organization developed its own list of enhancement terms for text archiving. Since there was no common set of terms, an opportunity to facilitate searching across several news libraries in the commercial database services was lost.
+
+This basic list will be recommended only. Its use is, of course, not mandatory. It is expected that individual news organizations will make additions for their own use that reflect their special needs.
+
+Once the basic list is approved, it will be presented to the News Division for endorsement and registered with NAA and the International Press Telecommunications Council.
+
+For more information, please consult these documents:
+
+Intro and list – The 1995 list of terms
+Descrip – Guidelines for using the terms
+Word Groups – The 1995 list sliced and diced by general subject groups
+Columbus Changes – Terms added and deleted by the Columbus Dispatch
+Added Tribune Words – Additional terms used by Tribune Company Newspaper archivists
+Subcategories – Subcategory codes used by the Associated Press

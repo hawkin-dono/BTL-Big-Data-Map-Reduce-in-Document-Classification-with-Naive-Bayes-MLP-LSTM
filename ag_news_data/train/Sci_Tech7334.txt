@@ -1,0 +1,1 @@
+Internet group rejects Microsoft #39;s anti-spam solution The Internet Engineering Task Force (IETF) has provisionally rejected Sender ID, a proposed anti-spam specification from Microsoft, because of a possible intellectual property rights conflict.

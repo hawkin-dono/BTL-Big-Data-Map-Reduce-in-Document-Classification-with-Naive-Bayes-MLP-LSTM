@@ -1,0 +1,1 @@
+Microsoft Changes Its Tune on Porting SP2 Fixes Microsoft Watch: Redmond had told developers privately earlier this year of plans to port some SP2 fixes to older versions of Windows.

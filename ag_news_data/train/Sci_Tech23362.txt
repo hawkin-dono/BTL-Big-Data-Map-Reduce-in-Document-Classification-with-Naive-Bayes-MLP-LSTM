@@ -1,0 +1,1 @@
+Data Ontap 7G abolishes preallocation tyranny Network Appliance has brought out the latest version of its Data Ontap software, which imposes a grid storage architecture on NetApp devices by creating an abstraction layer between application servers, storage controllers and disc arrays.

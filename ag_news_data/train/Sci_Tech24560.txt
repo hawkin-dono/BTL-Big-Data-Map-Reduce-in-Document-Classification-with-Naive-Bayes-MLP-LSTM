@@ -1,0 +1,1 @@
+Sun Opens New Front in OS Wars With Solaris 10 Sun plans to release most of the OS code to an open-source community development process. The company also promises a Red Hat Linux execution environment (the Janus project) by 1Q05.

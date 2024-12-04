@@ -1,0 +1,1 @@
+Virus  #39;talks #39; to victims Virus writers have created a piece of malware that  #39;talks #39; to victims. The Amus email worm uses Windows Speech Engine (which is built-in to Windows XP) to deliver a curious message to infected users.

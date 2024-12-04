@@ -1,0 +1,1 @@
+SQL Server pros aren #39;t charmed by open source They are curious about the growing number of open source database products on the market, but some SQL Server DBAs say they remain doubtful that companies will adopt it for the long haul.

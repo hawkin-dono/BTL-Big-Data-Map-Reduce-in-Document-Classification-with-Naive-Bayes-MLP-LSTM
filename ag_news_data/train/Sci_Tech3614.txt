@@ -1,0 +1,1 @@
+Windows upgrade fixes security flaws, but it #39;s not perfect Microsoft is making a major push to get home and business customers to embrace the security-focused overhaul to its Windows XP computer operating system.

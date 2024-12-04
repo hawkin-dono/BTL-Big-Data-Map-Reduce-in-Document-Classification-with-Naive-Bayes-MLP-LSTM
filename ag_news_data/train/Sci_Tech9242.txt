@@ -1,0 +1,1 @@
+IETF Shuts MARID Down With Sender ID going nowhere fast, Internet Engineering Task Force (IETF) officials Wednesday shut down the working group charged with finding a standard for e-mail authentication.

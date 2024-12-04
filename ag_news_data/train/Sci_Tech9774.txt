@@ -1,0 +1,1 @@
+Symantec Holes Open Up Firewalls to Attacks Symantec Corp. has warned of a string of security holes in its Firewall/VPN Appliance and Gateway Security products, less than a month after its last firewall security problems.

@@ -1,0 +1,1 @@
+IBM Carves New RFID Unit The Sensor and Actuator Solutions group will create services and software related to RFID systems. By Laurie Sullivan. IBM has created the Sensor and Actuator Solutions group to support devices such as those used in radio-frequency identification setups.

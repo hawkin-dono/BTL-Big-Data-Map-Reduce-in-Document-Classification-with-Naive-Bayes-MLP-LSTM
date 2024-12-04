@@ -1,0 +1,1 @@
+Everything You Need to Know About Microsoft #39;s OS Update The service pack is notable mostly for a variety of new security features, including fixes to many known problems, a new version of the Windows Firewall that is turned on by default, and a new security center.

@@ -1,0 +1,1 @@
+IBM open-sources speech-recognition development tools SEPTEMBER 13, 2004 (IDG NEWS SERVICE) - IBM announced today that it will release as open-source code some of its software for speech-enabling applications.

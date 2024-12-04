@@ -1,0 +1,1 @@
+1. Vulnerability in WordPad According to the Microsoft site, the vulnerabilty in WordPad allows an attacker to take complete control of the affected system.

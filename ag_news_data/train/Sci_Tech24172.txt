@@ -1,0 +1,1 @@
+Infocus: Detecting Rootkits And Kernel-level Compromises In Linux This article outlines useful ways of detecting hidden modifications to a Linux kernel. Often known as rootkits, these stealthy types of malware are installed in the kernel and require special techniques by Incident handlers and Linux system administrators to be detected.

@@ -1,0 +1,1 @@
+New, dangerous Microsoft JPEG exploit code released The new code is more dangerous than the exploit that appeared earlier this week, since it allows malicious hackers to run their own code on vulnerable machines, according to the SANS Institute's Internet Storm Center.

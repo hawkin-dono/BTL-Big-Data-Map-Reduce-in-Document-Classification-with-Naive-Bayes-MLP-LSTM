@@ -1,0 +1,1 @@
+IBM to use dual-core Opteron Big Blue will use AMD's chip in a high-performance server but isn't yet planning a general-purpose Opteron system.

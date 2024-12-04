@@ -1,0 +1,1 @@
+Winamp flaw: Digital attacks use skins for camouflage Users of the music player should watch out for hacked themes; a flaw allows would-be intruders to take control of PCs.

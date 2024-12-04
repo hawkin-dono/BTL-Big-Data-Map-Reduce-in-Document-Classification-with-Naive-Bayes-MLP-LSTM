@@ -1,0 +1,1 @@
+Microsoft Warns of Critical JPEG Flaw Handling of images could allow an attacker to take over your PC.

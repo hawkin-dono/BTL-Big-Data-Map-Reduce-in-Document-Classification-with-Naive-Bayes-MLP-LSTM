@@ -1,0 +1,1 @@
+Pinpointing Voters on a Map Voter databases are old hat to political campaigns. But by taking that same data and overlaying it on a map -- a technology called geographic information systems -- operatives are becoming more effective at getting out the vote. By Jacob Ogles.

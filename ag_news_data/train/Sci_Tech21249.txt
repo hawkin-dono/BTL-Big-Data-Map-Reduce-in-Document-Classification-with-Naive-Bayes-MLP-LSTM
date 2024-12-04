@@ -1,0 +1,1 @@
+XPRESS 200, nForce 4, PCI-Express shaping up to replace AGP Granted, from a performance point of view PCI-Express is barely a match for AGP8X, but both ATI and NVIDIA have been aggressively moving forward with introducing graphic cards using the interface.

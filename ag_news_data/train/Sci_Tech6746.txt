@@ -1,0 +1,1 @@
+IBM unveils Linux Power servers IBM introduced on Monday its inexpensive OpenPower line of servers based on Power5 microprocessors and the Linux operating system.

@@ -1,0 +1,1 @@
+Notice: IE  #39;worm #39; targets IOL ad supplier Every 30th or so request for an advert was redirected to another compromised server, which in turn tried to execute the Bofra Internet Explorer exploit in an attempt to infect the user #39;s machine.

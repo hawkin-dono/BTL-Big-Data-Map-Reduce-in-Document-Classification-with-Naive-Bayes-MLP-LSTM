@@ -1,0 +1,1 @@
+Siemens 65 series defect could lead to hearing damage A defect in Siemens 65 series mobile phones could lead to failures in audio transmission, the company warned. Because of the software defect, when a phone call is cut off due to a low battery, the disconnection 

@@ -1,0 +1,1 @@
+Microsoft skips Itanium with new Windows In yet another blow to Intel's Itanium ambitions, Microsoft says its big-server version of Windows won't run on the new chip.

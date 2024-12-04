@@ -1,0 +1,1 @@
+HP partners Brocade on Bladesystem servers Hewlett-Packard has joined with Brocade to integrate Brocade #39;s storage area network switching technology into HP Bladesystem servers to reduce the amount of fabric infrastructure needed in a datacentre.

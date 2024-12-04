@@ -1,0 +1,1 @@
+Atomic register offers route to quantum computing The fundamental memory component of a quantum computer has been built for the first time using a string of atoms. This could offer a more reliable way to build a working quantum computer than other techniques, suggest researchers.

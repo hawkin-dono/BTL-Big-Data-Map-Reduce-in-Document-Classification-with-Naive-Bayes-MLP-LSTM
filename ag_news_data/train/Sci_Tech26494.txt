@@ -1,0 +1,1 @@
+New Netscape browser supports Internet Explorer America Online today released a preview of a new Netscape browser that is based on the Firefox browser, but also supports Microsoft's Internet Explorer engine.

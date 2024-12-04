@@ -1,0 +1,1 @@
+Infocus: Defeating Honeypots: Network Issues, Part 2 The purpose of this paper is to explain how attackers behave when they attempt to identify and defeat honeypots, and is useful information for security professionals who need to deploy honeypots in a more stealthy manner. Part 2 looks at Sebek-based honeypots, snort_inline, Fake AP, and Bait and Switch honeypots.

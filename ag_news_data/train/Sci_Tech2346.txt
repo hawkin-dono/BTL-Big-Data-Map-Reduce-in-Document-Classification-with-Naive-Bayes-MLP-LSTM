@@ -1,0 +1,1 @@
+HP Shelves Virus Throttler Security service was discontinued because of compatibility problems with Windows.

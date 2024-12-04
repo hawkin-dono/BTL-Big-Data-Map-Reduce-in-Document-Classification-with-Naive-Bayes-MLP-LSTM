@@ -1,0 +1,1 @@
+Cherry OS: New Emulator Runs Mac OS On Windows Hardware A company called MXS announced a new software emulator called Cherry OS that makes it possible to install Mac OS X onto x86 hardware (running Windows).

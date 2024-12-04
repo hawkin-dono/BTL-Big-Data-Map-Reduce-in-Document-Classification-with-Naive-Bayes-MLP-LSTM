@@ -1,0 +1,1 @@
+Java integration spec pushed Many vendors join the effort, but IBM and BEA Systems choose not to participate, leading to harsh words from Sun executive.

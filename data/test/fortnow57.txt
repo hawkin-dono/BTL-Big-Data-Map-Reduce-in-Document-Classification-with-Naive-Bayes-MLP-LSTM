@@ -1,0 +1,14 @@
+Why go to conferences?
+
+   1. To find out about papers that might spark my interest and lead to the following:
+         1. Papers. I saw Moser's paper in STOC 2009 and I already have a paper in preparation based on it. By contrast I saw Chandra-Furst-Lipton paper on Multiparty Communication Complexity at STOC83 and wrote a paper based on it in 2005 (its in MFCS-2005).
+         2. Surveys. I saw a talk on PIR's at STOC 2000 which lead to my interest in them, my survey, and my website on them.
+         3. Topics that I want to read up on. In CCC09 the paper on pointer-jumping pointed me to material I want to read up on.
+         4. Ideas for Projects for students, ides for homeworks. 
+   2. To find out random stuff in the hallways. At CCC2009 Scott Aaronson told me about a quantum proof that PP is closed under intersection.
+   3. To ask about stuff in the hallways. E.g., At CCC2009 I had some questions on derandomization that I asked around about.
+   4. During talks I don't understand I sometimes get other work done.
+   5. During talks where its too warm I get to take a nice nap.
+   6. I do not log on when I am at conferences. Really! I'm always curious how many emails I will get. This time I was gone for 12 days and came back to 289 emails. Why so few? Because lots of email is in resopnse to email that you send out, so the less you send out the less you get. Of the 289 about 20 were stll relevent. I did miss a chance to get $1,000,000,000 from some British Bank. Oh well. 
+
+Some say that you learn MORE from the hallways than the talks. And it is true that you can just read the talk later. But there is still something about seeing someone give a good inspiring talk that makes you want to follow up and give the paper a more careful read. The key is to maintain this feeling once you are home.

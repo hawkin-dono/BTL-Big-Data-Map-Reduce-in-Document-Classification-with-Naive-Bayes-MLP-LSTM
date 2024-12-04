@@ -1,0 +1,1 @@
+Google Plugs Hole in Gmail Such security flaws are not uncommon, but Gmail deviates from the norm by not causing cookies to expire when users change passwords.

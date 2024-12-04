@@ -1,0 +1,1 @@
+Microsoft Word Hole Could Allow DoS Attacks (NewsFactor) NewsFactor - Computer security firm Secunia has reported what it terms a "highly critical" vulnerability in the popular Microsoft (Nasdaq: MSFT) Word desktop computer application. The firm has confirmed the existence of the hole in versions of Word as recent as Word 2000.

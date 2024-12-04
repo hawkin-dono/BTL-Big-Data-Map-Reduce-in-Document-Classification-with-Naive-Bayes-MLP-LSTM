@@ -1,0 +1,18 @@
+ 
+The Efficient Church-Turing Thesis
+
+The Church-Turing thesis roughly states that everything computable is computable by a Turing machine. I strongly believe the Church-Turing thesis and have vigorously defended the thesis in this weblog.
+
+Sometimes we hear about an efficient or strong version of the thesis, for example in the Bernstein-Vazirani paper Quantum Complexity Theory.
+
+    Just as the theory of computability has its foundations in the Church-Turing thesis, computational complexity theory rests upon a modern strengthening of this thesis, which asserts that any "reasonable" model of computation can be efficiently simulated on a probabilistic Turing machine (an efficient simulation is one whose running time is bounded by some polynomial in the running time of the simulated machine). Here, we take reasonable to mean in principle physically realizable. 
+
+You mostly hear about the thesis from the quantum computing folks as they use the thesis to justify why quantum computing changes everything we believe about efficient computation. But did anyone actually state such a strong version of the Church-Turing thesis before quantum computing came along? The closest I can find comes from Steve Cook's 1982 Turing Award Lecture.
+
+    The identification of P of with the tractable (or feasible) problem has been generally accepted in the field since the early 1970's…The most notable practical algorithm that has an exponential worst-case running time is the simplex algorithm for linear programming…but it is important to note that Khachyian showed that linear programming is in P using another algorithm. Thus, our general thesis, that P equals the feasible problems, is not violated. 
+
+But not even Cook in 1982 seemed to believe that P captured all the "physically realizable" efficient algorithms as he goes on to describe probabilistic and parallel algorithms.
+
+By no means does computational complexity "rest upon" a strong Church-Turing thesis. The goals of computational complexity is to consider different notions of efficient computation and compare the relative strengths of these models. Quantum computing does not break the computational complexity paradigm but rather fits nicely within it.
+
+Having said all that, as of today the strong version of the Church-Thesis as described by Bernstein and Vazirani seems true as we are not even close to physically-realizable quantum computers. We don't even need "probabilistic" since we believe we have strong pseudorandom generators. Maybe someday we will build those quantum machines or create other physical devices that will efficiently compute problems beyond polynomial time. But we are not there yet.

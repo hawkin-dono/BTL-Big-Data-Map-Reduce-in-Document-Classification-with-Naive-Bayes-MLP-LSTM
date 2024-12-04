@@ -1,0 +1,11 @@
+ Complexity Textbooks
+
+A reader asks
+
+    What are currently considered to be the best textbooks for complexity? I know the choice is small (Papadimitriou is probably still the best even if it is very outdated and somewhat buggy), do most of the lecturers just write their own lecture notes? Is there a set of notes that is especially popular and also used by others. I also know the upcoming book by Arora/Barak but it's still far from complete, would you recommend it for teaching? 
+
+You have more choices than you think with textbooks by Homer and Selman, Hemaspaandra and Ogihara, Ko and Du, Wegener, and several others. Also several complexity theorists have put their lecture notes on line, quite a valuable resource. Jin-Yi Cai has the makings of a textbook from his lecture notes.
+
+The topics and style of a computational complexity course varies from instructor to instructor and no single book would work for all. You really just need to find what best works for you and your class.
+
+I personally don't use a textbook when I teach graduate complexity. I've been so close to the field no book would fit my philosophy unless I write it myself. And that's not going to happen anytime soon.

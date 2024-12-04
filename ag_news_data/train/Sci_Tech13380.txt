@@ -1,0 +1,1 @@
+IBM updates WebSphere Application Server software OCTOBER 06, 2004 (COMPUTERWORLD) - IBM today unveiled a new version of its WebSphere Application Server software, which is designed to protect applications from server downtime and boost enterprise efforts to build a service-oriented architecture (SOA).

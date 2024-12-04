@@ -1,0 +1,1 @@
+Red Hat Users Targeted by Bogus Advisory Users of Red Hat Linux have been targeted by a fraudulent electronic mail advising recipients to install a  quot;security update quot; containing mailicious code.

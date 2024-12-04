@@ -1,0 +1,1 @@
+Software program whacks worms Update to SecureCore firewall aims to prevent programs from executing malicious commands.

@@ -1,0 +1,1 @@
+JBoss moves up to business processes After a series of announcements last month JBoss has announced JBoss jBPM, their first step into business process management. They have taken the Java Business Process Management project (jBPM), founded by 

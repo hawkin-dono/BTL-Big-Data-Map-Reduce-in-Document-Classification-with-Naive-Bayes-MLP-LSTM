@@ -1,0 +1,1 @@
+Next Windows Version: 2006 Target Microsoft announces Longhorn, its next version of Windows, will meet its 2006 release date. But to deliver on time for corporate client contracts, a key component -- the underlying file system for the software -- will be missing.

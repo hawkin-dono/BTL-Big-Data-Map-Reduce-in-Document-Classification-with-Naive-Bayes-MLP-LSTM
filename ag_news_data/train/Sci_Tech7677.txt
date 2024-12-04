@@ -1,0 +1,1 @@
+NEC extends quantum cryptography range and speed NEC Corp. researchers have developed a quantum cryptography system with sufficient speed and range to make it commercially viable. It could go on sale in the second half of 2005, the researchers said Thursday.

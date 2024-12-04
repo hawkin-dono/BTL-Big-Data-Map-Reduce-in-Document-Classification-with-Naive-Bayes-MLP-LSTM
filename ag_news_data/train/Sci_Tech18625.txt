@@ -1,0 +1,1 @@
+Xandros rolls out Linux desktop management app (InfoWorld) InfoWorld - Linux desktop vendor Xandros Inc. on Tuesday announced the availability of its new Xandros Desktop Management Server (xDMS) application, which gives IT administrators the tools to roll out, configure and maintain mass deployments of Linux-equipped PCs.

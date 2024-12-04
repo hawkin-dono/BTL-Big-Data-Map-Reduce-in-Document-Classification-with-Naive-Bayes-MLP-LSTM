@@ -1,0 +1,1 @@
+Linux supercomputers used for DOD war simulations The Pentagon is using two 256-processor Linux Networx Evolocity cluster supercomputers to conduct various disaster simulations.

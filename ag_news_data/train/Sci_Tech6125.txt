@@ -1,0 +1,1 @@
+Emulex, Snap aid IBM storage effort Emulex has introduced a new entry-level line of SAN switch products designed for small and midsize businesses and small departmental SAN applications in a large enterprise. The new line has already been adopted by IBM for its recently introduced TotalStorage DS400, an entry-level Fibre Channel storage array announced last week.

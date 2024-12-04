@@ -1,0 +1,1 @@
+IBM supercomputer top-ranked blade machine Barcelona's MareNostrum isn't the fastest supercomputer on Earth, but 20 teraflops with regular blade servers is nothing to sneer at.

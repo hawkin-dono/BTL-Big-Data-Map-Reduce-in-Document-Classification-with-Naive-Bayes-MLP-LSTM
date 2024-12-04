@@ -1,0 +1,1 @@
+SiS readies November AMD PCIE chipset launch SiS will next month join ATI, Nvidia and VIA in becoming a supplier of PCI Express chipsets for AMD processors. November will see the company commence volume production of its SiS761 North Bridge, which will 

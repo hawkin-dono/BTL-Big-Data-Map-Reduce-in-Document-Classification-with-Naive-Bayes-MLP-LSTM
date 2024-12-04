@@ -1,0 +1,1 @@
+ATI develops PCI Express-based HyperMemory ATI takes the concept of  quot;shared memory quot; and utilizes next-generation technology to produce HyperMemory. Using PCI Express, this new technology reduces PC system costs by allowing its visual processors to use system memory for graphics processing.

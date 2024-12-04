@@ -1,0 +1,1 @@
+Ubuntu, a promising new Linux distribution The past month has introduced an interesting new distribution that is based on the Gnome and Debian projects.  nbsp;Ubuntu Linux is the end-user-oriented distribution funded by Mark Shuttleworth's company Canonical.  nbsp;

@@ -1,0 +1,1 @@
+Spammers Hijack Sender ID (TechWeb) TechWeb - Microsoft's E-mail-filter technology, Sender ID, is unpopular with open-source advocates but popular with spammers, who are using it to bypass other filters.

@@ -1,0 +1,1 @@
+Dual-Core Chips Shift Performance Focus With the race for dominance in processor clock speed over, or at least waning, the pursuit for overall performance gains through architectural enhancements is officially beginning.

@@ -1,0 +1,1 @@
+IBM Chip Stores ID in Silicon IBM is the first PC manufacturer to use a National Semiconductor chip that stores a PC #39;s identity in silicon to avert hackers by safeguarding passwords and other sensitive identity information.

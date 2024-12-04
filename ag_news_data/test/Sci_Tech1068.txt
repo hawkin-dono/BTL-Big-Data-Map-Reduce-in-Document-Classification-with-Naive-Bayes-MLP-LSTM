@@ -1,0 +1,1 @@
+NEC Unveils World #39;s Fastest Vector Supercomputer NEC Corporation has announced the worldwide launch and availability of the SX series model  quot;SX-8, quot; the world #39;s most powerful vector supercomputer with a peak processing performance of a whopping 65 TFLOPS (trillion floating point operations per second).

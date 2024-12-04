@@ -1,0 +1,1 @@
+Kodak lawsuit cost Sun USD 92 millions Eastman Kodak Co. sued Sun Microsystems Inc. and claimed damages worth USD 1 Billion over long running patent disputes related to object management procedures implemented by Sun in the very popular Java programming language.

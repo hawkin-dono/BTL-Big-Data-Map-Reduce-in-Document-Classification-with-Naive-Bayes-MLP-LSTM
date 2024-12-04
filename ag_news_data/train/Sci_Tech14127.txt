@@ -1,0 +1,1 @@
+BEA envisions role of 'application configurator' BEA Systems with its upcoming Diamond application deployment platform envisions an IT person taking on the new role of application configurator in SOAs (service-oriented architectures).

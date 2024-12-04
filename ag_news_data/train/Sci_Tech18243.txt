@@ -1,0 +1,1 @@
+Cisco tightens security on voice products On Monday, the company announced that it has added new privacy features to its CallManager product, which maps phone numbers to IP addresses and keeps track of phone calls that are made.

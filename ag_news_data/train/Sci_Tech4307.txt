@@ -1,0 +1,1 @@
+AMD demos first dual-core processor Advanced Micro Devices demonstrated its first dual-core microprocessors today using an HP ProLiant DL585 server running four dual-core Opteron chips.

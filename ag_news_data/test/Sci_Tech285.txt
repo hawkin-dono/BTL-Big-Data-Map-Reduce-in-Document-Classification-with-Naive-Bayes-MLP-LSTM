@@ -1,0 +1,1 @@
+Sun to enter content switch market Sun Microsystems Inc. plans later this month to unveil its first ever content switch: a load-balancing and SSL (Secure Sockets Layer) acceleration switch based on the Nauticus N2000 products that the Santa Clara, California, company acquired in January of this year.

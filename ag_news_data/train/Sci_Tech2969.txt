@@ -1,0 +1,1 @@
+Via Tunes Open-Source Media Player Via Technologies has released a version of the open-source Xine media player that is designed to take advantage of hardware digital video acceleration capabilities in two of the company #39;s PC chipsets, the CN400 and CLE266.

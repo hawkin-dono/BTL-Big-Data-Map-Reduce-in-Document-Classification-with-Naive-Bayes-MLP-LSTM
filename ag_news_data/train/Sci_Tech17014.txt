@@ -1,0 +1,1 @@
+Microsoft SQL Server 2005 Delayed Microsoft is putting off the shipping date for SQL Server 2005, also known as  quot;Yukon, quot; and instead will release an incremental beta app called  quot;Community Technical Preview.

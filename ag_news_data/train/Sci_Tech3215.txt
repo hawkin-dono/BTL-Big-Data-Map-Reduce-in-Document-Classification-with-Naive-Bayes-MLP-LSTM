@@ -1,0 +1,1 @@
+Siemens 65 Series Bug could cause Hearing Damage Siemens mobile has warned users about a software-related defect in its 65 product series, the C65, CX65, M65, S65 and SL65 may cause an extremely loud melody when the battery is run down causing your connection to be lost.

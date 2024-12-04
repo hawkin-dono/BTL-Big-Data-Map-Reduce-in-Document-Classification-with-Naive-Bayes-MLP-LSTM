@@ -1,0 +1,1 @@
+EarthLink to Test Yahoo #39;s Antispam Technology EarthLink agreed to test Yahoo! #39;s anti-spam technology. The technology encodes digital signatures (dubbed DomainKeys) into customers #39; email so that the receiver can tell whether the message is legitimate.

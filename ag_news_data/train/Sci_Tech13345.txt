@@ -1,0 +1,1 @@
+IBM announces new  #39;self-healing #39; WebSphere The first major release of IBM WebSphere in two years offers self-healing capabilities to provide failover for business transactions conducted via the Internet.

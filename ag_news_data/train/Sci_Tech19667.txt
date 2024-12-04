@@ -1,0 +1,1 @@
+GM, Boeing push identity management General Motors plans to install a global identity management system that will provide single-sign-on access to applications for about 500,000 internal and external end users, and Boeing is in the midst of a similar project -- both aimed at cutting IT costs and improving user productivity.

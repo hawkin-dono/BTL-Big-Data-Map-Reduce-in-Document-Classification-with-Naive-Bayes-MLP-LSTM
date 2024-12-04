@@ -1,0 +1,1 @@
+Intel suggests upgrading internet to Intelnet Intel is working on ways to upgrade the internet with a new layer of technology that could help the network detect and warn of worm attacks on its own and re-route network traffic to avoid delays.

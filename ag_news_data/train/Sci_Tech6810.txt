@@ -1,0 +1,1 @@
+'Open Source Solaris' to debut this year As it readies Solaris 10, Sun develops an open-source project modeled on Apple's Darwin and Red Hat's Fedora.

@@ -1,0 +1,11 @@
+Statistics for Fun and Profit
+
+On the front page of the New York Times today along side a picture of a nerd shirt comes an article proclaiming the great need for people doing statistics in this age of limitless data. By "statistics" I think they mean "machine learning," that mathematical side of AI that seems to be where statistics is heading anyway.
+
+    “I keep saying that the sexy job in the next 10 years will be statisticians,” said Hal Varian, chief economist at Google. “And I’m not kidding.”
+
+And my three favorite fields get mentioned in the same sentence.
+
+    Though at the fore, statisticians are only a small part of an army of experts using modern statistical techniques for data analysis. Computing and numerical skills, experts say, matter far more than degrees. So the new data sleuths come from backgrounds like economics, computer science and mathematics.
+
+Theory's own data hunter Jon Kleinberg gets quoted in the article searching for pig lipstick.

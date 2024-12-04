@@ -1,0 +1,1 @@
+Tabbed windows make Safari vulnerable - Secunia A security firm has warned of a vulnerability in Safari that allows hackers to hijack confidential data entered into Web sites. Secunia says the flaws affect Safari, Mozilla and Firefox, Opera 

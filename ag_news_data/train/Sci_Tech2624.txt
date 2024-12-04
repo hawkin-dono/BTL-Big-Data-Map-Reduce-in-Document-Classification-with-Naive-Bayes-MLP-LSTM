@@ -1,0 +1,1 @@
+Microsoft Releases SP2 Test Guide (NewsFactor) NewsFactor - Microsoft (Nasdaq: MSFT) has taken steps to help enterprise developers who want to test their applications against Windows XP Service Pack 2 (SP2).

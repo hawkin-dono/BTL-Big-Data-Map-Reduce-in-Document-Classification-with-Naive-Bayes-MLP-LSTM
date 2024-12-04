@@ -1,0 +1,1 @@
+Middleware moves into open source JBoss Application Server 4.0, middleware recently certified for J2EE, is ready for enterprise production deployment, according to JBoss.

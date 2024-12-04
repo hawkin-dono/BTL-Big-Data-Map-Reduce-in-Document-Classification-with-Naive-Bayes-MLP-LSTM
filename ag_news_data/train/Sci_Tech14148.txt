@@ -1,0 +1,1 @@
+Goodbye SNMP? Hello, WS-Management Laoping writes  quot;News.com has a story about a new Web services management specification designed to simplify network administration across a wide range of devices.

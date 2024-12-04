@@ -1,0 +1,1 @@
+Crypto researchers abuzz over flaws ZDNet UK: Encryption circles are buzzing with news that mathematical functions embedded in common security applications have previously unknown weaknesses. 

@@ -1,0 +1,1 @@
+New Netscape browser supports Internet Explorer America Online Inc. (AOL) on Tuesday released a preview version of a new Netscape Web browser that is based on the open-source Firefox Web browser, but also supports Microsoft Corp.'s Internet Explorer (IE) browser engine.

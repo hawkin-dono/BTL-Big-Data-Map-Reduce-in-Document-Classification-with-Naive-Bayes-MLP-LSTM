@@ -1,0 +1,1 @@
+Mozilla fixes browser bugs Mozilla Foundation releases new versions of two browsers and an e-mail reader, addressing vulnerabilities that could allow attackers to run malicious code on a user's PC.

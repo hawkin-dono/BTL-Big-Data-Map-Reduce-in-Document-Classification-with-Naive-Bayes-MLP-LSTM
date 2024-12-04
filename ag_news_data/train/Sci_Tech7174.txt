@@ -1,0 +1,1 @@
+Linux Standard Base Gathers Vendor Support Several major IT vendors have agreed to support the Linux Standard Base 2.0, which establishes a global standard for the open-source operating system.

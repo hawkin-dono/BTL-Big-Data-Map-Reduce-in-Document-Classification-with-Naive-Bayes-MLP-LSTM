@@ -1,0 +1,1 @@
+Google Makes Gmail Portable Google is rolling out POP support for Gmail, allowing customers to download messages to Outlook and other client-side applications.

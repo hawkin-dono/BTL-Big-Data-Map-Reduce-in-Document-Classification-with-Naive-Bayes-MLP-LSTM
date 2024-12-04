@@ -1,0 +1,1 @@
+Linux vendors react to Qt flaw Vendors ship updated packages to fix the problem that could allow an attacker to take control of a system.

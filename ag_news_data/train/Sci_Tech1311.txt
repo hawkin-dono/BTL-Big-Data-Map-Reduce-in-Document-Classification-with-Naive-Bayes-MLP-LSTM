@@ -1,0 +1,1 @@
+Windows installer gains .Net authoring Wise Solutions has released Wise for Windows Installer 6.0, featuring .Net support and enhanced tools for creating installations for data-driven Web applications. 

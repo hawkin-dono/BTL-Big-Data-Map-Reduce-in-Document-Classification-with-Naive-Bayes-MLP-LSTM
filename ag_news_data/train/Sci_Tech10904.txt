@@ -1,0 +1,1 @@
+Attackers Target Microsoft Jpeg Flaw Attackers have posted a malicious Jpeg image file to Internet newsgroups that distribute pornography. The infected Jpeg file attempts to exploit a critical vulnerability Microsoft announced and issued a patch for on Sept.

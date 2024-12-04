@@ -1,0 +1,1 @@
+IBM Rolls Out Arrays, Tries Again on iSCSI SEPTEMBER 06, 2004 (COMPUTERWORLD) - IBM announced a pair of entry-level workgroup disk arrays last week, including a scaled-down reincarnation of an iSCSI-based device that the company dropped two years ago.

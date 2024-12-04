@@ -1,0 +1,1 @@
+VeriSign Speeds Up DNS Updates VeriSign on Thursday announced it would update the domain name servers for the .com and .net domains every few seconds rather than just twice a day to speed up Web site launches and limit disruption when changing hosting services.

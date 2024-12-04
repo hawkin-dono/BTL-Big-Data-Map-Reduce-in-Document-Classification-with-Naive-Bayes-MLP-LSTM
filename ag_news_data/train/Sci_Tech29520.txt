@@ -1,0 +1,1 @@
+SAP launches remote security service SAP AG has extended the scope of the SAP Active Global Support customer service portfolio with the addition of SAP Security Optimization, a remote service that investigates SAP systems for security vulnerabilities and proposes an action plan.

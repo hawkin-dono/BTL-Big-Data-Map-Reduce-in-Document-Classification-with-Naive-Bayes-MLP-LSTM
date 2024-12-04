@@ -1,0 +1,1 @@
+Microsoft pushes out  #39;critical #39; security fixes Microsoft has released 10 software security patches for its products, including seven it deemed critical and that could allow remote attackers to take control of systems running the company #39;s software.

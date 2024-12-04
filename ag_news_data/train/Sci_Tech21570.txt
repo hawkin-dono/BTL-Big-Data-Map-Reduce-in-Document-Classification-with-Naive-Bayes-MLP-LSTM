@@ -1,0 +1,1 @@
+Intel tops out server range with data-crunching Itanium chips Intel has updated its heavy-duty Itanium 2 server range to include chips with 9MB of cache and clock speeds of 1.6GHz. The new processors comprise 1.6GHz chips with 9, 6 and 3 MB of L3 cache (two models, with 

@@ -1,0 +1,1 @@
+Novell exchanges Linux collaboration products Novell Inc is set to discontinue its SUSE Linux Openexchange Server collaboration software product in favor of the Open-Xchange Server technology that underpins it from Netline Internet Service GmbH.

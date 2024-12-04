@@ -1,0 +1,1 @@
+Hitachi #39;s Newest Array Pools 32 Petabytes Of Virtual Storage Hitachi Data Systems, Sun Microsystems, and Hewlett-Packard this week are trying to leapfrog EMC for enterprise-class storage leadership using pretty much the same product -- HDS #39;s new TagmaStore Universal Storage Platform.

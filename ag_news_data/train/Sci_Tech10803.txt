@@ -1,0 +1,1 @@
+Trojan horse exploits image flaw Infected graphical images that can implant a backdoor into a Windows computer if they are viewed have been spotted on Usenet. EasyNews, a provider of Usenet newsgroups, said it has identified two JPEG images 

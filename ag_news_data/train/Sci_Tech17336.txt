@@ -1,0 +1,1 @@
+NEC Nips IBM in Supercomputer Race Beginning in December, NEC will rent out SX-8s for about \$11,000 per month. The single-node model, with up to eight CPUs, has a peak performance of 128 gigaflops.

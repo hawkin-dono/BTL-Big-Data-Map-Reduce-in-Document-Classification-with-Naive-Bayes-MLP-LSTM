@@ -1,0 +1,1 @@
+Microsoft: A single license for a dual processor Microsoft announced that it will continue its per-processor licensing model with the introduction of dual-core and multicore processors.

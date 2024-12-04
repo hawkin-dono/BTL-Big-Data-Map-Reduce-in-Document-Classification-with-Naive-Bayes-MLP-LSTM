@@ -1,0 +1,1 @@
+Avalon, WinFS decoupled for Windows Shorthorn As we suggested on Friday, two mainstays of Windows Longhorn will be  #39;decoupled #39; from the 2006 release, with Microsoft dropping the WinFS storage and query system.

@@ -1,0 +1,1 @@
+Hackers Plot Denial-of-Service Attack Against Symantec A new variant of the MyDoom virus is designed to launch a denial-of-service attack against antivirus software maker Symantec, according to security firm Sophos.

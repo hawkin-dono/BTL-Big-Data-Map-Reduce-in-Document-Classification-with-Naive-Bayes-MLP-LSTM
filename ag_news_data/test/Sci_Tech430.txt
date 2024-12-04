@@ -1,0 +1,1 @@
+IBM puts G5 in Linux server The eServer OpenPower 720 is aimed at the entry-level market for 64-bit Linux-based servers and runs various configurations of what IBM calls the Power5 at 1.5 and 1.65GHz.

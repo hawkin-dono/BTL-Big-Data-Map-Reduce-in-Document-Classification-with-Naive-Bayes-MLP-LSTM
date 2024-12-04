@@ -1,0 +1,1 @@
+Microsoft won't ship WinFS with Longhorn Microsoft today announced a significant change in plans for the next major release of Windows, code-named Longhorn. The new WinFS storage subsystem will not be part of it, as had been previously planned.

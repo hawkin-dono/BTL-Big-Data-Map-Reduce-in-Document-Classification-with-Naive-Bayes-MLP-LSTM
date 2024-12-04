@@ -1,0 +1,1 @@
+Infocus: Defeating Honeypots : Network issues, Part 1 The purpose of this paper is to explain how attackers behave when they attempt to identify and defeat honeypots, and is useful for security professionals to deploy honeypots in a more stealthy manner.

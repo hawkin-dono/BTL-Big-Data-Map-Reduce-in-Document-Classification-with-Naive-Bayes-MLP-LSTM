@@ -1,0 +1,1 @@
+SurfControl fights phishing scams In response to the growing threat that phishing poses to e-mail users, SurfControl plans to upgrade its e-mail filter to catch these attacks, and flag more spam and other abuses.

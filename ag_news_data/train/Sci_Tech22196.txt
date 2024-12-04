@@ -1,0 +1,1 @@
+Gmail starts to download messages Google will gradually roll out Pop3 support over the coming weeks to Gmail users, allowing them to download e-mail messages from Gmail servers to e-mail applications.

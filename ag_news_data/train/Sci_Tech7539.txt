@@ -1,0 +1,1 @@
+Latest Mozilla releases fix 10 security flaws At least three critical vulnerabilities are among those fixed by the most recent versions of Mozilla, Firefox and Thunderbird.

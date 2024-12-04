@@ -1,0 +1,13 @@
+The Campers and the Bread
+
+Marilyn vos Savant writes a weekly column for Parade Magazine instered into many US papers. She's best known in the math community for the popularization of the Monty Hall Problem. Here is a question from her November 19th column (names added).
+
+    Carol get lost in the woods, where she ran into two campers, Alice and Bob, who also were lost. Alice had three loaves of bread and Bob had two loaves. They all agreed to share the bread equally. Carol was so grateful that, when they found their way back to town, she gave the campers $10,000 for saving her life. Alice said she should get $6,000 because she contributed 3/5 of the bread. Bob said that all had eaten an equal amount so the campers should split the reward. To settle the argument they visited the local wise man, a retired math teacher. Which camper was right? 
+
+Think about the problem. Here is my short version of Marilyn's answer.
+
+    Neither. Carol paid $10,000 for 5/3 loaves or $6000 per loaf. So Alice gets $8,000 for her 4/3 loaves she gave up and Bob gets $2,000 for his 1/3 of a loaf. 
+
+This solution makes sense mathematically but not economically. Suppose Alice and Bob were poor graduate students. Bob would be willing to eat less bread and undercut the price of Alice's bread. To make this point clearer suppose originally Alice had four loaves and Bob only one. Then by the logic above, not only does Alice get all of Carol's $10,000 but also $4,000 more from Bob for the 2/3 of a loaf he gets from Alice.
+
+To do the correct math one would have to know the exact utility functions of Alice, Bob and Carol, or set up an appropriate auction when distributing the bread. But since the money is split after the sharing has been done, Alice and Bob should just take $5,000 each and be happy with it.

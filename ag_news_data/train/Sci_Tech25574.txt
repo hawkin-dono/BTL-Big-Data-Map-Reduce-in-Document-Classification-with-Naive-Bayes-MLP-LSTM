@@ -1,0 +1,1 @@
+News: Warning: critical Winamp vuln Security researchers are warning of a serious - and unfixed - security hole with the popular Winamp media player.

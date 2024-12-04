@@ -1,0 +1,16 @@
+Request insights on future of the job market (guest post)
+
+(Guest Post from Dave Doty on the Fall 2009 Hiring Season.)
+
+The CS academic hiring season for Fall 2009 was, to understate the point, a bit sparse, as predicted by Lance Fortnow last year. Sixty lucky, and as yet unnamed, CIFellows, as well as some others able to tread water as TAs, RAs, or postdocs, can wait out the storm, but at some point in the next year, those without a tenure-track job need to make a decision about what to do with their Ph.D.: try for academic jobs, or dust off the programming textbooks (a thick coating of dust for some of us in theory) and start preparing for industry interviews. Our choice depends, of course, on the level of recovery of the academic job market in the next year.
+
+I have no insight of my own into this, but I hope to use the far reach of this blog to sample the opinions of the community about how the Fall 2010 CS academic job market will look. Hopefully, the opinions will be informed by actual information, although secondhand anecdotal information, as well as rampantly speculative conjecture by faculty, will nonetheless exceed my level of insight and is welcome. I can imagine these possibilities:
+
+    * Recovery to "normal" levels
+    * Recovery to substandard levels, but more than the paltry offerings this year
+    * Recovery to better-than-average levels as universities try to make up for the low hiring level this year
+    * Normal demand for assistant professors, but a larger supply since many who would have applied this year are waiting until next, and then the 2009 and 2010 graduates will be competing together
+    * The complete implosion of civilization
+    * Some scenario laid out completely in a Communications of the ACM article that I simply failed to read
+
+Disclaimer: I am a graduating student who, like many readers, is investing time getting a Ph.D. because I want a tenure-track academic position, and I understand the temptation to complain about perceived flaws in the way some universities are handling the financial crisis. But what I mainly hope to obtain in the comments is field intelligence about next year's job market from anyone "in the know", and it's probable that such people are more likely to post their thoughts if they don't perceive their posting to be within a sea of anger. 

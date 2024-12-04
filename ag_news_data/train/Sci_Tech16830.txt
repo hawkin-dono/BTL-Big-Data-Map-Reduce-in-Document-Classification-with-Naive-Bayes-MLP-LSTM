@@ -1,0 +1,1 @@
+Infocus: Securing Exchange With ISA Server 2004 This article will highlight the security issues involved with providing Outlook Web Access or full Outlook client connections over the Internet, and then discuss how Microsoft's new ISA Server 2004 can be configured to mitigate these threats.

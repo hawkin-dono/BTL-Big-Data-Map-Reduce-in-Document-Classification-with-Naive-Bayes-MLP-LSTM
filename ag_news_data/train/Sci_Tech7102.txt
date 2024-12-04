@@ -1,0 +1,1 @@
+Computer worm  #39;sniffs #39; out passwords The first computer worm to eavesdrop on network traffic after it infects a computer has been discovered by security experts. The SDBot.

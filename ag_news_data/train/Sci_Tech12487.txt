@@ -1,0 +1,1 @@
+Revamped Tungsten hangs onto data The new PalmOne handheld retains data even when the battery runs down.

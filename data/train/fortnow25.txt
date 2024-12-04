@@ -1,0 +1,16 @@
+ 
+Events
+
+Richard Ladner wants me to remind my readers about the SIGACT student research competition. From his chair letter in the last SIGACT news.
+
+    There will be a new event at STOC 2007, the Student Research Competition, which will be a poster and short presentation competition for undergraduates. The deadline for submissions is February 23rd, 2007. If you are working with an undergraduate on research, please encourage him or her to submit to this competition. Accepted students are provided up to $500 for travel to the conference. This competition is an excellent way to engage the next generation of theory researchers in our conference. I want to thank Brent Heeringa for chairing this new activity for SIGACT. 
+
+The TARK (Theoretical Aspects of Rationality and Knowledge) conference meets this year in Brussels in June mixing computer scientists, economists and philosophers discussing knowledge, rationality and how it all plays in CS and economic models. And I'm on the PC this year. Submission deadline is January 30.
+
+The 27th Crypto conference will be held August in Santa Barbara, one of the few conferences held in the same location each year. Submission deadline February 19th. For those who feel Crypto focuses too much on applied research, the Theory of Cryptography Conference (TCC) meets next month in Amsterdam.
+
+ICALP, the granddaddy of European theory conferences, meets in Poland in July. Submissions by January 25.
+
+RANDOM/APPROX in Princeton in August. Deadline April 7. MFCS (Eastern European Theory) in Czech Republic in August, deadline April 2.
+
+There are many many more. DMANET and TheoryNet will keep you on top on what's going on.

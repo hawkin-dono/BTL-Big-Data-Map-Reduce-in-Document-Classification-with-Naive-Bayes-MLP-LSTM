@@ -1,0 +1,1 @@
+ARM gains flashy new media processing instructions ARM has developed a suite of media and signal processing instructions that will appear in future ARM processors targeting mobile consumer devices.

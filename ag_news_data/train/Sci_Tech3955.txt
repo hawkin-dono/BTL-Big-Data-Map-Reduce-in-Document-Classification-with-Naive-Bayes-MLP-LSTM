@@ -1,0 +1,1 @@
+Intel #39;s 65nm chip will make laptops go further Intel has built a fully functional 70Mb static random access memory (SRam) chip with more than half a billion transistors, using 65nanometer (nm) process technology.

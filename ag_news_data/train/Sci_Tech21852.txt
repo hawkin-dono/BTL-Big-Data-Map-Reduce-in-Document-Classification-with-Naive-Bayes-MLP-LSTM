@@ -1,0 +1,1 @@
+ISA Flaw Shows Way In To Phishing Attacks Microsoft ISA and Proxy Server are prone to an Internet domain name spoofing vulnerability that could allow an attacker to spoof Internet sites.

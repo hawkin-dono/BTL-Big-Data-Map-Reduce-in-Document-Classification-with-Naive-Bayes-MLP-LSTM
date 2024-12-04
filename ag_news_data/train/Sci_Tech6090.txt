@@ -1,0 +1,1 @@
+IBM Promises New DB2 Will Take Better Care Of Itself IBM will begin shipping a new DB2 Universal Database next week that has more self-managing capabilities, extended Linux support, and geospatial technology.

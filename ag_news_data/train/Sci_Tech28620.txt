@@ -1,0 +1,1 @@
+Microsoft Updates Windows Server Roadmap: No WinFS for You On Friday, Microsoft alerted me to sweeping changes in the Windows Server roadmap, an update of sorts to the information that Microsoft Senior Vice President Bob Muglia gave me during an interview in May.

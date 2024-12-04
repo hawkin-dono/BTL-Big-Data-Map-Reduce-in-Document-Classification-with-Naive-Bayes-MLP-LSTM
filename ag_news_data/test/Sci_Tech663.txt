@@ -1,0 +1,1 @@
+Sidebar: Microsoft Enters Data Backup Arena SEPTEMBER 27, 2004 (COMPUTERWORLD) - CHICAGO -- Microsoft #39;s announcement of a disk-to-disk backup application designed to consolidate data backups on Windows servers positions the company to compete against storage management stalwarts such as Veritas 

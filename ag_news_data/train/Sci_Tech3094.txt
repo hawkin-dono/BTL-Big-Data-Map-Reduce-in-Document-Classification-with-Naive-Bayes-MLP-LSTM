@@ -1,0 +1,1 @@
+Nokia, Vodafone tie up for Java apps This step towards easy portability of software from one Java-enabled mobile device to another, which is currently not the case because there is no standard specification, would ultimately provide mobile customers with a wide choice of feature rich Java 

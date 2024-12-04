@@ -1,0 +1,1 @@
+Longhorn cuts delay Microsoft Business Framework By cutting WinFS from Longhorn and indefinitely delaying the storage system, Microsoft Corp. has also again delayed the Microsoft Business Framework (MBF), a new Windows programming layer that is closely tied to WinFS.

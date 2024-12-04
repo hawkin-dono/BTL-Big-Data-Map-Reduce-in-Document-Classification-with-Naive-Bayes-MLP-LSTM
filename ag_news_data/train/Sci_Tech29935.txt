@@ -1,0 +1,1 @@
+IE #39;s Spoofing Sorrows Continue Security experts uncovered yet another bug in Internet Explorer this week, one that could let attackers replace the content of any legit site with their own, making it possible to spoof critical pages such as e-bank account access log-in forms or credit 

@@ -1,0 +1,1 @@
+Consortium Aims To Beef Up Linux Security The consortium plans to make bringing Linux up to the Evaluation Assurance Level 5 (EAL5), which is part of an internationally recognized security certification called Common Criteria, its first effort.

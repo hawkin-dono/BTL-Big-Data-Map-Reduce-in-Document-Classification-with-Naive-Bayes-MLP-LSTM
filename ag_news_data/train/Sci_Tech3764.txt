@@ -1,0 +1,1 @@
+Application Problems in Windows XP SP2 Now that Windows XP Serviced Pack 2 (SP2) is available at Windows Update for online update of both the XP Home Edition and XP Professional Edition platforms, you need to be prepared for the changes youll see as a result of the security controls XP SP2 

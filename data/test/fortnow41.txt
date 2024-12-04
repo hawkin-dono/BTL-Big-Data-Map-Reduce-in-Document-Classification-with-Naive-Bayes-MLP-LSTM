@@ -1,0 +1,8 @@
+Is P=?NP ind of ZFC a respectable viewpoint?
+
+I recently got an email that told me there is a debate going on about whether the the position P=?NP is independent of an axiom system such as ZFC deserves its own section on the Wikipedia P=?NP page. This raises several questions:
+
+   1. Math Question: Is P=?NP ind of ZFC? I tend to think that P=?NP can be resolved in ZFC. My (possibly naive) reasoning is that P=?NP is a question about rather concrete objects, as opposed to CH which deals with the reals. This is not a strong believe on my part and I would like to see more serious arguments for and against.
+   2. Sociology Question: Are there any serious CS theorists who believe that P=?NP is ind of ZFC? Of course this question depends on your definition of serious, theorist, and believe. Also it might not be the right question since, if (say) Terry Tao or Saharon Shelah thought that P=?NP was ind of ZFC then that is to be taken seriously, even though they are not CS theorists.
+   3. An Infinite Number of Sociology Questions: For all i what is the strongest theory Ti such that there exists a set of i serious CS theorists, each one of them believing that P vs NP is ind of Ti?
+   4. Wikipedia Question: How does Wikipedia decide these things? I do not know. However, if there was a credible paper saying why it is plausible that P=?NP might be ind of set theory, then I think it should be included. I do not know of any. 

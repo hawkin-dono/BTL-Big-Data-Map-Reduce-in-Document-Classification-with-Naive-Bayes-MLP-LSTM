@@ -1,0 +1,18 @@
+QIP = PSPACE
+
+A great new result in quantum complexity, Rahul Jain, Zhengfeng Ji, Sarvagya Upadhyay and John Watrous have shown that QIP is contained in PSPACE solving a decade-old open problem. The Pontiff has already blessed this result but as someone who has studied both quantum and interactive proofs, let me give you my take. Steve Fenner gives a mostly non-technical outline of the proof below.
+
+QIP stands for Quantum interactive proofs. That PSPACE sits in QIP follows from IP=PSPACE and the fact that quantum interactive proofs can easily simulate classical ones. QIP=PSPACE implies IP=QIP so classical interactive proofs can also simulate quantum ones. Amazing.
+
+Old papers by Watrous and Kitaev and Watrous, and showed two already amazing results:
+
+   1. QIP can be simulated by 3-round quantum interactive proofs.
+   2. 3-round quantum interactive proofs can be simulated in exponential time.
+
+The second result proven by creating an exponential-sized semi-definite program to capture the acceptance probability of these proof systems. 
+
+In classical interactive proofs, if we could simulate unbounded rounds with bounded rounds than PSPACE would collapse through the polynomial-time hierarchy (highly unlikely). So while we now know classical interactive proofs can simulate quantum proofs they will need many more rounds to do it.
+
+In an upcoming FOCS paper, Jain, Upadhyay and Watrous show that two-round quantum interactive proof systems can be simulated in PSPACE. QIP in PSPACE uses techniques from all these papers.
+
+Still open: The power of multi-prover quantum interactive proofs where the provers share prior entanglement but otherwise can't communicate. Classically we have MIP=NEXP (nondeterministic exponential time). Does QMIP=MIP? Neither containment is known.

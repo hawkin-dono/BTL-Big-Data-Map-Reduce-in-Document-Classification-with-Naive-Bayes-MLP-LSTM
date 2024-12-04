@@ -1,0 +1,1 @@
+Experts Warn of Security Flaws in Alternative Browsers Secunia issued a warning that the so-called tabbed browsing function in many alternative Web browsers from Mozilla, Opera, Netscape, Avant, Camino and others leave users vulnerable to spoofed 

@@ -1,0 +1,1 @@
+It #39;s best to keep firewalls from competing Q: I understand that Microsoft #39;s Service Pack 2 for Windows XP, a new update, includes improved firewall protection. I currently use Norton Personal Firewall; will any incompatibility result when both firewalls are installed?

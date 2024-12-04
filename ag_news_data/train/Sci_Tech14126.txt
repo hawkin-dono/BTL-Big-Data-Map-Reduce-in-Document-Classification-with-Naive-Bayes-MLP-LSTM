@@ -1,0 +1,1 @@
+SANS unveils top 20 security vulnerabilities The SANS Institute today released its annual Top-20 list of Internet security vulnerabilities. The list is compiled from recommendations by leading security researchers and companies around the world.

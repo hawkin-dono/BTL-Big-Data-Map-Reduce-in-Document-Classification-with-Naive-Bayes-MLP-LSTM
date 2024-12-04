@@ -1,0 +1,1 @@
+Blue Coat tool targets spyware The tool from Blue Coat Systems detects spyware at the Internet gateway as well as the desktop and is designed to keep it from affecting network performance and security.

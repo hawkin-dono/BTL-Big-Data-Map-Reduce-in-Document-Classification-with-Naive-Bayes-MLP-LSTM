@@ -1,0 +1,1 @@
+Apache Balks At Microsoft #39;s Licensing Demands For Anti-Spam &lt;b&gt;...&lt;/b&gt; com. The Apache Software Foundation, developers of the popular open-source Apache web server, said on Thursday that it wouldn #39;t support the proposed anti-spam standard Sender ID, because the licensing terms set by Microsoft Corp.

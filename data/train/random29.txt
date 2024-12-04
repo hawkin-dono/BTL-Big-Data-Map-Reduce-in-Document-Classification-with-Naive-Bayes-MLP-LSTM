@@ -1,0 +1,9 @@
+ C2: From Command and Control to Communicate and Collaborate
+
+I've worked with the MITRE corporation for many years and so have become comfortable with many of the United States military acronyms. C2, the shorthand for "command and control" permeates the culture. The phrase "Command and control" has become synonymous with hierarchically structured organizations and corporations, many of whom follow the military structure.
+
+Those of us who are dedicated to a network style of working -- including my clients and colleagues at MITRE -- should be encouraged to see the recent article in Federal Computer Week (FCW), "Northcom's new C2: collaboration and communications". The link came to me from an email list at MITRE; the article reminds me of how much progress is happening in the changing the mindset in the military.
+
+The transformational shift of mindset is evident in language in many places. The term "net-centric warfare" has been quietly replaced by "net-centricity" and the realization that this cannot happen without corresponding changes in social norms and behaviors.
+
+"C" is a very good letter for words beyond command and control. I continually add "C" words to an initial list of four I stole from Stowe Boyd. I'm up to Seven "C"s in the list of capabilities for a knowledge-enabled environment: Collaboration, Coordination, Communication, Connection, Community, Content Management, and Context.

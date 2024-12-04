@@ -1,0 +1,1 @@
+Freescale Discloses High-Performance Dual Core Processor &lt;b&gt;...&lt;/b&gt; Freescale Semiconductor, Inc. (NYSE:FSL) today is providing architectural details of its most powerful processor to date: the MPC8641D Dual Core processor.

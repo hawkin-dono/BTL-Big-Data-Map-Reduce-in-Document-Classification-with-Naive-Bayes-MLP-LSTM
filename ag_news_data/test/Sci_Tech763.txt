@@ -1,0 +1,1 @@
+Sun ships Java upgrade, focuses on ease of use OCTOBER 01, 2004 (COMPUTERWORLD) - Sun Microsystems Inc. this week released Java 2 Platform Standard Edition (J2SE) 5.0, an upgrade of its programming language with more than 100 new features designed to bolster 

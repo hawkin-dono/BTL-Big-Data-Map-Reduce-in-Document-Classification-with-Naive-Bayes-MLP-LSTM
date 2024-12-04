@@ -1,0 +1,1 @@
+Motorola using Microsoft ActiveSync protocol for Linux smartphone Motorola, Inc. has announced interoperability between its MotoSync technology-enabled mobile phones and Microsoft Exchange Server 2003.

@@ -1,0 +1,1 @@
+Edify gets VoiceXML certification Edify on Tuesday is announcing that its Edify Voice Interaction Platform (EVIP) 9.0 system for deploying speech activation applications has received VoiceXML 2.0 Certification from the VoiceXML Forum.

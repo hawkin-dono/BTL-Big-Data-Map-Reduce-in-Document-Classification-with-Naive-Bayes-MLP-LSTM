@@ -1,0 +1,1 @@
+Update: OpenWorld Notebook -- database, grid control, integration improved (InfoWorld) InfoWorld - Oracle at the OpenWorld conference on Tuesday is making several product rollouts, including a new version of its database and grid computing enhancements.

@@ -1,0 +1,1 @@
+Symantec under attack from MyDoom Antivirus firm Symantec is facing a denial-of-service attack on its Web site from the latest version of the MyDoom worm. Authors of MyDoom.

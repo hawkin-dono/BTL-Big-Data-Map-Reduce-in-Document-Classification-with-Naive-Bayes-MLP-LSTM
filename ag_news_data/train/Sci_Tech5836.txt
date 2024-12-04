@@ -1,0 +1,1 @@
+Apple Patches 15 Mac OS X Flaws (Ziff Davis) Ziff Davis - Apple claims most users are protected from the worst dangers of the flaws, many of which originate in the OS' open-source components.

@@ -1,0 +1,1 @@
+Version 2.0 of Linux Standard Base specs now available The latest Linux Standard Base specifications are now out, allowing open-source vendors and developers to maintain easy portability and compatibility among applications for Linux.

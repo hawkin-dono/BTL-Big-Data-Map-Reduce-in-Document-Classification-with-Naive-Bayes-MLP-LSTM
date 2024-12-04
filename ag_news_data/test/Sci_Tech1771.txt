@@ -1,0 +1,1 @@
+Injection Flaw Found in Browsers Danish security research firm Secunia has reported a vulnerability that occurs in most browsers that can be exploited by hackers looking to spoof the content of Web sites.

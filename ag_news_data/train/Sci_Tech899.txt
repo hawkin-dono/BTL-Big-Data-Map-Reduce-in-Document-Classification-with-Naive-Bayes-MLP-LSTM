@@ -1,0 +1,1 @@
+Cryptography break threatens digital signatures Researchers in the field of cryptography have been successfully breaking the hash functions that are used to secure the privacy of electronic communications, threatening the integrity of digital signatures, according to a report on Slashdot. 

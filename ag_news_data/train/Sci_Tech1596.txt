@@ -1,0 +1,1 @@
+Oracle moves to monthly patching schedule After coming under criticism for sitting on patches for multiple holes in its database software, Oracle has announced that it will move to a monthly patch release schedule, though it hasn't said when.

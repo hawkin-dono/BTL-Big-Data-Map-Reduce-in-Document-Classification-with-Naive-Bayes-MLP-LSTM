@@ -1,0 +1,1 @@
+Group Enlists Honey Pots to Track IM, P2P Threats IMlogic Inc. on Tuesday announced plans to use honey pots to track malicious virus activity on instant messaging and peer-to-peer networks.

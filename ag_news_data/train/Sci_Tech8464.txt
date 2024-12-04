@@ -1,0 +1,1 @@
+Microsoft provides Office source code to governments Facing growing competition from open source software providers, Microsoft Corp. has decided to allow governments and international organizations access to source code for its Office 2003 productivity suite.

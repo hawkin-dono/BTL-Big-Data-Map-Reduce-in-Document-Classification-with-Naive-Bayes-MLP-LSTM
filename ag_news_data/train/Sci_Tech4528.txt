@@ -1,0 +1,1 @@
+PC makers: Look before taking SP2 leap Many PC makers have a list of drivers and other patches that should be in place before installing the OS update.\

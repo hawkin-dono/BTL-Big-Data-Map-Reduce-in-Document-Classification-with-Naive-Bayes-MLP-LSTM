@@ -1,0 +1,1 @@
+Transmeta claims anti-virus first with new processor com. Using 90nm processes and AntiVirusNX technology, Transmeta claims it #39;s the first low-power x86-based processor to provide hardware support for the anti-virus protection enabled by XP #39;s SP2.

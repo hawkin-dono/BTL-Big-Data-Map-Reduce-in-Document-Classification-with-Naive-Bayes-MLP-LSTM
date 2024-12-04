@@ -1,0 +1,1 @@
+Microsoft Issues First Patch for Windows XP Service Pack 2 (NewsFactor) NewsFactor - Microsoft (Nasdaq: MSFT) has issued its first patch for Service Pack 2, which has been on the market for just a month and a half. The patch fixes a flaw in the VPN, or virtual private \network.

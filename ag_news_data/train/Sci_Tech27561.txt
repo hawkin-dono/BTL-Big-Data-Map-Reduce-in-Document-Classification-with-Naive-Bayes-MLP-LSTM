@@ -1,0 +1,1 @@
+Penguin Computing launches cluster in a box (InfoWorld) InfoWorld - Armed with a new form factor and its clustering management software, Penguin Computing on Wednesday launched an aggressively priced Linux-based blade server targeted at the lower end of the market -- a market recently entered into by Dell Computer.

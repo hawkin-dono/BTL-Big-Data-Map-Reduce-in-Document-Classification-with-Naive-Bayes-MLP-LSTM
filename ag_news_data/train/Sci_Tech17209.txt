@@ -1,0 +1,1 @@
+Microsoft Clears One License For Many Cores Microsoft software that is currently licensed on a per-processor model will continue to be licensed per processor, not per core, for hardware that contains dual-core and multi-core processors.

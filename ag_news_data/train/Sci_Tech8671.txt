@@ -1,0 +1,1 @@
+Hot skills: Oracle Application Server offers an alternative to IBM &lt;b&gt;...&lt;/b&gt; Oracle Application Server 10g is an application platform suite that offers full support for J2EE, high-speed caching, rapid application development, enterprise portals, identity management, business intelligence, application and business integration 

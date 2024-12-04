@@ -1,0 +1,1 @@
+New Standard Java Spec Emerges In what is being called  quot;the most significant enhancement to the Java platform, quot; a consortium of Java-related companies launched the newest version of the Java 2 Standard Edition (J2SE).

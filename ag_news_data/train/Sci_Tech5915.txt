@@ -1,0 +1,1 @@
+Sybase offers free ASE license for Linux Sybase Inc. is trying to lure businesses seeking low-cost open source DBMS alternatives by offering a free production license for its Adaptive Server Enterprise Express Edition on Linux.

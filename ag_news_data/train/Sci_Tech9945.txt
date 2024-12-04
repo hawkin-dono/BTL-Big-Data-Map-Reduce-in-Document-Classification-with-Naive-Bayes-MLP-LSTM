@@ -1,0 +1,1 @@
+News: JPEG exploit toolkit spotted online A toolkit designed to exploit a recently-disclosed Microsoft JPEG vulnerability has been released onto the net.\

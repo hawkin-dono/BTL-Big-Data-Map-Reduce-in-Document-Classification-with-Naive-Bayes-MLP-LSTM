@@ -1,0 +1,1 @@
+IE Drag-and-Drop Flaw Warning A security bug in Microsoft Internet Explorer #39;s drag-and-drop feature could put millions of Web surfers at risk of malicious hacker attacks, researchers warned on Thursday. 

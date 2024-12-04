@@ -1,0 +1,1 @@
+Vendors announce new Web Services Specification AMD, Intel Corporation, Microsoft Corp. and Sun Microsystems have announced the publication of Web Services Management (WS-Management), a Web services specification that addresses the cost and complexity of 

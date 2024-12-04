@@ -1,0 +1,1 @@
+BladeLogic ships updated data center automation software Version 6 of BladeLogic Operations Manager allows data center managers to make provisioning, change and compliance actions based on the services a company needs.

@@ -1,0 +1,1 @@
+Apache, open-source groups wary of Sender ID The Apache Foundation pulls support for the antispam technology because of Microsoft's license requirements.

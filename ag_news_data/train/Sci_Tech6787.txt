@@ -1,0 +1,1 @@
+Who Needs Clustering? (NewsFactor) NewsFactor - Clustering, or grid-server configurations, have matured, with built-in capabilities that have taken out some of the intimidating factors inherent in the system topology. As a result, clustering has become more practical for a broader range of I.T. applications and sectors.

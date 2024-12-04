@@ -1,0 +1,1 @@
+E-Vote Vendors Hand Over Software To help increase voter confidence in electronic voting systems, a federal agency establishes a voting software library. All of the major voting-equipment makers are submitting their software. The hope is the library will help ensure that no one alters voting code without it being detected. By Kim Zetter.

@@ -1,0 +1,1 @@
+Google patches one security hole, but another surfaces Search engine darling Google has patched a hole in its search engine the could have allowed malicious hackers to modify the content of the Google search results page or silently modify search results, but a new hole may have already appeared.

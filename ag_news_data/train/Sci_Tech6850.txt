@@ -1,0 +1,1 @@
+Linux standards base Version 2.0 has C support The Free Standards Group (FSG) on Tuesday will release Version 2.0 of its Linux Standard Base (LSB), a key standard that enables developers to rally around a common programming framework and keeps Linux from fragmenting into competing camps.

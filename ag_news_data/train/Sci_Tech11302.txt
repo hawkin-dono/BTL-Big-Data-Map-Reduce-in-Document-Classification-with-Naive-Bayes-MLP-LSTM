@@ -1,0 +1,1 @@
+SSH Proxies and Timeouts \\The other day I blogged about setting up SSH proxies .  \\It turns out this is only 90 correct. You need to specify a timeout for the\'nc' command or they will block forever on your proxy machine and then you'll\run out of processes.\\The new command is \\"nc -w 60 h p "\

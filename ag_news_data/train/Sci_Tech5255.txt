@@ -1,0 +1,1 @@
+Sun readies first Opteron blade server Sun Microsystems Inc. next year will introduce a new line of blade servers that will bring the Linux operating system and Advanced Micro Devices Inc.'s Opteron processor to its Netra line of telecommunications industry servers.

@@ -1,0 +1,1 @@
+Symantec: Viruses Aimed at Windows Grow in Number According to the Symantec report, there is a sharp rise in so-called  quot;bot networks quot; of compromised PCs that are used by hackers to launch denial-of-service attacks.

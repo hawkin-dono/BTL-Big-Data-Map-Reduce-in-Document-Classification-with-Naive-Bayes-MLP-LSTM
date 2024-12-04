@@ -1,0 +1,1 @@
+Yahoo, EarthLink Test DomainKeys Spoofing Defense Yahoo announced enhancements to its e-mail service, implementing search, more storage and its DomainKeys sender authentication technology, which is also being deployed by Internet service provider EarthLink in a test roll-out.

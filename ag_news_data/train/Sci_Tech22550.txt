@@ -1,0 +1,1 @@
+Finjan Software warns of ten new vulnerabilities in Windows XP SP2 Finjan Software, the leading provider of proactive secure content management solutions for enterprises, announces today 10 serious security vulnerabilities discovered by Finjan #39;s Malicious Code Research Center (MCRC) in Windows XP Service Pack 2 (SP2 

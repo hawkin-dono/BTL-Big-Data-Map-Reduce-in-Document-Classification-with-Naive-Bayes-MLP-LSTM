@@ -1,0 +1,1 @@
+New spec uses Web services to manage remote data center &lt;b&gt;...&lt;/b&gt; Microsoft, Sun and a trio of other leading hardware vendors today published the WS-Management specification, which spells out how data centers can use Web services 

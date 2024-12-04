@@ -1,0 +1,1 @@
+Oracle Announces Quarterly Critical Patches Quarterly patch updates will allow organizations to better plan configuration management, says Oracle, eliminating the need to deal with the current unscheduled  quot;surprise quot; patch alerts.

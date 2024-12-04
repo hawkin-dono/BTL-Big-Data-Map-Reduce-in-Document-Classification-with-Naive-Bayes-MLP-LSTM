@@ -1,0 +1,1 @@
+PostgreSQL 8.0 will run on Windows Open-source database to jump from beta testing to production within three months.

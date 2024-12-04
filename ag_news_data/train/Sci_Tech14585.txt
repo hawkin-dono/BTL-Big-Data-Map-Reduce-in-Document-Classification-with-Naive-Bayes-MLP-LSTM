@@ -1,0 +1,1 @@
+IBM Introduces New Blade Servers IBM has introduced six new models in its BladeCenter server line, including five new HS20 models and a new JS20 blade server. The Intel-based HS20 systems now are equipped with two new, compact 

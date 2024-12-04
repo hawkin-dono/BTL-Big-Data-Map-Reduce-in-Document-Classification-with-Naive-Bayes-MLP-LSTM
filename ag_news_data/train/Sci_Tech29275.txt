@@ -1,0 +1,1 @@
+Apple blocks iPod Photo from RealNetworks Harmony Apple has finally done it. They have blocked the files downloaded from RealNetworks music store from playing on iPod Photo. The software update on the Apples music player will not let it now play files downloaded from Reals Harmony software.

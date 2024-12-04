@@ -1,0 +1,1 @@
+Start-up banks on Java hardware boost A Silicon Valley start-up called Azul Systems plans to start selling hardware next year designed to make it faster and more efficient to run Java programs.

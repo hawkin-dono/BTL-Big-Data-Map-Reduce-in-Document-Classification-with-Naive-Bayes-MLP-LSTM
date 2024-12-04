@@ -1,0 +1,1 @@
+JBoss ships J2EE 1.4-compliant open source app server JBoss on Monday is shipping JBoss Application Server 4.0, which the company is billing as the first open source application server certified as compatible with the J2EE 1.4 platform.

@@ -1,0 +1,1 @@
+Flaws and a Delay for XP SP2 Just one day after Microsoft delayed the delivery of its Windows XP Service Pack 2 (XP SP2) update for the Professional Edition, a German research firm announced the discovery of two security flaws in the application. 

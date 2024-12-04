@@ -1,0 +1,1 @@
+Oracle Pushes Users to Patch New exploits could affect customers who never applied patches for known database flaws.

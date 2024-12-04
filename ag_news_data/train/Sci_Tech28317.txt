@@ -1,0 +1,1 @@
+JBoss aims high with Enterprise Middleware System JBoss Inc. on Monday plans to announce its JBoss Enterprise Middleware System, which includes a number of open-source projects the company plans to integrate into a single software offering.

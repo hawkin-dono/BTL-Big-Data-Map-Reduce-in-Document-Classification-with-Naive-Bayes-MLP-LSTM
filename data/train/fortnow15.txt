@@ -1,0 +1,7 @@
+Parallel Repetition Redux
+
+This week I return to Banff for Recent Advances in Computational Complexity. The mountains help attract quite an impressive collection of fellow complexity theorists.
+
+Last night Paul Beame presented a new paper by Thomas Holenstein that simplifies and improves part of Ran Raz's proof of the Parallel Repetition Theorem, one of the more complicated arguments in computational complexity. The new result replaces roughly Section 6 of Raz's paper with a new embedding argument (Holenstein's Lemma 8), a way for two players to usually agree on the outcome of a distribution where they both have approximations of the distribution, using only shared randomness and no other communication.
+
+Paul did take nearly an hour sketching Raz's proof (with a little help from Ran who was in the audience) before he could even describe Holenstein's contribution so we don't yet have a simple version of the parallel repetition theorem, but it has become much simpler than before.

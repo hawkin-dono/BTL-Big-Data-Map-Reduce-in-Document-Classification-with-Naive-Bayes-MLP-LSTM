@@ -1,0 +1,1 @@
+Columnists: Simple and Secure isn't so Simple Simple to code does not always mean simple for the user. And simple for the user is often not easy to code.

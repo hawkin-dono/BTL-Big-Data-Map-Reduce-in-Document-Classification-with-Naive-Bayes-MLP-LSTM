@@ -1,0 +1,1 @@
+Microsoft offers sneak peak of SQL Server 2005 Microsoft has announced the availability of Beta 2 of its SQL Server 2005 database, which will include support for AMD's 64-bit Opteron CPU and Intel's 64-bit Itanium chip.

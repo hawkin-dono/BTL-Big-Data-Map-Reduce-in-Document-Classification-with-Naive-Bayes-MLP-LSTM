@@ -1,0 +1,1 @@
+BMC update aims to nip downtime in the bud Batch scheduler revamp promises to fend off application failures and boosts BMC's service management push.

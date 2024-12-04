@@ -1,0 +1,1 @@
+VMware Pioneers New Way to Deploy Software Environments Last week, I spoke with VMware Vice President of Marketing Michael Mullany about VMware ACE, a fascinating solution that simplifies and secures the deployment of software environments to mobile workers, contractors, and telecommuters.

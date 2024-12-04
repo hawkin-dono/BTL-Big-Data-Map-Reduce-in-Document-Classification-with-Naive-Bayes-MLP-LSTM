@@ -1,0 +1,1 @@
+ARM to add multimedia booster to next-gen chips ARM this week added a SIMD engine to its ARMv7 ISA in a bid to improve the platform #39;s ability to process multimedia and network datastreams.

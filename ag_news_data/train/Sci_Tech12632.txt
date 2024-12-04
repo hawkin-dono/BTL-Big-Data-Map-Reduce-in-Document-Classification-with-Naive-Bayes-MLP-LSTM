@@ -1,0 +1,1 @@
+File Deletion Flaw In Firefox Fixed The Mozilla Foundation #39;s Firefox stand-alone browser, which has been riding a wave of defectors from the security-plagued Internet Explorer, has a bug of its own, the open-source group recently announced.

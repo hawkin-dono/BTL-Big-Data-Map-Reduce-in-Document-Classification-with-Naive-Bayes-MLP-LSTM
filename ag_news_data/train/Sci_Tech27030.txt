@@ -1,0 +1,1 @@
+Firefoxs biggest obstacle is lazy programming The biggest obstacle facing widespread adoption of the Firefox browser is lazy programming - not from the Mozilla Foundation but from corporates that have not tested their applications with anything but IE.

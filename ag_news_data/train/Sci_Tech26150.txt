@@ -1,0 +1,1 @@
+Lycos App Lets Users Exact Revenge on Spammers Lycos Europe launched a free screensaver that deliberately clogs spam servers. The  quot;Make Love Not Spam quot; screensaver, available in both Mac and PC formats, sends HTTP requests to a list of servers that Lycos 

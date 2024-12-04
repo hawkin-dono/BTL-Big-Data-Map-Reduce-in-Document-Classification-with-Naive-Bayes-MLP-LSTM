@@ -1,0 +1,1 @@
+Rebirth for the x86 Your basic everyday x86 server doesn't look so average anymore. In fact, with 64-bit extensions on the table and multi-core processors in the works, this venerable PC server is looking downright jazzy.

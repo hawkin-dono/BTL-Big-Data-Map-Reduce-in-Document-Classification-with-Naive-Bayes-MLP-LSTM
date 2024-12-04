@@ -1,0 +1,1 @@
+Microsoft Changes Its Tune on Porting SP2 Fixes Microsoft has been reticent to commit publicly on how, when and whether it would make the browser-specific security fixes that it delivered as part of Windows XP Service Pack 2 available to users of older versions of Windows.

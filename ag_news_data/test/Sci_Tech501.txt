@@ -1,0 +1,1 @@
+IBM fits PCs with new hardware-based security chip IBM is using a microcontroller from National Semiconductor that stores passwords, digital certificates and encryption keys.

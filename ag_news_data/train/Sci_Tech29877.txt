@@ -1,0 +1,1 @@
+Microsoft Patches Critical XP Firewall Flaw (NewsFactor) NewsFactor - Microsoft (Nasdaq: MSFT) has released a patch for a potentially serious configuration flaw in the firewall that ships with the company's Windows XP Service Pack 2.

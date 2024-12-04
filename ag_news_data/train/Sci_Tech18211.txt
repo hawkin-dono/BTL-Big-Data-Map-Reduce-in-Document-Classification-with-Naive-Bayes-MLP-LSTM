@@ -1,0 +1,1 @@
+Sun Delivers NetBeans 4.1 Access Release Sun Microsystems on Monday gave its NetBeans IDE 4.1 developers a rolling start toward working with the 4.1 version of the product, shipping an early access release that features support for Enterprise Edition 1.4 with EJB and Web services.

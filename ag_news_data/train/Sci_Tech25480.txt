@@ -1,0 +1,1 @@
+New Nokia Trojan Locks Down Phones A new mobile trojan is doing the rounds, reportedly disabling Nokia 7610 handsets. The trojan may affect some other phones using the Series 60 User Interface of the Symbian OS.

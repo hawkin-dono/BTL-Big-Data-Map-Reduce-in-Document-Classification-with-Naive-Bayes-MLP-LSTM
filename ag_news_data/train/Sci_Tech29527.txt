@@ -1,0 +1,1 @@
+Adobe patches holes in Acrobat Reader Adobe has patched two bugs in its Acrobat Reader application that could allow an attacker to take over a user #39;s system via a malicious PDF attached to an e-mail message.

@@ -1,0 +1,1 @@
+Building a Linux PVR, Part 2 In this second part of our personal, home-made PC-based PVR solution, Anandtech focuses on Microsoft #39;s Windows XP Media Center.

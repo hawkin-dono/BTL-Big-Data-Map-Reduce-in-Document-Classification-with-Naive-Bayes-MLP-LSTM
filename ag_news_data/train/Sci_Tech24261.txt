@@ -1,0 +1,1 @@
+IBM Breaks Computing Speed Barrier IBM announced that an IBM POWER5(TM) processor-based IBM eServer(TM), running DB2 Universal Database(TM), has attained a milestone in computing history, soaring past the barrier of three million transactions per minute on the TPC-C benchmark and setting 

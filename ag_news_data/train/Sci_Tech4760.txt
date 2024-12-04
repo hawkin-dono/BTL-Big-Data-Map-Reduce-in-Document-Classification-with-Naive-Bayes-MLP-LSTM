@@ -1,0 +1,1 @@
+IBM storage server targets midsize companies Big Blue is the latest to embrace iSCSI, a protocol increasingly being used to build low-cost storage area networks.

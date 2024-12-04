@@ -1,0 +1,1 @@
+Test reluctance could block virtualisation The need to test packaged applications on virtualised systems could hold up the deployment of server virtualisation software, according to attendees at Gartner #39;s datacentre conference in Las Vegas this week.

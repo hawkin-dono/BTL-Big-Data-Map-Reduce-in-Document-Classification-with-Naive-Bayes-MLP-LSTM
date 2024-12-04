@@ -1,0 +1,1 @@
+Browser Flaw Leaves Online Shoppers Open to Phishing Scam Security firm Secunia reported that the vulnerability affects nearly all browsers, including Internet Explorer, Mozilla, Firefox, Konqueror, Opera, Netscape and Safari.

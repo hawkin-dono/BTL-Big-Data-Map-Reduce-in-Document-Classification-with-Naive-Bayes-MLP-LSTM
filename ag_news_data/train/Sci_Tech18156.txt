@@ -1,0 +1,1 @@
+Red Hat patch update a malicious hoax An e-mail disguised as a Red Hat patch update is a fake designed to trick users into downloading malware, the Linux vendor warned in a message on its Web site.

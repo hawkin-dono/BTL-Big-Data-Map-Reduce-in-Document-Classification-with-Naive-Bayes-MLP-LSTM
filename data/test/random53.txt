@@ -1,0 +1,21 @@
+Nokia N97 : Format / Hard Reset On Bootup
+Nokia N97 : Format / Hard Reset On BootupIts always a good idea to do a format once every few month or even when you first get your new s60 device.
+
+theres 2 ways to do a hard format to the device memory:
+
+1). once the device is powered on and at the home screen type *#7370# and then enter your security code (default is 12345) and then your device will restart and reset.
+
+2-a). to hard reset when the device is off hold down the green call key, the number 3 key and the *+ key then continue to hold the keys and now hold the power key, hold all 4 keys untill the devicce boots upp and asks for the country etc.Diagram
+*NOTE if you own a nokia 5800 XM then the second option is:
+
+2-b). hold the green and red call keys, the camera capture key and then the power key, hold them untill the device boots up and asks for country etc.5800XM Diagram
+
+
+*NOTE if you own a nokia n97 then the second option is:
+
+2-c). Hold the left shift key, the spacebar and the back key then the power key, hold them until the device asks for the country etc.N97 Diagram
+
+
+If your device fails to boot up or gives a contact the retailer message then a hard format on boot will usualy sort the problem.
+
+WARNING doing a hard reset will DELETE all user data on the device memory, including contacs, calendar entries and any apps etc you have installed to C: drive, your mass memory/memory card will remain unafected so any data will still be there, however you may have to reinstall some apps even if they are installed to mass mem/mem card. 

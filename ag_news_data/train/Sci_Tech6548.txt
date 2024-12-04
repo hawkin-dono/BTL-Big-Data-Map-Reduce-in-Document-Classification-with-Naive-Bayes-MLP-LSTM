@@ -1,0 +1,1 @@
+Intel suggests overlay to boost Internet performance Intel announced its plans on Thursday to improve the Internet by making it safer, more useful, reliable, and accessible. At Fall IDF (Intel Developer Forum), Pat Gelsinger, Senior Vice President and Chief 

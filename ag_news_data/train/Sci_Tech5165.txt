@@ -1,0 +1,1 @@
+Debian rejects Sender ID The Debian Linux group will not deploy the Sender ID anti-spam standard, because Microsoft #39;s license terms do not fit within its free-software guidelines.

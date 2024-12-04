@@ -1,0 +1,1 @@
+Exploit for Microsoft JPEG Flaw Is Published Code that claims to partially exploit a weakness in Microsoft software #39;s handling of image files has been published on the Internet.

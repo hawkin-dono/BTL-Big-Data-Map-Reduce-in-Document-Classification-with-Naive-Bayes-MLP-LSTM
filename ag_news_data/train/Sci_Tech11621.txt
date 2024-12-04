@@ -1,0 +1,1 @@
+Microsoft hypes BI, adds reporting tools for end users Microsoft unveiled plans Wednesday to integrate business intelligence reporting into the next version of SQL Server, placing new reporting tools in the hands of end users.

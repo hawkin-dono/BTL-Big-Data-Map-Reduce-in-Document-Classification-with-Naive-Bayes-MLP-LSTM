@@ -1,0 +1,1 @@
+Open-Source Community Skeptical About Microsoft #39;s Sender ID &lt;b&gt;...&lt;/b&gt; Microsoft this month is moving forward with the developer implementation of its anti-spam Sender ID framework, but open-source advocates and mail vendors doubt whether the software giant #39;s new proposed license meets open-source requirements.

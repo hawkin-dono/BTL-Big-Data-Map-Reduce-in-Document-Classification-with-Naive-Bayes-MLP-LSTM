@@ -1,0 +1,1 @@
+Google fix second phishing vulnerability Google have fixed a phishing vulnerability that was discovered by Netcraft on Wednesday. Google notified Netcraft that they had closed the vulnerability today at 06:30 BST, making this less-than-two-days response 

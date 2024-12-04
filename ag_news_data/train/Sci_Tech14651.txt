@@ -1,0 +1,1 @@
+New IM Worm On The Loose A new worm that spreads via Microsoft #39;s instant messaging client began badgering users Monday, several security firms said. Dubbed Funner, the worm propagates by sending itself to all the contacts listed in 

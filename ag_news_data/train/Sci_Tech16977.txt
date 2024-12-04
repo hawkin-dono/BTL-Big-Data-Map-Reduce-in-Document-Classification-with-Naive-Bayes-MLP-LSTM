@@ -1,0 +1,1 @@
+Major browsers bitten by security bugs What do Internet Explorer, Mozilla's browsers, and Opera all have in common? Bugs.

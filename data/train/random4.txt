@@ -1,0 +1,26 @@
+Cynefin Case Study: Managing Complexity 
+September 23, 2005 | Business & Commerce | People & Society 
+Dave Snowden was present, but only addressed specific detailed questions. The presentation was done by the lead researcher/practicioner, Bruce McKenzie, and the client's liaison, Dr. Robert Kay, who is the Head of Strategic Thinking, and has published widely in the areas of autopoietic and social theory.
+The client: Westpac Banking Corp. 8.2 million customers in Australia and New Zealand, 27,000 employees.
+Project revolved around strategic risk management:
+Dealing with uncertainty 
+Surfacing assumptions 
+Mapping knowledge flows 
+Strengthening the resilience of the organization (in the face of uncertainties) 
+Strategic insurance for plausible events 
+Organizing companies/teams is in essence about establishing a network of knowledge flows. Corporate restructuring destroys existing flows and lowers the resilience of the company. 
+Can be very subtle. Gave an example about a large company where people with newish cars were concerned that people with oldish cars were not respecting the new cars (opening doors fast creating minor dents, etc). They put a policy in pace where parking was now assigned based on car age, with three categories (new, middle, old). Well, it turns out that the three top dogs at this company had been arriving at work more or less the same time every day for years, and had walked into the building together, riding the elevator, and catching up on the business they didn't have time to discuss during the day. The informal knowledge that lubricates organizations and keeps people in tune with the various distributed aspects. It also turned out that the three of them each now had to park in a different place: One had a new sedan, one had a family van, and one had a clunker. When the parking was reorganized they lost their "glue" time each day, and all three noticed that they felt disconnected from what was happening at the company. It's very hard to consider all of the side effects, and so reorganizing any aspect of an existing structure should be undertaken with great care.
+The challenge and responsibility in managing complexity is moving from analyzing the past to imaging the future. The key is: Don't try to be right, try to not be wrong.
+Companies have to change their cultures to move from "knowledge is power" to "sharing is power." One advantage of the acceleration of culture and technology is that knowledge becomes outdated sooner, reducing the "holding power" of individuals. 
+At this point there was a series of amazing charts, graphs, software screens, and analysis methods from the project that would be impossible to capture in ASCII diagrams. I believe they are going to post session materials, and if so I'll update this post with a pointer.
+Conversation maps. 
+Narrative collation. 
+Soft systems. 
+Uncertainty/Impact matrix. 
+Wind tunnel matrix. 
+Knowledge interdependency map. 
+I think this was the most amazing aspect of the work: They have a series of processes, and custom software to support the capture and analysis of qualitative data, that generate complex yet comprehendible information. It's clear to me that if most executives were faced with the information Westpac Bank had, they would change their decision-making process to support these plausible future scenarios.
+That's another thread of the work. Previous work with scenarios tended to end at the scenario generation, with the hope that line managers would Do The Right Thing. Here, tied into the management of strategic risk, the leadership team could together figure out The Plan, and use it as a focal point for implementation, modifying as they went based on changing conditions and employee feedback.
+Much of the data was gathered not from sitting in the corporate boardroom brainstorming, but through interviews with front-line staff (like tellers and loan officers) and customers (who had both good and bad experiences). Hence, the scenarios and plans have a tangible, practical, "rings true" quality that you don't see from most top-down initiatives.
+This work feels far from incremental, but rather a quantum lead from any type of consulting process or software support system I've ever seen. The Cynefin website doesn't do it justice, but we're told to visit again in a few months as things start to roll out. Many kudos to making such visionary work practical and tied to real-world problems, generating tangible results.
+Note: Snowden is spending much of his time working with governments on the public policy aspects of this work, such as "weak signal analysis" of existing information flows looking for terrorist signals. Intelligence agencies in both the US and Singapore are engaged in this work.

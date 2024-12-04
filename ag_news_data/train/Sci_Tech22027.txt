@@ -1,0 +1,1 @@
+Google laces Gmail with POP3 support Google Inc. will roll out POP3 (Post Office Protocol) support gradually over the coming weeks to Gmail users, who will be able to use the feature to download e-mail messages from Gmail servers to e-mail applications on devices such as PCs and wireless devices.

@@ -1,0 +1,1 @@
+Big Blue Breaks Price Barrier With Linux Lineup IBM today released an entry-level Power5-based server tuned for Linux, the eServer OpenPower 720 -- an alternative to the higher priced HP and Sun entry-level Unix and Linux systems.

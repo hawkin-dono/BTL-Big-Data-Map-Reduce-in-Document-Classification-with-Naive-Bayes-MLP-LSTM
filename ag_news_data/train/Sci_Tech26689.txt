@@ -1,0 +1,1 @@
+Microsoft releases patch to fix severe Internet Explorer flaw SEATTLE -- Microsoft Corp. released a critical security patch Wednesday to fix a flaw in its Internet Explorer Web browser that could allow an attacker to run malicious software on another person #39;s computer.

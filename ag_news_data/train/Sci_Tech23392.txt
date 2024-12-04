@@ -1,0 +1,1 @@
+Sun Launches Free Solaris 10 With Tiered Subscriptions Sun Microsystems formally launched its Solaris 10 operating-system upgrade on Monday as a free, more advanced, multiplatform OS alternative to Red Hat Linux, with backing from new partners such as eGenera and SAP.

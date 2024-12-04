@@ -1,0 +1,1 @@
+IBM Makes Speech Code Open Source IBM #39;s motive is not altruistic. By making the software open-source, IBM hopes that other programmers will make improvements, thus speeding the development of speech applications and allowing 

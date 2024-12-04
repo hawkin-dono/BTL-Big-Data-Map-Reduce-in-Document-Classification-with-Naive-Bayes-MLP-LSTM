@@ -1,0 +1,1 @@
+Transmeta ships 90-nm processor Transmeta last week announced it had started shipping limited quantities of its x86-compatible Efficeon TM8800 processor, a low-powered CPU fabbed on 90-nanometer silicon.

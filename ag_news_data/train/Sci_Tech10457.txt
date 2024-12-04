@@ -1,0 +1,1 @@
+Sender ID working group disbanded The Internet Engineering Task Force (IETF) has wound up its working group on Sender ID, the proposed spam-cutting standard. The purpose of Sender ID technology is to help verify the source of emails by authenticating domain addresses as valid.

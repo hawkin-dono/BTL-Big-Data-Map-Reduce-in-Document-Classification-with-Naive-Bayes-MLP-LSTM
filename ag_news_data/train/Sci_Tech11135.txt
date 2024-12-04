@@ -1,0 +1,1 @@
+Will JpegOfDeath Help Slay Microsoft? A patch has been issued for the JpegOfDeath hole. But so what? No one believes every single user of Microsoft #39;s Internet Explorer is going to apply it, and this means the door is wide open for hackers.

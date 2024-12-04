@@ -1,0 +1,1 @@
+Symantec adds threat data to managed security services Beginning next week, users who pay Symantec to manage their security infrastructures will be able to get extensive information on global cyberthreats and threats particular to their IT systems.

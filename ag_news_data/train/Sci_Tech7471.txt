@@ -1,0 +1,1 @@
+Microsoft Not Trying To Hijack Anti-Spam Spec (NewsFactor) NewsFactor - The Internet Engineering Task Force, an organization devoted to \establishing standards for Internet architecture, has raised concerns \about Microsoft's (Nasdaq: MSFT) Sender ID anti-spam technology as a technical \standard.

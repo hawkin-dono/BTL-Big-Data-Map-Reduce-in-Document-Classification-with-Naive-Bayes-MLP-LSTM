@@ -1,0 +1,1 @@
+U.S. Bancorp, VeriSign team on banking security U.S. Bancorp will use VeriSign's Unified Authentication service to validate and secure interactions with commercial banking customers, providing them with a secure USB token they must use when accessing services online.

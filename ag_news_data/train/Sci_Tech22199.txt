@@ -1,0 +1,1 @@
+New Trojan Virus Sends Spam to Russian Mobile Phones A new Trojan virus has appeared in Russian that hijacks PCs and sends spam via SMS text messages to mobile phones. After infecting a PC, the Delf-HA Trojan sends spam to the St.

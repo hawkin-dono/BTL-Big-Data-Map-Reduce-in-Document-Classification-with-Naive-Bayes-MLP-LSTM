@@ -1,0 +1,1 @@
+Windows kernel, LSASS flaws fixed As anticipated, Microsoft today released five security bulletins rated  quot;important. quot; All five fix vulnerabilities in Windows that could have been exploited by attackers to 

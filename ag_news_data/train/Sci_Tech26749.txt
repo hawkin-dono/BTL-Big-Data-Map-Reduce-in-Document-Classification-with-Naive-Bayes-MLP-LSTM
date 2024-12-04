@@ -1,0 +1,1 @@
+Microsoft releases patch to plug IE vulnerability Microsoft today released an out-of-cycle security bulletin and patch for a critical hole in Internet Explorer that is already being widely exploited by attackers.

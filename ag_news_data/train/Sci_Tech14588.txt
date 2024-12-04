@@ -1,0 +1,1 @@
+Novell #39;s Open Enterprise Server To Ship Early Novell plans to co-ordinate the release of Open Enterprise Server with the availability of the first service pack for SuSE Linux Enterprise Server 9. Customers will be able to deploy OES knowing 

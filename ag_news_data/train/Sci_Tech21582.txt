@@ -1,0 +1,1 @@
+Microsoft to skip Itanium with supercomputing Windows Microsoft Corp. will support only x86 processors with 64-bit extensions when it releases a special version of Windows Server for high performance computing (HPC) next year, leaving support for Intel Corp.'s Itanium 2 for a later, undefined date.

@@ -1,0 +1,1 @@
+Linux: Fewer Bugs Than Rivals An analysis of the 5.7 million lines of Linux source code shows that it contains fewer bugs per thousand lines of code than commercial counterparts. By Michelle Delio.

@@ -1,0 +1,1 @@
+Flaw in Office has DoS attack potential A security company warned on Thursday that a flaw in Microsoft Office could allow a denial-of-service attack to be executed on systems running somewhat older versions of the popular productivity suite.

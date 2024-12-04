@@ -1,0 +1,1 @@
+IBM and Intel go public with design specs of the BladeCenter &lt;b&gt;...&lt;/b&gt; IBM and Intel have announced that they are to open up the design specifications of their BladeCenter platform. The partners say that the publishing of the specs is intended to enable third parties to design and build compatible kit and grow the market.

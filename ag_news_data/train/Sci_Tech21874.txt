@@ -1,0 +1,1 @@
+Trojan spams Russian mobile phones An ingenious new trojan is hijacking PCs to send SMS-based spam to mobile phones. After a PC has been infected, the Delf-HA trojan contacts a website for details on which spam campaign to run and then randomly 

@@ -1,0 +1,1 @@
+Licensing Plan Makes Microsoft a Utility Player Opinion: A decision to continue charging for server software based on CPUs and not cores will make Microsoft server software a much more attractive alternative to utility computing providers.

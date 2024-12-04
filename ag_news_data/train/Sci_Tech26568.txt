@@ -1,0 +1,1 @@
+HP ditches datacentre service for automation module Hewlett-Packard will replace its HP/UX utility datacentre (UDC) service with a business automation module for OpenView, which it claims will let companies be more flexible.

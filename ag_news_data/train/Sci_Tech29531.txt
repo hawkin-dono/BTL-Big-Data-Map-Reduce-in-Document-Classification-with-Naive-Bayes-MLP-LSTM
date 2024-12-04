@@ -1,0 +1,1 @@
+Wi-Fi access point squeezed onto single chip Wireless chipset manufacturer Atheros announced on Wednesday that it has managed to fit the full functionality of a high-speed wireless access point onto a single processor.

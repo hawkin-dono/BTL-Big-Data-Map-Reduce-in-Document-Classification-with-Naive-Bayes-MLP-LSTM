@@ -1,0 +1,40 @@
+
+Dr Faust confirmed
+
+As expected, Dr Faust was confirmed as the 28th president of Harvard University. The choice increases the diversity of the presidents in many respects, see Pug Bus. Faust said:
+
+    * I hope that my own appointment can be one symbol of an opening of opportunities that would have been inconceivable even a generation ago. [But] I'm not the woman president of Harvard, I'm the president of Harvard.
+
+Well, I am somewhat less certain about the last sentence. At any rate, she's the fifth president in a row who is not a scientist and she is much further from science than her permanent predecessor.
+
+I find this happiness about the femaleness of a president insane. It works very differently in the commercial world. Despite being attractive and interesting, the last Dow Jones female CEO was fired exactly two years ago.
+
+How has Hewlett-Packard been doing since February 2005? Well, you can see February 2005 in the graph below. It's the moment when the linear growth of the stock price from $20 to $42 started. ;-) The earnings quadrupled between Q4 2005 and Q4 2006. Four days ago, Standard & Poor have upgraded Hewlett-Packard Inc. from "A-" to "A". All my computers in the last 10 years were Hewlett-Packard, so congratulations!
+
+
+
+Fortunately for all of us, there is no analogous way how to draw similar graphs describing universities which is why all people in the Academia may uncritically celebrate that most of the Ivy League presidents will be female. It's just great, by definition. ;-)
+
+Posted by Lumo at 4:31 PM | 0 slow comments | fast comments (6) | Trackback (0) | Links to this post    
+
+Stickers: computers, freedom vs PC, markets
+
+Loop quantum gravity and non-locality
+
+Several readers have asked me what I think about
+
+* Disordered locality and loop quantum gravity states
+
+by Fotini Markopoulou and Lee Smolin. Well, the main statement in the first sentence of the abstract that loop quantum gravity suffers from a problem of non-locality is of course correct. It is the same problem as the problem that loop quantum gravity can't generate flat space.
+
+The rest of the paper is entirely incorrect and the new concepts are entirely vacuous. For example, the paper tries to argue that the non-locality is so rare that it will be difficult to detect this problem: the predictions of loop quantum gravity are untestable. I said "tries to argue" because what they write is so incredibly far from something that could be called an argument that I would be dishonest if I wrote that they present an argument.
+
+The inability of loop quantum gravity to reproduce smooth three-dimensional space means that the links in their aether - the spin network spam that is supposed to fill empty space - will be stretched in between random vertices that can't be arranged in three-dimensional space in such a way that the short links would dominate.
+
+The visible Universe has linear dimensions of order 10^{60} Planck lengths. The volume is about 10^{180} Planck volumes which means that there are about 10^{180} vertices of the aether in it. If any pair can be connected, you expect roughly 10^{360} links, most of which are stretched across the Universe: a maximum violation of locality you can imagine.
+
+How can they argue that the non-local effects are small without having any evidence for any kind of locality in their toy model? Well, they argue on page 8 that only 10^{80} of the possible non-local links are turned on, which is 10^{-280} times the total number: non-local links are thus rare. Where does the exponent 80 come from? As you can guess, it comes from nowhere. It's just a complete nonsense: a wishful thinking combined with the intent to eliminate the human brain from science completely. The correct estimate is higher by 280 orders of magnitude. The probability that a generic link is non-local is of order one, not 10^{-280}, unless a miracle is proven. Such a miracle is almost impossible: a simple toy model like that simply can't produce dimensionless universal parameters that are as small as 10^{-280}. This discrepancy by 280 orders of magnitude would make their miscalculation the worst scientific misjudgment in the history of science if it were a part of science.
+
+I don't think that a reader must have a degree to see that what they're doing is just silly.
+
+And that's the memo.

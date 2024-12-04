@@ -1,0 +1,1 @@
+Sun unveils UltraSparc IV Sun Microsystems Inc. on Tuesday was set to announce its UltraSparc IV microprocessor, the last significant upgrade to the company's processor line before it begins shipping the redesigned chips it calls "throughput computing" processors, and hands over the task of building chips for the bulk of its systems to Fujitsu Ltd.

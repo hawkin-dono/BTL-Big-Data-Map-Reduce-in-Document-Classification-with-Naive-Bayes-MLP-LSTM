@@ -1,0 +1,1 @@
+Intel launches 2.93 GHz Celeron D, PCI Express chipset Intel today announced additions to its Celeron D entry level processor family. The new chips come with LGA775 packaging known from 90 nm Prescott Pentium 

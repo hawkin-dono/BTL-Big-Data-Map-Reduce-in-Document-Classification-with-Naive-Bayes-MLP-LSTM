@@ -1,0 +1,1 @@
+NetApp eases storage provisioning pain Network Appliance Inc. has unveiled the next version of its operating system, DataOntap 7G, which includes two significant new features that improve provisioning and capacity utilization within its filers.

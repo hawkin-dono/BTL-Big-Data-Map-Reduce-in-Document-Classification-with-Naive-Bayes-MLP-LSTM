@@ -1,0 +1,1 @@
+Microsoft scoffs at  #39;10 new XP SP2 flaws #39; According to the security company, the flaws mean that  quot;attackers can silently and remotely take over an SP2 machine when the user simply browses a web page quot;.

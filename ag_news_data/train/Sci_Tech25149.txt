@@ -1,0 +1,1 @@
+Torvalds, Windenius, Lerdorf Fight EU Software Patents The three most famous European authors of open-source software today issued an appeal against software patents in Europe. Linux author Linus Torvalds, MySQL author Michael Windenius and 

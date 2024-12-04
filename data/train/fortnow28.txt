@@ -1,0 +1,17 @@
+The Job Talk
+
+As we begin January so begins the hiring season. In January CS departments start sifting through candidates deciding whom to bring in for interviews. Don't wait until you get your interview call, now is the time to get your job talk ready.
+
+A great job talk by itself won't guarantee you a job, but I've heard of many an instance where a bad talk has ruined a candidate's chances despite otherwise stellar credentials. A good job talk should achieve three goals.
+
+   1. Explain your results.
+   2. Explain why your results are important.
+   3. Explain how you achieved your results. 
+
+Fail to do the first two and you will not get the job. We theorists have a tendency to want to "wow" an audience with our clever techniques but first you must spend several slides carefully giving an intuitive description of your research and why those in the audience should care about the results. Be sure and mention what your own research is early in the talk and again at the end.
+
+Know your audience, usually a broad spectrum of computer scientists. You give a different talk to them than you would in a regular theory seminar. Motivation and intuitive explanations of your research are key.
+
+Repeat the following mantra as you prepare your slides: Formulas bad. Pictures good. Formulas bad. Pictures good.
+
+Give a practice talk in your own department. Invite some people from outside theory. Listen to the comments. Revise your talk. Repeat.

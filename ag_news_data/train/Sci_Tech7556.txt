@@ -1,0 +1,1 @@
+AOL Dumps Sender ID AOL (Quote, Chart) has withdrawn its support for Microsoft #39;s controversial Sender ID technology and falling back on Sender Policy Framework (SPF), internetnews.

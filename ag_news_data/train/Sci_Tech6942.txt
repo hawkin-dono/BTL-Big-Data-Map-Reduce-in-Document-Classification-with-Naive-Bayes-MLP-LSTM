@@ -1,0 +1,1 @@
+IETF Decides On SPF / Sender-ID issue Zocalo writes  quot;The MARID working group at the IETF responsible for deciding on which extensions to SMTP will be used to try and prevent spoofing of the sender has made their decision.

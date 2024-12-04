@@ -1,0 +1,1 @@
+Vendor group publishes new Web services management spec A group of technology vendors that includes AMD, Dell, Intel, Microsoft and Sun Microsystems, last week published a new Web services specification designed to simplify network administration across a range of devices.

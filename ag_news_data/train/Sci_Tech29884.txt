@@ -1,0 +1,1 @@
+NTT DoCoMo Achieves 1Gbps Packet Transmission in 4G According to JCN Network, NTT DoCoMo announced December 17 that it succeeded in achieving 1Gbps in downlink packet data transmission in a laboratory experiment using forth-generation (4G) mobile communication radio access equipment on August 20, 2004.

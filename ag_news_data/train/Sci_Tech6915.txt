@@ -1,0 +1,1 @@
+Open-Source Developers Cheer New Linux Base Standard (Ziff Davis) Ziff Davis - The Free Standards Group's updated standard will improve Linux code portability and interoperability, developers say, and reduce the worry of platform fragmentation.

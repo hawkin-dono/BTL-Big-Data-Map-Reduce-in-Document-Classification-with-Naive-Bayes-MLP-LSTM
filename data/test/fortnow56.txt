@@ -1,0 +1,34 @@
+Whither to Post, Tweet or Facebook?
+
+On the blog we have a straightforward post policy, Bill and I try to make one post on nearly every work day. Occasionally we'll have extra posts for breaking news, mostly deaths and truly major new theorems. But occasionally we'd have short announcements or pointers. Sometimes we would pad a short item with an extra observation or I would sometimes just have a post with a long list of short items.
+
+Right after STOC I started experimenting with Twitter and quickly got hooked. With no fixed schedule I can give quick tweets on anything that interests me or I think important for the community to know. Sometimes I can get what would have been a post down under Twitter's 140 character limit. So now I use the blog for longer posts and tweet the shorter stuff, using Twitter as an extension to the blog. 
+
+Sounds ideal but there's a catch. Only a small fraction of you blog readers also follow me on Twitter. Some of what I Tweet would have been in the blog. So sometimes I need to repeat a tweet as a longer post or occasionally post a list of the more important and/or interesting tweets. What an excuse to do that now. 
+
+    * The new and improved ECCC 
+    * Just told that for recent stimulus-based grants: If it is determined that you are not spending quickly enough the funds can be revoked.
+    * Scan (11MB PDF) of shirt design from old Complexity conference (then Structures). Don't ask about the dog.
+    * Netflix contest over but no winner for a few weeks. Exciting conclusion (via:@ipeirotis)
+    * RT @statpumpkin: Bellkor's Pragmatic Chaos first place in Netflix Prize - contacted by Netflix and in validation phase. (thx @piggymurph)
+    * Tron returns and NYT worries about computers taking over. Coincidence?
+    * Iran has stopped issuing visas for US citizens including academics. The world got a little smaller.
+    * Rare CS article in Science Times: Destroying data with cryptography. 
+    * Faded lines on Beamer slides only draw attention to themselves (e.g. pg 2 of this)
+    * Congrats to Rafael Pass and Nothwestern's Nicole Immorlica new Microsoft Research Faculty Fellows.
+    * Comic Sans: Yes it looks handwritten. Cute the first 100 times I've seen it. Now go use a grown up font. (See also bancomicsans.com)
+    * Awesome EC Keynote by Michael Moritz on innovation. "Companies whither when scientists and engineers move further away from the helm"
+    * Moritz: Many best and brightest mathematicians and scientists waste their lives working for private equity houses.
+    * And from June 3rd: Taught Moser's proof in my intro theory course today! (A comment worthy to be my first twitter post).
+
+
+Maybe I can talk Bill into Tweeting too. Imagine non-stop van der Waerden numbers. 
+
+Now what about Facebook? In Facebook I can break my friends into roughly three groups.
+
+   1. Academics
+   2. Friends and Family
+   3. People I haven't seen in 25 years.
+
+
+Problem is I have little to say to all three groups so I don't change my Facebook status often. Basically a few status updates about where I am traveling or some photos of the family. Facebook allows you to create groups of friends and show updates only within those groups. I need the opposite operation, creating status updates that only go out to a select group or groups. I'll likely use Facebook for my personal stuff, if you are in groups 1 or 3 and hide or unfriend me I won't be insulted.

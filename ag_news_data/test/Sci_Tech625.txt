@@ -1,0 +1,1 @@
+Symantec Firewall/VPN Appliance 200/200R (firmware builds prior to &lt;b&gt;...&lt;/b&gt; Rigel Kent Security  amp; Advisory Services notified Symantec of three high-risk vulnerabilities they identified in the Symantec Firewall/VPN Appliance during an assessment.

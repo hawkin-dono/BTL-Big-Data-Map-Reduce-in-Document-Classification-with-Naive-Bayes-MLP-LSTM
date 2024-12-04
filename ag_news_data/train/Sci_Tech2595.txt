@@ -1,0 +1,1 @@
+Microsoft Posts Windows XP Service Pack 2 Compatibility Guide Microsoft has released a kit to help IT professionals spot compatibility problems between Windows XP Service Pack 2 and other applications, and how to roll out fixes.

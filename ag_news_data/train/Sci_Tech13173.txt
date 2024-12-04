@@ -1,0 +1,1 @@
+AMD dual-core Opterons gain SSE 3 support AMD #39;s dual-core AMD64 chips will provide instructions compatible with Intel #39;s SSE 3 technology, the chip maker announced at the Microprocessor Forum yesterday.

@@ -1,0 +1,1 @@
+AMD Demonstrates 90nm x86 Dual-Core Processor AMD has been demonstrating the industrys first x86 dual-core processor at its Austin facilities on an HP ProLiant DL585 server powered by four dual-core Opteron processors manufactured on 90nm SOI process technology, the company announced today.

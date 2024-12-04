@@ -1,0 +1,1 @@
+Is Unix Coughing Up Ground? The operating system that powers the lion #39;s share of servers is losing ground to Windows and Linux. Unix is losing so much ground that IT research firm IDC is predicting Windows will take over as the dominant server operating system by the year 2008.

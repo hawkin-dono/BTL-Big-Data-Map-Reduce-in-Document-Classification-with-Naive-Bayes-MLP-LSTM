@@ -1,0 +1,1 @@
+Brilliant Digital and Altnet Sue the RIAA Kazaa and Grokster, which belongs to the large FastTrack network, uses the UUHash hashing mechanism to verify files. Its main advantage is that it allows large files to be checked very quickly.

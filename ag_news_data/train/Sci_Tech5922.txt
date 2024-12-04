@@ -1,0 +1,1 @@
+Pair of Linux Holes Put Users at Risk (Ziff Davis) Ziff Davis - Researchers claim attackers can exploit security vulnerabilities in components used to view graphics and handle archives to take over a Linux system.

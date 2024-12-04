@@ -1,0 +1,1 @@
+CA supports open source Ingres for Linux and Windows Computer Associates International Inc has announced that the open source version of its Ingres database management system is now available with enterprise-level support options for Linux and Microsoft #39;s Windows.

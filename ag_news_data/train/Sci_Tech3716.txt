@@ -1,0 +1,1 @@
+At Deadline Briefs Microsoft Corp. announced Friday a change in plans for the next major release of Windows, which is code-named Longhorn. The new Windows storage subsystem, code-named WinFS, won #39;t be part of the Longhorn client, as previously planned.

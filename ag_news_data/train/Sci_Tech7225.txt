@@ -1,0 +1,1 @@
+Sun exec: Community brings innovation to Java SAN JOSE, CALIF. -- A Sun Microsystems official at the BorCon conference here on Tuesday touted the Java Community Process (JCP) for amending the Java programming language, but did not have any revelations pertaining to industry calls for making Java available under an open source format.

@@ -1,0 +1,1 @@
+Debian Rejects SenderID RWerp writes  quot;LWN.net reports that Debian, a Linux distribution known for its commitment to Free Software ideas, rejected Microsoft-patented SenderID technology, intended to combat spam.

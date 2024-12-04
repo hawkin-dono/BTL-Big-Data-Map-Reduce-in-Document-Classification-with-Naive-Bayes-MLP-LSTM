@@ -1,0 +1,1 @@
+Microsoft issues patch for  #39;critical #39; JPEG-handling flaw SEPTEMBER 14, 2004 (REUTERS) - Microsoft Corp. today released a patch for its latest  quot;critical quot; security flaw affecting how Windows, Office and developer tools software process images in the JPEG image format.

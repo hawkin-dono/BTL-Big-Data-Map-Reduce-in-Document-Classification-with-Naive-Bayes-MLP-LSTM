@@ -1,0 +1,23 @@
+Wrap-Up
+
+I twittered about some interesting papers, the business meeting and various other impressions. Since I don't have much time to write up this post I'll just list my conference related twitters here in chronological order.
+
+    * At CCC in Paris. Arrived half way through Ryan giving talk of our paper. Paris attracted impressive group of researchers.
+    * If a talk starts with a warning about simplifying, it won't be simple enough.
+    * Steve Cook: Not surprised P vs NP taking so long to solve.
+    * Manindra bring back the BH isomorphism conjecture to CCC. I had posted about it back in April.
+    * Bill during Manindra's talk. He claims the room is too warm.
+
+
+    * Prajakta Nimbhorkar gives last CCC talk of the day with log-space alg for planar graph iso. Nice application of L=SL.
+    * CCC banquet at Macéo easily beats EC banquet at Google but we got caught in a hail storm on way back to hotel.
+    * Scott talks quantum money with no intentional jokes or proofs.
+    * Live Tweeting the CCC business meeting. Promised 30 mins/35 if discussion. 100+ attendees with 36 students. USA 28, France 18, Israel 11
+    * Hastad PC report: 37 papers accepted out of 113 (32.7%). High because after STOC announcements. PC more fun in person maybe not crucial.
+    * CCC 2010 in Boston in Harvard, June 9-12 after STOC and same as EC all in Cambridge. Dieter van Melkebeek PC chair. Salil Vadhan local.
+    * CCC 2011 at FCRC (June 4-11) in San Jose. Again with STOC and EC as well as many others.
+    * Discussion on paper v. electronic proceedings. Straw vote: 28 electronic vs. 11 paper. Steering committee will decide.
+          o @geomblog replies: why do all theory confs have straw polls and let the steering committee decide ? let's be democractic or autocratic, not neither !
+    * Scott brings up problems with ECCC, server often down, papers get delayed or rejected. I'll post more next week.
+    * New steering committee chair: Peter Bro Miltersen. New members: Johan Hastad and Manindra Agrawal. Meeting over, lasted 50 minutes.
+

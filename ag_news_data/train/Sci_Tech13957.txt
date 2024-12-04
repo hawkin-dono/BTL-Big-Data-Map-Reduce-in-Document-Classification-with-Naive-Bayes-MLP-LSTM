@@ -1,0 +1,1 @@
+Critical Flaw Discovered In MS Word According to an advisory published on security firm Secunias website, a critical vulnerability exists in Microsoft Word, which can be exploited by a malicious code to cause a DoS (Denial of Service) and potentially compromise a user #39;s system.

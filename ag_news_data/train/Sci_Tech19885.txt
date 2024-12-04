@@ -1,0 +1,1 @@
+Bagle back from the dead THE BAGLE worm is back from the dead with three new variants which are different enough to avoid some AV scanners. McAfee, Symantec and Sophos also reported intercepting many samples of the new worms and advised customers to update antivirus signatures.

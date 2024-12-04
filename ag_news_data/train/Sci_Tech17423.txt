@@ -1,0 +1,1 @@
+Another Phishing Hole Found in Google Google Inc. said on Thursday it fixed a flaw in its site that could allow outsiders to launch phishing attacks based on Google #39;s familiar interface, and is working on a second fix for another similar vulnerability.

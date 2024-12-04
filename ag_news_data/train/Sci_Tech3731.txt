@@ -1,0 +1,1 @@
+SP2 May Spell Trouble for Agentless Patching Microsoft Corp. #39;s Windows XP Service Pack 2 has thrown patch management vendors into a tizzy. IT managers should be interested because, in an ironic twist, SP2 will likely make it harder to keep desktops and laptops up-to-date with the latest patches.

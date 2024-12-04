@@ -1,0 +1,1 @@
+Security concerns put MSN Messenger beta on hold Microsoft has suspended the beta testing of the next version of its MSN Messenger client because of a potential security problem. Testers discovered a potential security issue in the early version of MSN Messenger 

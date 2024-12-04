@@ -1,0 +1,1 @@
+Yahoo, Earthlink Build Bulwark Against Spoofing There are several technologies similar to DomainKeys, including Cisco #39;s Identified Internet Mail and Microsofts #39;s SenderID.

@@ -1,0 +1,1 @@
+IBM Revamps WebSphere (NewsFactor) NewsFactor - IBM (NYSE: IBM) has launched a new version of its WebSphere application server software, adding autonomic troubleshooting capabilities and other new features designed to improve performance in the middleware platform.

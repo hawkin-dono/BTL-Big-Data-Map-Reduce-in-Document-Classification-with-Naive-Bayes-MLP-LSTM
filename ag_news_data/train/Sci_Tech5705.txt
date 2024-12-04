@@ -1,0 +1,1 @@
+Microsoft Doubles Blocking Time For SP2 Microsoft has doubled the time that businesses can block Windows XP SP2 from downloading automatically, giving them until mid-April to test the update.

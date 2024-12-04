@@ -1,0 +1,1 @@
+Microsoft releases critical security patch Microsoft has found two new security flaws in its software, including a critical hole that could spread viruses using Jpeg graphics.

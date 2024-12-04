@@ -1,0 +1,1 @@
+Telestream Unveils Windows Media 9 Series Encoding Support For Mac Telestream announced Friday support for exporting or importing files in the Microsoft Windows Media format on Mac OS X platforms. Telestream #39;s new support capabilities for Windows Media 

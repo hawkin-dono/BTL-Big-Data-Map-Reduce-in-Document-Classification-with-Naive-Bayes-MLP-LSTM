@@ -1,0 +1,1 @@
+Controversial Microsoft security plan heads for Longhorn SAN FRANCISCO--Microsoft continues to tweak a controversial architecture for securing PCs but still plans to include the feature in Longhorn, the next release of Windows.

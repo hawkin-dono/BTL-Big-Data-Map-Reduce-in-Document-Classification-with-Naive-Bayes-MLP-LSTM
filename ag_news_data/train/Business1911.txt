@@ -1,0 +1,1 @@
+Sun partners for high-speed Ethernet Sun Microsystems will integrate drivers for S2io #39;s Xframe 10 Gigabit Ethernet Adapter into the Solaris operating system for Sparc, AMD Opteron, and Intel Xeon servers.

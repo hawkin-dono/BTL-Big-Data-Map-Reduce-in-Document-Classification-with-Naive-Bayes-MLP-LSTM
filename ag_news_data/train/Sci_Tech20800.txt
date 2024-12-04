@@ -1,0 +1,1 @@
+Linux cluster storage system takes off Linux Networx has developed a clustered storage appliance which is able to pool capacity from separate storage devices into a single high-capacity resource.

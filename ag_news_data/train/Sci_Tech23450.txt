@@ -1,0 +1,1 @@
+News: Cisco fixes 'decoy attack' in security software Cisco has discovered a security flaw in its Cisco Security Agent software (CSA. This could be exploited by attackers to circumvent the security provided by the host-based intrusion prevention product.

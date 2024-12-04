@@ -1,0 +1,1 @@
+Google acts to cover up phishing hole Google on Thursday fixed a security flaw in its Web search service that could have allowed malicious hackers to modify its pages. According to a report posted to the Bugtraq Security Focus list on Wednesday 

@@ -1,0 +1,1 @@
+Netscape Revamped With Mozilla 1.7 Netscape Communications has released Netscape 7.2, successor to the older version 7.1, which was released in mid-2003. The new release is based on version 1.7 of Mozilla, the most recent version of the Mozilla Internet application suite. 

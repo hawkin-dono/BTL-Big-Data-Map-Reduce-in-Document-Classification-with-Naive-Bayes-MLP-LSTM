@@ -1,0 +1,1 @@
+AMD Opteron Chills Out with Power Management PowerNow has been included in all Opteron chips that have been on the market since mid May, but the feature cannot be used until instructions are built into the operating system.

@@ -1,0 +1,1 @@
+Borland looks to take on Visual Studio with Diamondback The product combines development on the Win32, Delphi and .Net platforms, accommodating legacy Windows and new application development.

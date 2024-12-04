@@ -1,0 +1,1 @@
+E-Mail-Authentication Problems Spawn New Apps Port25 has released a new version of its PowerMTA, geared to address E-mail-authentication specs and accreditation services. By Thomas Claburn.

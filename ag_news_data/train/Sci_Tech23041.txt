@@ -1,0 +1,1 @@
+.Net development gets new tools, code initiative Avanade on Monday is partnering with Microsoft to release Enterprise Library, which features reusable code, tools, and guidance intended to make it easier to develop in the .Net environment.

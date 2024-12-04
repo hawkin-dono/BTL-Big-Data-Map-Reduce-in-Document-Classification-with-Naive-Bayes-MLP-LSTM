@@ -1,0 +1,1 @@
+Symantec Firewalls And Gateways Are Vulnerable To Attack Symantec has announced that several of its firewalls and gateways are vulnerable to denial of service attacks, and has released firmware to fix them.

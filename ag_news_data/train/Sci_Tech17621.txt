@@ -1,0 +1,1 @@
+Security Flaw in Browsers Poses Phishing Threat (NewsFactor) NewsFactor - A security issue has been discovered in a common feature included in several Web browsers, including Mozilla, Firefox, Opera, Konqueror and Camino.

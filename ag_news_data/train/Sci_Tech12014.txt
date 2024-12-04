@@ -1,0 +1,1 @@
+New Windows Patch Proves Tricky (washingtonpost.com) washingtonpost.com - The emergence of a new Internet virus targeting a Microsoft Windows security flaw could cause more damage than usual because the company's system for fixing the problem is so complex that many people will not bother to download it, security experts warned.

@@ -1,0 +1,1 @@
+AMD dual-core demo pips Intel, IBM AMD has demonstrated the company #39;s first dual-core microprocessors. Dual-core processors offer improved performance over single-core chips, especially in multithreaded applications.

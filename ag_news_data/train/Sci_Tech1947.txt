@@ -1,0 +1,1 @@
+Macromedia Delivers Flex Builder Macromedia promises to speed development of Internet applications with a new tool for its Flex platform. With Flex, enterprises can add interfaces to strategic applications, including visual 

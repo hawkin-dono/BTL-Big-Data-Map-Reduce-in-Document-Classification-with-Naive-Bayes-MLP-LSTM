@@ -1,0 +1,1 @@
+Cisco, Microsoft Band Together on Network Security Microsoft and Cisco are integrating their security technologies in an effort to isolate computers that are infected with viruses or have other security risks -- thus preventing them from spreading the danger to corporate networks.

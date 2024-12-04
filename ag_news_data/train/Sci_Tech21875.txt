@@ -1,0 +1,1 @@
+Itanium 2 stuffed with cache Intel has delivered updated Itanium 2 processors with larger memory caches aimed, in part, at high-volume data warehouse transaction markets that have long been the domain of Risc systems.

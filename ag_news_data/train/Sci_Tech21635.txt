@@ -1,0 +1,1 @@
+Photo: IBM's p5-575 server IBM's p5-575, a specialized server geared for high-performance computing, has eight 1.9GHz Power5 processors.

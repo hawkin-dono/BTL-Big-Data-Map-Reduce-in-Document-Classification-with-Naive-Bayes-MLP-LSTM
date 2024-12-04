@@ -1,0 +1,1 @@
+IBM drops eServer Power5 clock speed to chase Sun IBM Corp will today announce that it will move its slower 1.5GHz Power5 processors into its eServer p5 520 and 550 servers in an attempt to make the  quot;Squadron quot; servers more appealing to customers using rival Sun Microsystems Inc #39;s Sparc/Solaris boxes and 

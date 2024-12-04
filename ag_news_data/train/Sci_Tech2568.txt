@@ -1,0 +1,1 @@
+Webcam worm watches from afar A new version of an old computer worm has a nasty twist, anti-virus firm Sophos warned on Monday. The Rbot-GR worm can use webcams attached to infected computers to spy on users.

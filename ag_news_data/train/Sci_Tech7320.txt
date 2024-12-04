@@ -1,0 +1,1 @@
+Opteron gets power management In an effort to help enterprise users get a handle on power and heat issues associated with new server designs that pack more processing punch in smaller spaces, Advanced Micro Devices on Monday announced that systems built with its 32/64-bit Opteron 

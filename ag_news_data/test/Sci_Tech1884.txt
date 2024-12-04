@@ -1,0 +1,1 @@
+Holes Found in Cisco, Veritas, Samba Products (Ziff Davis) Ziff Davis - Security sources announce four mostly unrelated enterprise vulnerabilities in Cisco Unity, Cisco Guard, Veritas' Backup Exec, and Samba, the Windows file-sharing utility for Linux.

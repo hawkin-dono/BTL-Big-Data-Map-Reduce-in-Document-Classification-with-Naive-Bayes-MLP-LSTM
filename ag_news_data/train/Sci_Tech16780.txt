@@ -1,0 +1,1 @@
+JBoss goes up the stack to Business Processes JBoss after a series of announcements last month (see JBoss announces gt;) has made another significant announcement with JBoss jBPM, their first step into business process management.

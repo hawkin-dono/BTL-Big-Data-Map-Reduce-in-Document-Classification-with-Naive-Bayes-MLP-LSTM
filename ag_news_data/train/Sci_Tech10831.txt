@@ -1,0 +1,1 @@
+Start-up strives for open-source compatibility (SiliconValley.com) SiliconValley.com - A new Seattle start-up called SourceLabs seeks to solve a longstanding problem with the popular open-source software movement: Components often don't talk with each other.

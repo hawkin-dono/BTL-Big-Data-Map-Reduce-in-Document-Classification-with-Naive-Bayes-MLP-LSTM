@@ -1,0 +1,1 @@
+IBM, Sun join with Microsoft on Web services event specification IBM, Sun Microsystems, and Computer Associates have jumped aboard in support of the WS-Eventing specification for subscribing to Web services-based events, joining original developers Microsoft, BEA Systems, and Tibco Software.

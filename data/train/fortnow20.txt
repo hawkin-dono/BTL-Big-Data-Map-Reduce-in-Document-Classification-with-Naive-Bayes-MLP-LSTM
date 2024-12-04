@@ -1,0 +1,18 @@
+Theory and Systems
+
+An anonymous graduate student asks
+
+    Why do theory students have to take systems courses? 
+
+Most American Ph.D. programs have distributions requirements where every student must take courses and/or exams in many different subfields of computer science. Why have these distribution requirements and in particular why should theory students need to know systems concepts they feel they will never use.
+
+    * If a student becomes an academic computer scientist they will have to evaluate systems candidates for hiring and tenure and better they can tell the difference between good systems and bad systems.
+    * Just like theoretical physicists should do some experimental physics to realize what they do should have some grounding in reality, all computer scientists should do some programming to get a better feeling about the concept of computation.
+      The mission of computational complexity is to understand the power of efficient computation and how can one really understand efficient computation if they don't try to do it themselves.
+    * A good systems class will surprise many theory students by showing that much of systems have a strong theoretical underpinning and basic concepts like abstraction underlies both theory and systems. Some very good theoretical work has arisen from questions from the systems community and vice versa. 
+
+Many new Ph.D. students make the mistake of trying to fulfill all of their distribution requirements as soon as possible. But this makes the beginning of the Ph.D. program feel like an extension of undergraduate education. Better to take the courses over time and get involved in research as soon as possible.
+
+I did receive my Ph.D. in Applied Mathematics and didn't have a systems requirement. But I did take systems classes as an undergrad and during my first year at Berkeley and I did extensive programming in high school and during my undergrad days. Programming has helped me tremendously in my research. Putting together old theorems to make new theorems is not unlike making different pieces of code work together.
+
+One might also ask why theory students should take AI courses? I'll leave that to a future post.

@@ -1,0 +1,19 @@
+Imre Simon Passed Away Recently
+
+(Janos Simon emailed me this information that should interest readers of this Blog.)
+
+Imre Simon, a distinguished Hungarian-born Brazilian Theoretical Computer Scientist passed away August 12.
+
+Most of his scientific accomplishments were in "European" Theoretical Computer Science--his main research area was combinatorics of words: he was responsible for the introduction of the formal study in Theoretical Computer Science, of the algebraic structure that is now known at "Tropical Semiring". [The structure is the abstraction of the Kleene operation on languages: sum, product (without inverses, but with the usual distributive properties), and star. The name "tropical" is an allusion to Brazil.]
+
+Still, his first result in Theory, initially published as a University of Waterloo Technical Report, is a study of the compexity of the Davis-Putnam procedure for proving tautologies (I. Simon, On the time required by the Davis-Putnam tautology recognition algorithm. Notices Amer. Math. Soc. 18 (1971) 970.) He shows that the naive impementation runs in exponential time. I believe that this was the first formal result in proof complexity in the West.
+
+Another result, that may be known to our community is his 1978 FOCS paper (I. Simon, Limited subsets of a free monoid, in Proceedings of the 19th Annual Symposium on Foundations of Computer Science, IEEE 19 (1978).) He considers the following problem on finite automata: Given a regular expression R, consider the language R*= I + R + .... + Ri + .... It is easy to get a procedure that tests whether R=R*. (Exercise for the interested reader!) Now ask the "next" question: is R* = I + R + .... + Ri (instead of an infinite union, just the union of the first i terms). This is also easy, for any fixed i (Exercise for the reader who is still interested.) The question that Imre solved was: Is it decidable whether there is an i, such that R* = I + R + .... + Ri ?
+
+The answer is Yes. Of course, another question is "why does anyone care?" The answer to that is that the proof is very nice--actually Imre gave two proofs, one combinatorial, and one algebraic. More importantly, this is a case where algebraic techniques can be imported to reveal hidden structure, and help attack questions of decidability and compexity. The strategy has proven to be quite important and successful in other contexts.)
+
+A relatively recent biographical sketch and bibliography can be found in the Festchrift for his 60th birthday that appeared as a RAIRO special here
+
+Imre also had an important role in the development of the Theoretical Computer Science community, and, more generally, academic Computer Science in Brazil--in particular the CS Departments at USP (Sao Paulo University) and UNICAMP (University of Campinas) have benefited from his energy, organization and dedication. He was a coauthor of the first monograph on Theoretical Computer Science [T. Kowaltowski, C. Lucchesi, I. Simon and J. Simon, Aspectos Teoricos da ComputaCao. Projeto Euclides. Livros Tecnicos e Cient B1ficos Editora Rio de Janeiro (1979). Prepublished at the occasion of 11o Coloquio Brasileiro de Matematica, IMPA, Rio de Janeiro (1977)], was an advisor and mentor to numerous young Brazilian scientists, helped launch the LATIN series of Theory Conferences, was instrumental in bringing to Brazil visitors like Schutzenberger, Bollobas, Adi Shamir, Lessig, and Benkler, and was an effective booster of the Brazilian Computer Science community both in the Brazilian science establishment and in the Brazilian government.
+
+He was also a generous and unselfish person, and a personal friend. He will be missed.

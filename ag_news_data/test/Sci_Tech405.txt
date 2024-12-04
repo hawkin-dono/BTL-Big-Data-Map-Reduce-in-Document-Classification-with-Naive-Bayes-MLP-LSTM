@@ -1,0 +1,1 @@
+Spam Stopper Detects Sender Patterns (Ziff Davis) Ziff Davis - Commtouch's anti-spam software update halts spam by tracking e-mail server sending patterns.

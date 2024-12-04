@@ -1,0 +1,1 @@
+Kerberos critical hole allows system access The Massachusetts Institute of Technology (MIT) has warned of security vulnerabilities in its implementation of Kerberos that could allow attackers free access to protected systems. Users of MIT Kerberos 5 are urged to apply patches immediately.

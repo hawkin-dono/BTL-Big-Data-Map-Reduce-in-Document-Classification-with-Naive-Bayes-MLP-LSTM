@@ -1,0 +1,1 @@
+IBM spices up corporate search Masala, an add-on to IBM's DB2 database, queries far-flung info sources on company networks.

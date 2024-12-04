@@ -1,0 +1,1 @@
+Microsoft Issues IE Patch (Article Central) Microsoft released its October batch of security advisories this week, with a number of  quot;critical quot; patches, including a significant fix for the Internet Explorer browser.

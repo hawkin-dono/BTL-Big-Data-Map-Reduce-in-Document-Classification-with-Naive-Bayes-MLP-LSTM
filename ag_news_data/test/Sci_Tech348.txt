@@ -1,0 +1,1 @@
+Intel executive: EM64T has set back Itanium SAN FRANCISCO -- Intel Corp.'s decision to begin shipping versions of x86 processors that are capable of 64-bit computing has slowed down the adoption of the company's high-end Itanium processors, a senior executive acknowledged Tuesday during a question and answer session at the Intel Developer Forum (IDF) in San Francisco.

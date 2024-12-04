@@ -1,0 +1,1 @@
+IBM open-sources speech recognition development tools IBM Corp. said Monday it will release as open source code some of its software for speech-enabling applications. The move is intended to spur development in the field and outflank rivals by making IBM's free technology the industry standard.

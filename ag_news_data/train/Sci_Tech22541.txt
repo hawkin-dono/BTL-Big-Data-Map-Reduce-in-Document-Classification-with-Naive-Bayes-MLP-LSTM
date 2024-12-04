@@ -1,0 +1,1 @@
+Google #39;s Gmail Gains Integration With MS Outlook Google #39;s still-not-released-to-the-public free Gmail e-mail service adds POP3 support, letting users send and receive messages from Microsoft Outlook clients.

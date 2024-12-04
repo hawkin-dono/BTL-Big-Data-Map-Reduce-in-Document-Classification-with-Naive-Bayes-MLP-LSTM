@@ -1,0 +1,1 @@
+Oracle intros Business Intelligence 10g Oracle today introduced the latest version of its Business Intelligence product which combines information access, analysis, reporting, data integration and management tools into a standalone application.

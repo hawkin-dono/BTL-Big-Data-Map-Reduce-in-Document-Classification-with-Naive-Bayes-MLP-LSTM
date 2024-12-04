@@ -1,0 +1,1 @@
+IBM Rolls Out Low-Cost Blade Servers IBM has introduced the BladeCenter Express, a lower-cost blade server chassis targeted toward small and mid-size businesses. The company also unveiled several new business-in-a-box packages 

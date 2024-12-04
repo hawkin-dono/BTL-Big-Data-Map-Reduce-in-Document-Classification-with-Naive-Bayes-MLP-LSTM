@@ -1,0 +1,1 @@
+Red Hat Releases New Linux Update Red Hat Inc. Tuesday released its latest patch, Update 3, to its flagship server operating system, Red Hat Enterprise Linux 3. RHEL(Red Hat Enterprise Linux)subscribers can download this latest update from the Red Hat Network.

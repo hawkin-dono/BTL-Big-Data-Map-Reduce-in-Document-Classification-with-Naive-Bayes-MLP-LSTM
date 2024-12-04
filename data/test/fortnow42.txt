@@ -1,0 +1,11 @@
+Interface Between Computer Science and Economics
+
+I'm at Cornell for the NSF-sponsored workshop on Research Issues at the Interface of Computer Science and Economics which has brought together a great collection of CS and Econ people interested in questions of common interest. Economist Larry Blume mentioned how CS helps understand the "inadequacies of the Bayesian paradigm" generally used by economist. Computer Scientist Jon Kleinberg talks how econ helps "broad the range of algorithms" and how computation can be both a resource and constraint in economic models.
+
+NSF CCF director and CS theorist Sampath Kannan talked about similarities between CS and econ: Both deal with human-created artifacts and both talk about understanding the possible and the impossible. I would argue that while computers are a human-created artifact, computation itself is a natural process. I suppose an economists might make a similar argument.
+
+Most importantly Sampath talked about the strong support of the NSF in both CS and Econ to focus more on these communities. The NSF Econ program office Nancy Lutz also promoted this view talking about the fondness of math in both fields.
+
+Much of my research in the last couple of years has been looking at ways to apply tools of computational complexity to economic models which is what I'll be talking about later today. Can we harness the computational powers of "the market"? How does agents of limited computational ability change the outcomes of economic situations? Can we use computation to help explain economics phenomenon? Somehow I need to talk more complexity theorists to work on these problems. Why should algorithms people have all the fun?
+
+On that note the accepted papers for SODA is out and Noam picks out the ones related to CS/Econ issues. 

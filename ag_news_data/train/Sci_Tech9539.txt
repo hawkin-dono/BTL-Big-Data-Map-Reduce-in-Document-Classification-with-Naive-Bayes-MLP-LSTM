@@ -1,0 +1,1 @@
+AOL Service Adds Secure Authentication A keychain-sized device that generates and displays a unique six-digit numeric code every 60 seconds creates a second layer of protection for AOL members using the new authentication service.

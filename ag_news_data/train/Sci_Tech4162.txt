@@ -1,0 +1,1 @@
+Microsoft strips Longhorn of WinFS NEW YORK, September 1 (New Ratings) - Microsoft (MSFT.NAS) reportedly intends to ship Longhorn, its next version of Windows operating system, without WinFS, the next-generation file system.

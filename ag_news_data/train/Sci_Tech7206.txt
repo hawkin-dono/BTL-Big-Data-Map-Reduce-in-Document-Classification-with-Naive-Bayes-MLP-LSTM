@@ -1,0 +1,1 @@
+Microsoft Release Patch to Fix Flaws (AP) AP - Microsoft Corp. announced Tuesday it has found a new security flaw with its Windows XP operating system and warned that an attacker could infiltrate other computers by persuading their owners to open a specialized graphics file.

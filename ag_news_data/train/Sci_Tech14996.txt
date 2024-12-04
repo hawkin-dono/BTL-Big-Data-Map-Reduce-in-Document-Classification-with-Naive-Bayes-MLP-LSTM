@@ -1,0 +1,1 @@
+Microsoft releases fixes for seven  #39;critical #39; vulnerabilities OCTOBER 12, 2004 (COMPUTERWORLD) - Microsoft Corp. #39;s monthly patch release cycle may be making it more predictable for users to deploy software updates, but there appears to be little letup in the number of holes being discovered in the company #39;s software 

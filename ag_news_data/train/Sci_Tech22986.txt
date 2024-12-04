@@ -1,0 +1,1 @@
+Security Vendor Refuses To Detail SP2 Flaws Although Finjan Software has detected ten flaws in Microsoft Windows XP Service Pack 2, it refuses to divulge any technical details.

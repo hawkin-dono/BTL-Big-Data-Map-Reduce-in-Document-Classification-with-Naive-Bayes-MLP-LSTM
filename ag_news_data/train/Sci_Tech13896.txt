@@ -1,0 +1,1 @@
+IBM Outlines Mainframe Integration Roadmap (TechWeb) TechWeb - Among the new features is support for IBM's Virtualization Engine, a slice-and-dice technology that splits processors into as many as 10 virtual CPUs.

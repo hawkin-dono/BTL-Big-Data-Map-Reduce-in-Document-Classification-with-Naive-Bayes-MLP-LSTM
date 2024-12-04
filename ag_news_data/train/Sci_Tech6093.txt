@@ -1,0 +1,1 @@
+Sybase Offers Free Linux Database Sybase Inc. this week released Adaptive Server Enterprise Express Edition for Linux, a free version of its enterprise-class database for deployment on Linux systems.

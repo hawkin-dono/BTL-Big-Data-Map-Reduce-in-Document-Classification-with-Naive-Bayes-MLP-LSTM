@@ -1,0 +1,1 @@
+HP to release Virus Throttler for Windows in 2005 HP plans to add virus-throttling technology to ProLiant servers and ProCurve switches starting in early 2005. Virus Throttler technology slows the spread of a virus or worm within an infected server to give  administrators time to act.

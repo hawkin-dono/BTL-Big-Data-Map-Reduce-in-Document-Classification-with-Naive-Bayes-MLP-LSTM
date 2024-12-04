@@ -1,0 +1,15 @@
+ 
+Proposed NSF Budget
+
+The president sent out his proposed budget for FY08 (starting October 1, 2007). The NSF in general and CS in particular do quite well. The CRA Blog has the details but for the tree we care about:
+
+    * The NSF received a 6.8% increase over the FY07 request.
+    * Research and Related Activities: 7.7%.
+    * Computer and Information Science and Engineering (CISE): 9.0%.
+    * Computing and Communication Foundation (CCF): A whopping 21.4%. 
+
+CCF is where the Theoretical Foundations cluster sits which includes Theory of Computing.
+
+Also NSF would have a new agency wide program on Cyber-Enabled Discover and Innovation (CDI) to "Broaden the Nation's capability for innovation by developing a new generation of computationally based discovery concepts and tools to deal with complex, data-rich, and interacting systems."
+
+The big caveat: The budget has to survive the congressional appropriation process.

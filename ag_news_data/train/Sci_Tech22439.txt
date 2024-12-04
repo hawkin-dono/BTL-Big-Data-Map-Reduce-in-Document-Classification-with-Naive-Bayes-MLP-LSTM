@@ -1,0 +1,1 @@
+Trojan Horse Targets Mobile Phones A new Trojan horse sends unauthorized spam to mobile phones via SMS. Called Troj/Delf-HA by security firm Sophos, the malware has only infected a few users of a Russian wireless network, but 

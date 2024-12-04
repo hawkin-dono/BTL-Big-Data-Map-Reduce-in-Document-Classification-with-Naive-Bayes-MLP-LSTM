@@ -1,0 +1,1 @@
+Enter your e-mail: Last week, Microsoft posted a notice about a new kind of vulnerability in Windows machines. The MS04-028 announcement states that merely opening a JPEG image (one that had been tinkered with by a hacker, of 

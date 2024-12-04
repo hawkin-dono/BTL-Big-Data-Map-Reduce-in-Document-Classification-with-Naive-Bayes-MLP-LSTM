@@ -1,0 +1,1 @@
+Critical patches highlighted in Microsoft #39;s December Security &lt;b&gt;...&lt;/b&gt; Microsoft has unveiled its security bulletin for December, including a critical patch for Windows XP with SP1, and fixes rated as important for SP2.

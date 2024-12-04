@@ -1,0 +1,1 @@
+AMD Adds Power Management to Opteron originally offered on notebook PCs -- to its Opteron 32- and 64-bit x86 processors for server applications. The technology will help servers to run 

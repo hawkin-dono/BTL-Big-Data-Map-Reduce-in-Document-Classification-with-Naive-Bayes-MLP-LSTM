@@ -1,0 +1,1 @@
+Microsoft Issues Five Bulletins on Windows Flaws Desktops, servers affected, but no vulnerabilities deemed critical.

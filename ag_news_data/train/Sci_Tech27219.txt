@@ -1,0 +1,1 @@
+MS Rolls Out Second Interim Beta of SQL Server 2005 Microsoft Corp. on Friday released its second Community Technology Preview of SQL Server 2005 and rolled out a new, free tool to manage SQL Server 2000 and MSDE (Microsoft Desktop Engine) 2000.

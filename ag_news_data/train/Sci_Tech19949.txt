@@ -1,0 +1,1 @@
+Google Plugs GMail Security Hole Google has fixed a security hole in Google GMail, its free invitation only 1GB web mail service. The Google Gmail security flaw allowed hackers to be able to log into a users GMail account with only having to know ones username.

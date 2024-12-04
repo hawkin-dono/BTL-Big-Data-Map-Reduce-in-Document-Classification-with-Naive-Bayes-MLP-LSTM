@@ -1,0 +1,1 @@
+Transmeta's M8800  Efficeon Processor Powers Down New version of the Efficeon processor uses only 3 watts of power at 1-GHz speed.

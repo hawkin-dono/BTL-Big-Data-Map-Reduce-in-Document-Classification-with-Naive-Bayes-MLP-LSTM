@@ -1,0 +1,1 @@
+MPAA Expected to Target BitTorrent Trackers In order to thwart the growth of this network, the MPAA will be pursuing BitTorrent indexing servers known as trackers. While trackers function somewhat differently than traditional indexing servers found 

@@ -1,0 +1,1 @@
+Microsoft Releases New 'Critical' Patches (washingtonpost.com) washingtonpost.com - Microsoft Corp. today released an unprecedented number of software security updates to plug flaws in its products, including seven "critical" defects that it said hackers could use to hijack vulnerable computers running the Windows operating system.

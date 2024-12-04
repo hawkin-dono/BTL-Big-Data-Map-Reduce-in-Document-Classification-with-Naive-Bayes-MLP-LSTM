@@ -1,0 +1,1 @@
+Microsoft Releases A Flurry of Patches Microsoft Corp. yesterday released an unusually large number of software security updates to fix flaws in its products, some of which could be exploited to remotely take over computers running the Windows operating system.

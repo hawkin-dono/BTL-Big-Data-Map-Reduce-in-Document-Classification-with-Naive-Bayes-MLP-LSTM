@@ -1,0 +1,1 @@
+JBoss app server to get HP support In a deal aimed at helping corporate IT decision-makers feel more comfortable about moving to open-source software offerings, Hewlett-Packard Co. will now provide first-call support for JBoss Inc.'s open-source application server.

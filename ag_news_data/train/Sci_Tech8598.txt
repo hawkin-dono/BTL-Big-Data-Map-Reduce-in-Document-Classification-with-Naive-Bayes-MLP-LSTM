@@ -1,0 +1,1 @@
+JBoss delivers aspect orientation with Version 4.0 Open source application servers vendor JBoss Inc will today release version 4.0 of its core JBoss AS product, which is claimed to be the first open source application server to support AOP (aspect oriented programming) for Java.

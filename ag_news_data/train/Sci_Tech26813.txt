@@ -1,0 +1,1 @@
+Columnists: Closed Source Hardware Trust with hardware vendors for open source systems is becoming a one-way street, where in exchange for support they offer a closed source binary solution with no provision to audit security.

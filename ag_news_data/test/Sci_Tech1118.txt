@@ -1,0 +1,1 @@
+News: Mac OS X rootkit surfaces One of the first pieces of malicious code targeting Apple's Mac OS X operating system has been discovered.\

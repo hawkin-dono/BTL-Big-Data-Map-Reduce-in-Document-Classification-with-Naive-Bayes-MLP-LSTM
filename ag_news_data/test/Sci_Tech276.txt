@@ -1,0 +1,1 @@
+Napster Offers Music to Go This service leverages new Windows Media 10 technologies to enable Napster subscribers to download music to portable devices, a technology called Janus.

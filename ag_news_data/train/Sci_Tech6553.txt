@@ -1,0 +1,1 @@
+AMD providing update for Opteron processor AMD uses a technology called PowerNow to control power supply to the processor depending upon how much of the processing power is being used.

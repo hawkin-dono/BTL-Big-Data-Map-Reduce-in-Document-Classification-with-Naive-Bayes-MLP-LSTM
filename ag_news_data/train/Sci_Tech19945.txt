@@ -1,0 +1,1 @@
+Veritas Retools Server Provisioning Adding a big piece to its utility computing jigsaw puzzle, Veritas Software (Quote, Chart) rewrote its OpForce server provisioning software to include application discovery and configuration.

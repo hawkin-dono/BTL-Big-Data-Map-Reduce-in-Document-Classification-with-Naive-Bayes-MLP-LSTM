@@ -1,0 +1,1 @@
+Linux guide designed for developing nations The manual is intended to increase open-source usage among the 800 IT projects sponsored by the United Nations.

@@ -1,0 +1,1 @@
+IBM Integrates RFID with WebSphere (NewsFactor) NewsFactor - IBM (NYSE: IBM) is rolling out a new version of WebSphere software, using radio frequency identification (RFID) technology and middleware targeting retail operations.

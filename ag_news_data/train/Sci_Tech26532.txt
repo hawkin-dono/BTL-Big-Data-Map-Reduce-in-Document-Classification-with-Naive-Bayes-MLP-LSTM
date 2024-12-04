@@ -1,0 +1,1 @@
+Sun: 1.9 million downloads of Java fix (InfoWorld) InfoWorld - Sun Microsystems on Tuesday said there have been 1.9 million downloads of an upgraded version of J2SE to correct a possible security vulnerability in the JVM, although there have been no attacks reported based on the problem.

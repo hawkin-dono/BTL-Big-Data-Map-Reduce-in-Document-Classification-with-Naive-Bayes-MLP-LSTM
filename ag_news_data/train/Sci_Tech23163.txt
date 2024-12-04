@@ -1,0 +1,1 @@
+UTStarCom to put cell networks on IP Network infrastructure maker UTStarCom Inc. says it has figured out a way to keep local cell phone calls local -- even over enterprise LANs.

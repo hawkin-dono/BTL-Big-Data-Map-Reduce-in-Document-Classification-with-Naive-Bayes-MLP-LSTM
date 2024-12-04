@@ -1,0 +1,1 @@
+Real, KDE Patch Security Flaws (Ziff Davis) Ziff Davis - Holes in KOffice and RealPlayer allow attackers to take over a user's system.

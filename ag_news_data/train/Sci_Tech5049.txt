@@ -1,0 +1,1 @@
+Debian rejects Sender ID Developers responsible for the Debian Linux distribution announced on Saturday that they will not implement Sender ID due to Microsoft #39;s insistence on licensing the anti-spam standard.

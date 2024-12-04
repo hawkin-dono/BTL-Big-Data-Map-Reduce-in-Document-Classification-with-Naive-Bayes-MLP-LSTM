@@ -1,0 +1,1 @@
+Hackers Target Microsoft JPEG Hole Malicious hackers are seeding Internet news groups that traffic in pornography with JPEG images that take advantage of a recently disclosed security hole in Microsoft #39;s software, according to warnings from antivirus software companies and Internet 

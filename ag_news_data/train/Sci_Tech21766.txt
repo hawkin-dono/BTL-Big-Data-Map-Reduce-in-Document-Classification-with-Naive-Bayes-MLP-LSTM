@@ -1,0 +1,1 @@
+Patch in for Microsoft server spoofing flaw A flaw in Microsoft #39;s security server software could allow an attacker to fool business users into thinking that malicious content can be trusted, the software giant warned on Tuesday.

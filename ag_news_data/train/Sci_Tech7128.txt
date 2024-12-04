@@ -1,0 +1,1 @@
+Making It Easier To Manage Heterogeneous Desktop Systems A vendor is pushing products designed to let admins manage whole infrastructures from a Windows computer. By Larry Greenemeier. In a bid to help systems administrators extend their Windows-management tools 

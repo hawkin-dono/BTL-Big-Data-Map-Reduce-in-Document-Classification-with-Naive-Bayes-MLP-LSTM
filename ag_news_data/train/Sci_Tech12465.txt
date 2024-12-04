@@ -1,0 +1,1 @@
+Microsoft rolls out embedded Windows XP Hoping to whet the appetite of developers specializing in mobile and embedded devices, Microsoft on Monday made available a free technology preview of Windows XP Embedded containing Service Pack 2 (SP2) that it expects to deliver by year's end.

@@ -1,0 +1,1 @@
+Microsoft extends SP2 auto-update blocker Microsoft is doubling the number of months that corporate customers can block automatic delivery of Windows XP Service Pack 2. The company on Tuesday altered its policy for preventing the automatic download 

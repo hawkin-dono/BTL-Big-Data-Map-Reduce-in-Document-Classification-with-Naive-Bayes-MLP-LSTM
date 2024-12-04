@@ -1,0 +1,1 @@
+Critical Flaw in WinAmp A critical security flaw has been discovered in WinAmp that exploits the stack-based buffer overflow vulnerability allowing attacks from hackers.

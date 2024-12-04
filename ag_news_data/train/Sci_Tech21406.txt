@@ -1,0 +1,1 @@
+Microsoft Intros Supercomputing SDK Looking to drive corporate adoption of its high-performance computing version of Windows Server 2003, Microsoft on Monday introduced an SDK (software development kit) for developers alongside a name change for the product.

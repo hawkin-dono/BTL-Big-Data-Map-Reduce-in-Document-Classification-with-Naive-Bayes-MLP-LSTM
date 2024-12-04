@@ -1,0 +1,1 @@
+IBM unveils new Shark and midrange array OCTOBER 13, 2004 (COMPUTERWORLD) - NEW YORK -- IBM yesterday unveiled two new enterprise-class storage arrays, one aimed at the high end and one at midrange environments but both with compatible software that allows the boxes to be managed through a 

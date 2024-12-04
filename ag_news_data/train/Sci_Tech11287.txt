@@ -1,0 +1,1 @@
+Freescale announces dual-core PowerPC processor Manufactured with a 90-nanometer process, Freescale's MPC8641D processor has two PowerPC e600 processor cores that run at clock speeds faster than 1.5 GHz and are connected by a high-speed interface.

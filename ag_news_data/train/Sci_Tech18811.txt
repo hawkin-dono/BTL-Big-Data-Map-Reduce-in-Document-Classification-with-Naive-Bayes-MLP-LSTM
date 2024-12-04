@@ -1,0 +1,1 @@
+NTT DoCoMo, IBM, Intel team to secure mobile devices With an eye towards making mobile devices and the commerce services that run over them more secure, NTT DoCoMo Inc., Intel Corp. and IBM Corp. on Wednesday published a jointly developed security specification called the Trusted Mobile Platform.

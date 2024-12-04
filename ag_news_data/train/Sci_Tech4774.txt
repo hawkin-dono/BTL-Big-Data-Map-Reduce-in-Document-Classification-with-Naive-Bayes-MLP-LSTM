@@ -1,0 +1,1 @@
+U.S. government, companies warn of critical Oracle flaws US-CERT has issued an alert citing several security flaws in Oracle products that could be used to shut down or take control of vulnerable systems or to corrupt or steal data from Oracle databases.

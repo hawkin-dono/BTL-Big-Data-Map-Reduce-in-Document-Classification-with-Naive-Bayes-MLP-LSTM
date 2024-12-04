@@ -1,0 +1,1 @@
+Commentary: Smoothing the way for open source The success of platforms like JBoss, Apache and Jonas will boost open-source integration products--if some key conditions are met.

@@ -1,0 +1,1 @@
+BlueGene sneaks past Earth Simulator The Earth Simulator, an NEC supercomputer, is surpassed, at last. IBM announced yesterday that its Blue Gene/L supercomputer had achieved a sustained performance of 36.

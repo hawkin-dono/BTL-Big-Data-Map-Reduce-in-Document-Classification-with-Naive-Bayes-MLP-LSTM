@@ -1,0 +1,1 @@
+Exploit Code Appears for MS Graphics Flaw Just a week after Microsoft released a patch to plug a security flaw in the way at least 13 of its programs handle the JPEG imaging format, code appeared on the Internet on Wednesday showing how to exploit those holes.

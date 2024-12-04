@@ -1,0 +1,1 @@
+McAfee releases VirusScan with intrusion prevention McAfee's VirusScan Enterprise 8.0i integrates intrusion-prevention services and firewall technology with antivirus software to automatically protect PCs and file servers from new malicious code outbreaks.

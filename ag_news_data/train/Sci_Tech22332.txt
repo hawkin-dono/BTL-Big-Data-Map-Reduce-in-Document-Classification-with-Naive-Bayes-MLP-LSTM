@@ -1,0 +1,1 @@
+Microsoft Issues Only One Fix in Monthly Security Update In sharp contrast to last month #39;s barrage of critical patches, Microsoft today offered up just one  quot;important quot; fix for users to implement in its scheduled round of security updates for November.

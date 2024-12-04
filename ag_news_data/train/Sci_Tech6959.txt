@@ -1,0 +1,1 @@
+Linux standard adds C support The Free Standards Group (FSG) has revealed details of its Linux Standard Base (LSB) 2.0, a specification aimed at preventing Linux fragmentation.

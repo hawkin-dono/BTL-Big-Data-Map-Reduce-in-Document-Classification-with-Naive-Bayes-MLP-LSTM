@@ -1,0 +1,1 @@
+Researcher Finds Flaws in XP SP2 German research firm Heise Security has issued an advisory for a pair of security flaws in Microsoft #39;s (Quote, Chart) recently shipped Windows XP Service Pack 2 with a warning that attackers could launch malicious files from an untrusted zone. 

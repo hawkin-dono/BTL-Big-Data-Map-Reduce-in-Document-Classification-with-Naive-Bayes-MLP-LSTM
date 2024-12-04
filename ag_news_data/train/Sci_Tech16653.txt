@@ -1,0 +1,1 @@
+Microsoft to Give Customers a Break on Dual-Core Licensing With the expected arrival of dual-core processors from both Intel and AMD next year, Microsoft faced a licensing dilemma -- do right by customers by charging for only the physical processors 

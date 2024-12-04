@@ -1,0 +1,1 @@
+First sign of malicious code exploiting Windows Jpeg security flaw The first malicious codes to exploit security flaws in Microsoft Windows #39; handling of jpeg image files has appeared on internet newsgroups.

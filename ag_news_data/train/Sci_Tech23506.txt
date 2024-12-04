@@ -1,0 +1,1 @@
+Sun previews next version of Java (InfoWorld) InfoWorld - Sun Microsystems on Monday night posted a prerelease, "snapshot" version of Java 2 Standard Edition 6.0, code-named Mustang, which represents the next generation of the Java platform. #160;

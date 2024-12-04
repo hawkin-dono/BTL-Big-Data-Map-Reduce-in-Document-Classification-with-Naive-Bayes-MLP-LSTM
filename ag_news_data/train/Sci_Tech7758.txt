@@ -1,0 +1,1 @@
+Nokia bringing P2P to phones Nokia researchers have developed a new peer-to-peer (P2P) scheme tailored specifically for mobile phones. Still in a development and testing phase, the network 

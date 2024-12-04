@@ -1,0 +1,1 @@
+Microsoft JPEG exploit reported Hacker web sites are claiming to have posted proof-of-concept exploit code for the latest critical Microsoft Corp software vulnerability, which is sometimes a precursor to broader attacks using a worm.

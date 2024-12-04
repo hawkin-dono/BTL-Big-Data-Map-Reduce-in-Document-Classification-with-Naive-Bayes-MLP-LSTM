@@ -1,0 +1,1 @@
+Apple Releases Patches For Mac OS X (TechWeb) TechWeb - Apple Computer Inc. has released a patch for 15 Mac OS X flaws, many of them originating from the operating system's open-source components.

@@ -1,0 +1,1 @@
+Google to support POP connection Looks like Gmail is about to officially offer POP access, according to this message in their support database. This function has already been enabled by lots of third party tools, but has been expected from Google themselves for quite a while.

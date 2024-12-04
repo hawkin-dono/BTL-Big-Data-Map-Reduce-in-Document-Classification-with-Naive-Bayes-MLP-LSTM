@@ -1,0 +1,1 @@
+Chartered to Manufacture AMD64 Processors in 2006 AMD64 is a new computing platform that extends the ubiquitous x86 architecture to accommodate 64-bit processing. Formerly known as x86-64, AMDs enhancements to the x86 architecture allow users of laptops 

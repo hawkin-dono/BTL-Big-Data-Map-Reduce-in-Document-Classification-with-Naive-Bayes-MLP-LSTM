@@ -1,0 +1,1 @@
+IBM pushes out new Stinger database SEPTEMBER 09, 2004 (COMPUTERWORLD) - IBM said today that it #39;s about to ship the next generation of its DB2 Universal Database, which it said offers self-tuning capabilities that will result in less management overhead even as databases grow bigger and 

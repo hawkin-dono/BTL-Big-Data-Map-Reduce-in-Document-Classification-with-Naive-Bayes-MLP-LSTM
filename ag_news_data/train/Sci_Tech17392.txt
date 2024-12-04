@@ -1,0 +1,1 @@
+Memory stick turns fingerprints into passwords Lexar's JumpDrive TouchGuard uses a sensor that reads the ridges on a finger and unlocks encrypted data if there's a match.\

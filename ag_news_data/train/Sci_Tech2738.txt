@@ -1,0 +1,1 @@
+Windows XP SP2 update installation not an easy ride Citadel Security Software Inc., a security management and policy enforcement solutions provider, said its automated vulnerability remediation (AVR) solution, Hercules, is designed to assist with managing the rollout of Microsofts XP Service Pack 2 update 

@@ -1,0 +1,13 @@
+CS and the Web of Knowledge
+
+Often the best papers from a particular conference are collected into special issues of a journal where they go through a traditional journal review process. Having a paper in a special issue is a bit more prestigious than a regular journal paper.
+
+Recently I co-authored a paper invited to a special issue and we had to turn them down. Why? For that we have to talk about the Web of Knowledge.
+
+I have generally ignored the ISI Web of Knowledge, an subscription-only index of academic literature by Thomson Reuters. The web of knowledge didn't index CS proceedings or tech reports, so sites like Citeseer, DBLP and Google Scholar were much more useful.
+
+Unfortunately, I can't ignore ISI as easily as I'd like to. Both Northwestern and the National Science Foundation use the database to pre-populate the publications in my on-line annual reports. I'd have to manually add my conference papers. Finally over the summer ISI has added most CS conference proceedings papers so this process ought to be easier in the future.
+
+But that's all minor compared to what I have seen happening in some European countries where the ISI is taken way too seriously. ISI has different paper types: Articles, Proceedings and a few others. Some countries, which use these numbers for hiring, promotion and grants, are just counting Articles which puts computer science at a comparative disadvantage where say STOC papers don't count.
+
+Now to answer the question about special issues: The ISI labels special issue papers as "Proceedings" so they don't get labeled as true articles and wouldn't help my co-author, who needs more "Article" papers. So we turned down the special issue for rather technical reasons.

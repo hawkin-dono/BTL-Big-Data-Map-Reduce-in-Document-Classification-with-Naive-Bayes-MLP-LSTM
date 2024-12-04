@@ -1,0 +1,15 @@
+
+Sudoku Revisited 
+Robin Houston writes 
+Although I'm not a complexity theorist, I very much enjoy reading your weblog. I also enjoy solving the Sudoku puzzles published in the British press, so it was doubly nice to see your May 25 post about the complexity of Sudoku! 
+As far as I can tell, it follows from Yato's work that the problem: 
+Given a partially completed grid, find a valid completion if there is one; otherwise report that there isn't one. 
+is solvable in polynomial time iff P=NP. 
+That's interesting of course, and it's a problem that faces those who set the puzzles; but the problem that we solvers are faced with is not quite (1). It's: 
+Given a partially completed grid that has a unique valid completion, find that completion. 
+Can anything be said about problem (2)? If there were a polynomial- time algorithm for (2), would it follow that P=NP? If not, would there be any other significant consequences for complexity theory? 
+Good question. Since Yato's reductions preserve solutions the problem is equivalent to finding a satisfying assignment of a Boolean formula that has exactly one satisfying assignment (Unique SAT). 
+We don't know if Unique SAT is NP-complete in the traditional sense. However Valiant and Vazirani have a nice paper that shows how to randomly reduce SAT to Unique SAT. Putting it together we get the following equivalence: 
+Given a partially completed grid that has a unique valid completion, probabilistically find that completion in polynomial time. 
+NP=RP (i.e. all NP problems have efficient probabilistic solutions). 
+Since we don't believe that NP has fast probabilistic algorithms, we expect that there are no efficient procedures to completing a generalized Sudoku grid, even if there is only one such completion.

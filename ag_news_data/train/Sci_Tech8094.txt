@@ -1,0 +1,1 @@
+AOL Dumps Microsoft #39;s Spam Filter Standard AOL will continue to include Sender ID data in outgoing mail to enable ISPs and others that use it to identify where messages originate.

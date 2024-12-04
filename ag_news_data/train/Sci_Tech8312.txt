@@ -1,0 +1,1 @@
+OS Update for Windows XP Service Pack 2 (KB884020) On a computer that is running Microsoft Windows XP with Service Pack 2 (SP2), programs that connect to IP addresses that are in the loopback address range may not work as you expect.

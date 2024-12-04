@@ -1,0 +1,1 @@
+Simpler ID management readied by Microsoft DENVER  Microsoft is developing a portal-like interface for its identity management platform that will let users self-manage their identity information and provision network services.

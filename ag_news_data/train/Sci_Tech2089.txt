@@ -1,0 +1,1 @@
+VoIP Discovers SPIT (Spam over Internet Telephony) Internet telephony, or Voice over IP (define), is picking up steam, as telcos get wise to the benefits of turning speech into packets to be delivered via the Internet.

@@ -1,0 +1,1 @@
+SGI to Ship Intel Linux Workstation (Ziff Davis) Ziff Davis - Silicon Graphics Inc. will ship a new ultra high performance Intel Itanium-based Linux workstation designed for scientific and medical applications.

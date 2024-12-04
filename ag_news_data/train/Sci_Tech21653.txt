@@ -1,0 +1,1 @@
+Spansion Details NOR/NAND Hybrid Roadmap In order to meet the growing demands of the flash memory market, Fujitsu and AMDs flash memory subsidiary Spansion LLC unveiled plans to develop a new ORNAND flash memory architecture that combines the best of NOR code execution with NAND data 

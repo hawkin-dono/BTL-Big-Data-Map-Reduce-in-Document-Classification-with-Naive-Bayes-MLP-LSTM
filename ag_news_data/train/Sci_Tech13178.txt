@@ -1,0 +1,1 @@
+Sun doubles UltraSparc performance Sun Microsystems has announced an upgrade to its UltraSparc IV processor with further use of chip multithreading. UltraSparc IV is a dual core design fabricated by Texas Instruments on its 90nm process.

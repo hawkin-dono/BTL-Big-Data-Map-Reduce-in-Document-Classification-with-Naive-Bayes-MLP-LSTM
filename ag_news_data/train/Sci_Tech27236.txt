@@ -1,0 +1,1 @@
+Former cybersecurity czar: Code-checking tools needed DECEMBER 03, 2004 (IDG NEWS SERVICE) - WASHINGTON - Software vendors need automated tools that look for bugs in their code, but it may be a decade before many of those tools are mature and widely used, said the former director of cybersecurity for the US 

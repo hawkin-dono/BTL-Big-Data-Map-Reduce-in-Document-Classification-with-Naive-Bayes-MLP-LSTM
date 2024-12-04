@@ -1,0 +1,1 @@
+Arm collaborates with Philips on low-power processor LONDON - U.K. semiconductor design company Arm Ltd. is teaming with a division of Koninklijke Philips Electronics NV to develop a self-timed processor that promises low-power consumption and easy integration for use in smart cards and consumer electronics.

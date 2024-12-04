@@ -1,0 +1,1 @@
+Microsoft probing reported flaws in Windows XP SP2 Microsoft is downplaying claims that several new vulnerabilities in Windows XP SP2 were discovered by Finjan Software, but it is looking into the claims anyway.

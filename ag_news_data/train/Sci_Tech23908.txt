@@ -1,0 +1,1 @@
+Sun invites outside involvement with Java 6 Sun puts very early versions of the source code on its Web site so Java programmers could better see and participate in its development.

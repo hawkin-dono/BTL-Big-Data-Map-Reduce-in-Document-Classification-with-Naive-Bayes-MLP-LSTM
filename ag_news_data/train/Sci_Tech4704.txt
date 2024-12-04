@@ -1,0 +1,1 @@
+Apache Project Rejects Sender ID September 2, 2004 -- (WEB HOST INDUSTRY REVIEW) -- The Apache Project (apache.org) has rejected the Sender ID proposal for email user authentication because of the incompatibilities between Microsoft #39;s (microsoft.

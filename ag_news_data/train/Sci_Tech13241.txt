@@ -1,0 +1,1 @@
+IBM adds self-healing to WebSphere IBM has released the latest version of the core middleware product of WebSphere, its application server platform, promising new autonomic, or self-healing, features.

@@ -1,0 +1,1 @@
+Nokia demos first mobile call using IP standard Nokia has developed a prototype handset that supports Mobile IPv6 (Internet Protocol version 6), a version of the protocol that will help to improve the quality of VoIP (voice over IP), streaming video and other applications delivered to wireless devices.

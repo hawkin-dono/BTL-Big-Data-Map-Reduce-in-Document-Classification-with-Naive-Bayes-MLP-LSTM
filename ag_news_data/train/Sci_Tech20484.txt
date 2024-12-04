@@ -1,0 +1,1 @@
+IBM Supercomputer Claims New Record In September, IBM announced that the Blue Gene/L prototype had sustained speeds of 36 trillion calculations per second. Last week, NASA announced that a system built by Silicon Graphics had topped that by sustaining 42 trillion calculations per second.

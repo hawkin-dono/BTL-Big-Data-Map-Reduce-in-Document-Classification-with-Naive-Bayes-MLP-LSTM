@@ -1,0 +1,1 @@
+Inputs are dangerous Well, it #39;s  quot;Patch Day Tuesday quot; again, and Microsoft just released another raft of security bulletins. We got ten bulletins this time, but that amounts to something upwind of 20 separate vulnerabilities 

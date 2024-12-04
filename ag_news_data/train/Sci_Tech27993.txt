@@ -1,0 +1,1 @@
+Most Browsers Vulnerable to Pop-Up Attack Five advisories issued by security firm Secunia warn that a pop-up attack could expose users to phishing scams on most Web browsers.

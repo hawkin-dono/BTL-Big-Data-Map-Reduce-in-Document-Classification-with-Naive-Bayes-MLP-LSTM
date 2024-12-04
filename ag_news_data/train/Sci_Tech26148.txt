@@ -1,0 +1,1 @@
+Cicadas, an Elixir for the Earth Those buzzing hordes of cicadas that come up from underground every 13 or 17 years may be a nuisance for people, but for birds and small animals they are an all-you-can-eat buffet.

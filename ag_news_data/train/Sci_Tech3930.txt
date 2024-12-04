@@ -1,0 +1,1 @@
+Data Center Markup Language (DCML) Organization Transitions to &lt;b&gt;...&lt;/b&gt; The DCML Organization has announced a decision to move its technical and marketing activities to OASIS, organized as a new OASIS Member Section.

@@ -1,0 +1,1 @@
+Microsoft Fixes Key SP2 Issue (NewsFactor) NewsFactor - Microsoft (Nasdaq: MSFT) has released a Windows XP Service Pack 2 update to fix an installation problem that was caused by a third-party adware program named "T.V. Media."

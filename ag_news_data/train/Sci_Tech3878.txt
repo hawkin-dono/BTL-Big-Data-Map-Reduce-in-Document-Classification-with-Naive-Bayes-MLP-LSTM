@@ -1,0 +1,1 @@
+FileMaker Unveils Advanced Server Edition At Devcon At the FileMaker Developers Conference in Phoenix this week, the company will announce availability of FileMaker 7 Advanced Server Edition, and boast about the 10 million copies of its eponymous database that have shipped since 1984.

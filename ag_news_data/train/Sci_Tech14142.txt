@@ -1,0 +1,1 @@
+Leading Vendors Back Competing Systems-Management Specifications The WS-Management spec is part of the effort to improve Sun-Microsoft system interoperability. But IBM is taking a different road.

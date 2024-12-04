@@ -1,0 +1,1 @@
+Hackers Smell Blood In Common Windows Interface Since Wednesday, a rising tide of attacks which could precede the arrival of a new worm have been attempting to exploit the Windows GDI (graphic device interface) for JPEG files, according to the Internet Storm Center, Bethesda, MD.

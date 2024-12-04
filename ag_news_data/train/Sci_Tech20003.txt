@@ -1,0 +1,1 @@
+VERITAS Advances Server Provisioning, Automates Discovery &lt;b&gt;...&lt;/b&gt; MOUNTAIN VIEW, Calif. - November 1, 2004 -ERITAS Software Corporation (Nasdaq: VRTS), today extended the capabilities of VERITAS OpForce distributed server provisioning software to include software application discovery and configuration.

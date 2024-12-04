@@ -1,0 +1,1 @@
+Microsoft revises antispam standard Microsoft officials said today that they have revised their Sender ID protocol to work better with an existing standard and that they have narrowed their patent application to make sure it doesn't cover other proposals.

@@ -1,0 +1,1 @@
+Google Gives Gmail POP3 Support, Plans Antivirus Google will gradually roll out POP3 (Post Office Protocol) support over the coming weeks to users of its Gmail service, allowing them to use the feature to download e-mail messages from Gmail servers to e-mail applications on devices such as PCs and 

@@ -1,0 +1,1 @@
+EMC unveils 'Storage Router' EMC has unveiled long-awaited storage virtualization technology that the company said will allow users to manage its arrays -- and high-end boxes from major competitors -- through a single interface.

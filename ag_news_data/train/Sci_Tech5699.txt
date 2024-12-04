@@ -1,0 +1,1 @@
+Apple security hole fixes p2pnet.net News:- Apple Computer has issued a patch for 15 Mac OS X security flaws. But,  quot;It ain #39;t us - it #39;s them! quot; - it #39;s saying of some of the problems,  #39;them #39; being certain open source components.

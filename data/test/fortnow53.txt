@@ -1,0 +1,16 @@
+Finding Primes
+
+The newest polymath project Finding Primes asks a question that ties together number theory and computation: Given a number n find any prime p>n deterministically in time polynomial in the length of the binary representation of n (about log n).
+
+This problem came into vogue shortly after the AKS Primality algorithm put checking primes in deterministic polynomial time. A deterministic algorithm exists if you either believe in full derandomization or in conjectures on distributions of primes. The following algorithm will likely run in polynomial time.
+
+    while(not prime(n)) {n++}
+    output n
+
+Many cryptographic protocols require finding prime numbers to multiply together to get hard-to-factor composites. By the prime number theorem, picking numbers of k bits at random will find a prime in O(k) tries with high probability and one could then run the Solovay-Strassen or Miller-Rabin primality tests.
+
+Those tests would never give you absolute evidence that you found a prime. Goldwasser and Kilian gave a procedure for finding primes with a certificate of primality. The AKS algorithm eliminates the need for a certificate.
+
+Oddly enough we would usually prefer a probabilistic over the deterministic method to find primes. Otherwise the adversary can use the same deterministic procedure and factor your number as easily as you put it together.
+
+

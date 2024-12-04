@@ -1,0 +1,1 @@
+Funner Worm Spreads to US Symantec said when someon clicks on an infected link in a message, the worm tries to download code from remote sites, to redirect users to certain Web sites and to send a version of itself to everyone in an IM user #39;s contact list as well.

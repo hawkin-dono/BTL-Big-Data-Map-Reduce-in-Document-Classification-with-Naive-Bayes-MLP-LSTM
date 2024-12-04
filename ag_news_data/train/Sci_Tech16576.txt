@@ -1,0 +1,1 @@
+JBoss takes on business process management JBoss has added business process management (BPM) to its growing roster of open source software. The company has hired Tom Baeyens, the founder and lead developer of jBpm, an open source workflow engine.

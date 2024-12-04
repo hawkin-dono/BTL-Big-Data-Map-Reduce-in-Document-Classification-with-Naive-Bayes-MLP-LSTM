@@ -1,0 +1,1 @@
+Microsoft Patches ISA Server 2000 Flaw November 10, 2004 -- (WEB HOST INDUSTRY REVIEW) -- Software giant Microsoft (microsoft.com) issued a patch for a flaw in Internet Security and Acceleration Server 2000 and Proxy Server 2.0 on Tuesday.

@@ -1,0 +1,1 @@
+Mozilla fixes browser bugs The Mozilla Foundation has fixed 10 security bugs in its open-source Mozilla and Mozilla Firefox browsers and Thunderbird e-mail reader, with the release of new versions of all three products this week.

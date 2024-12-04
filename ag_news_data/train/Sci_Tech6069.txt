@@ -1,0 +1,1 @@
+IBM pushes out new Stinger database IBM next week will ship the latest version of its DB2 Universal Database, which offers new self-tuning capabilities designed to reduce management overhead even as databases grow bigger and harder to maintain.

@@ -1,0 +1,1 @@
+BMC adds PeopleSoft management BMC Software has released a new version of Patrol for PeopleSoft 2.0 that allows companies to centrally manage PeopleSoft users, transactions, jobs, SQL requests, and business processes.

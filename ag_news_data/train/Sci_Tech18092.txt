@@ -1,0 +1,1 @@
+Red Hat warns of security patch hoax for Linux users OCTOBER 25, 2004 (COMPUTERWORLD) - Linux vendor Red Hat Inc. is warning customers about an e-mail hoax that urges them to download security patches that actually contain malicious payloads.

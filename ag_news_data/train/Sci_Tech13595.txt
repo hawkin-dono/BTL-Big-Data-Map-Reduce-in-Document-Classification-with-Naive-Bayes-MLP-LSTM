@@ -1,0 +1,1 @@
+Open-source community cuts Netline #39;s development time Software company Netline claims its decision to open source the latest version of its email server platform has reduced the development time for the new release by a factor of 10.

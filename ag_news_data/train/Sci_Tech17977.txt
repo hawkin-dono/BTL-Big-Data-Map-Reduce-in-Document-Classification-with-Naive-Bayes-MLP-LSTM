@@ -1,0 +1,1 @@
+Linux under threat from  #39;security update #39; Linux maker Red Hat is warning users about an email that pretends to be an official security advisory but is actually a phishing-type scam that contains links to malicious code.

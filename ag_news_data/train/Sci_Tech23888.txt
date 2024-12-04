@@ -1,0 +1,1 @@
+4 Linux Vendors Team Up for Standardized Linux In an effort to encourage software and hardware providers to support Linux Standard Base 2.0, four smaller Linux vendors are joining together to ensure their core binaries are compatible with each other and with the standard.

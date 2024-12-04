@@ -1,0 +1,1 @@
+Infocus: Issues Discovering Compromised Machines This article discusses the discovery of compromised machines in large enterprise environments, and offers some suggestions on correlating NIDS and HIPS logs to avoid false positives.

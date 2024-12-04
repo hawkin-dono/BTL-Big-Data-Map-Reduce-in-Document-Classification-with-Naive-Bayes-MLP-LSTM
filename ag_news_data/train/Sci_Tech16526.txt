@@ -1,0 +1,1 @@
+The .NET Developer #39;s Guide to Windows Security Site Offer Making applications secure has been one of the biggest priorities for Microsoft developers. However, very few books have been written for developers; most security books are aimed at administrators.

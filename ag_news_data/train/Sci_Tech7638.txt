@@ -1,0 +1,1 @@
+Another Patch Job From Microsoft The latest vulnerability to plague the world's largest software maker is a doozy, affecting its Windows operating system as well as its Office and developer tools programs. Microsoft says its patch plugs the leak.

@@ -1,0 +1,1 @@
+Latest Linux Vulnerabilities Get Patches (Ziff Davis) Ziff Davis - Graphics library and kernel functions are open to attack, but the current Linux kernel addresses the problems.

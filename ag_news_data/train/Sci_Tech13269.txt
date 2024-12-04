@@ -1,0 +1,1 @@
+IBM delivers WebSphere 6.0 (InfoWorld) InfoWorld - IBM on Wednesday formally announced the next major release of WebSphere, code-named Vela, which company officials see as an integral building block for both its ongoing SOA (service-oriented architecture) and On Demand strategies.

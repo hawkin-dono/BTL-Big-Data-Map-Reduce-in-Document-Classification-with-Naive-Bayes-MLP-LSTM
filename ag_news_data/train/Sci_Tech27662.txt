@@ -1,0 +1,1 @@
+Sony Taps nVidia for  #39;Cell #39; Console Graphics Dean McCarron of Mercury Research said console designers are focusing on multicore, multi-threading technology that can allow multiple programs to run efficiently at the same time.

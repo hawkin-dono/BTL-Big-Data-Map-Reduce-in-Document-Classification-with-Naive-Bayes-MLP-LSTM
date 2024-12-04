@@ -1,0 +1,1 @@
+ISP Telenor cripples zombie PC network Authorities in Singapore shut down a large network of around 10,000 robot, or "zombie," computers this week, after technicians at Norwegian Internet service provider (ISP) Telenor ASA stumbled on the illicit network by tracing Internet Relay Chat (IRC) communications from compromised customer PCs on its system.

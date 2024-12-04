@@ -1,0 +1,1 @@
+Microsoft unveils free SQL management tool Microsoft today unveiled a technical preview of SQL Server 2005 Express Manager, a newly developed free database management tool and the second Community Technology Preview of the SQL Server 2005 database.

@@ -1,0 +1,1 @@
+IT Vendors Release Royalty-Free Software For Messaging Fujitsu Limited and NEC Corporation has jointly developed a messaging software that implements the Web Services Reliability (WS-Reliability) standard and will be releasing it as an open source.

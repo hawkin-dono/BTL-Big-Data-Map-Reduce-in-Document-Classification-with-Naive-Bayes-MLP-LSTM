@@ -1,0 +1,1 @@
+Bluetooth SIG completes Core Specification 2.0 The Bluetooth Special Interest Group (SIG) has announced the successful completion of the first stage in its three-year roadmap for the wireless technology, with the release of Bluetooth Core Specification 2.0  EDR (Enhanced Data Rate).

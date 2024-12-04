@@ -1,0 +1,1 @@
+Open-source backers revolt against Microsoft antispam plan The Apache Software Foundation and the Debian Project said they won't support the Sender ID e-mail authentication standard in their products.

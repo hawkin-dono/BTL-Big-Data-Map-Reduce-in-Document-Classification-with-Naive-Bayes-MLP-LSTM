@@ -1,0 +1,1 @@
+Weather Data for the Masses The U.S. government's weather data is now available in a more friendly XML format, so everyone can make use of it. By Daniel Terdiman.

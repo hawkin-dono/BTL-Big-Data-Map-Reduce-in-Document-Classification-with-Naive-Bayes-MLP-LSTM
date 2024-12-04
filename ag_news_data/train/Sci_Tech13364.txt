@@ -1,0 +1,1 @@
+IBM Focuses On A Better WebSphere App Server IBM on Wednesday unveiled the next major upgrade of its WebSphere application server, which focuses on better performance and ease of use, instead of dramatically new functionality.

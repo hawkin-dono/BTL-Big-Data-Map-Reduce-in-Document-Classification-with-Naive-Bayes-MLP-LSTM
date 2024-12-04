@@ -1,0 +1,1 @@
+Microsoft Issues Tool To Head Off JPEG Exploits Microsoft has issued a software tool that scans users #39; computers to help them find software that may be affected by a recently discovered vulnerability in the way many Windows programs process JPEG files.

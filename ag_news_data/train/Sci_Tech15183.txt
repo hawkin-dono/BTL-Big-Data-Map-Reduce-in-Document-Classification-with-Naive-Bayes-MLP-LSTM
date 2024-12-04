@@ -1,0 +1,1 @@
+News: Seven critical in MS October patch batch Microsoft yesterday released 10 new security bulletins to fix multiple components in its Windows operating system and applications.\

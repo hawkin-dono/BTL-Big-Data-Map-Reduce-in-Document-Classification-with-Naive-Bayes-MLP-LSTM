@@ -1,0 +1,1 @@
+Suse 9.2 goes mobile with Bluetooth and power management The update includes complete manuals, 90-day installation support, both 32-bit and 64-bit versions (including Intel #39;s EMT architecture) and around 3,500 packages.

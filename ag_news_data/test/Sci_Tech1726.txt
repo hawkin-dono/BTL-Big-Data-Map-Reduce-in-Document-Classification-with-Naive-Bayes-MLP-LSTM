@@ -1,0 +1,1 @@
+Microsoft Updates SQL Server 2005 Microsoft today announced the availability of the second Community Technology Preview (CTP) for Microsoft SQL Server 2005 and the technical preview availability of SQL Server 2005 Express Manager, a new, free database management tool.

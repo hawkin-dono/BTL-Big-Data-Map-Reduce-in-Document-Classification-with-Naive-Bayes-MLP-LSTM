@@ -1,0 +1,1 @@
+VOIP boosted in Cisco PBX Cisco this week launched an upgrade to its CallManager IP PBX platform, broadening its encryption support for IP phones and other VoIP devices, such as VoIP gateways and voicemail servers.

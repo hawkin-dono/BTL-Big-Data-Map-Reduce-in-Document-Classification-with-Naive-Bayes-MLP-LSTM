@@ -1,0 +1,1 @@
+Oracle and IBM move BPEL to the BPI forefront Breaking down business processes into Web services components was the easy part. Weaving them together into manageable, useful services has proved more ambitious.

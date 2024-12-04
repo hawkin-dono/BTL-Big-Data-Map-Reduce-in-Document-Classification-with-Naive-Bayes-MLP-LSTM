@@ -1,0 +1,1 @@
+Virtual Server 2005 Fills Gap In Microsoft Line New virtual-machine technology can be used to test software patches and migrate aging Windows NT applications. By John Foley, Paula Rooney, CRN.

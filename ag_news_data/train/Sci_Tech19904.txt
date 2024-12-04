@@ -1,0 +1,1 @@
+Google blocks Gmail exploit Google has fixed a flaw in its high-profile webmail service, Gmail, which created a possible route for hackers to gain full access hackers full access to a user #39;s email account simply by knowing their user name.

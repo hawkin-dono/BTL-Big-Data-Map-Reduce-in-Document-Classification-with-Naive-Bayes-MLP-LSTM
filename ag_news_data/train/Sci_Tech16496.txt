@@ -1,0 +1,1 @@
+Veritas puts finishing touches on i3 As promised, Veritas has prepped a new release of its i3 management software that will tie into existing applications and give customers sophisticated tools for checking on the performance of server and storage systems.

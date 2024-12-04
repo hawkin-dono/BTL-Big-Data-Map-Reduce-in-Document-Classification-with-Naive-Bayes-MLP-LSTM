@@ -1,0 +1,1 @@
+Microsoft Stance on Multicore Licensing Will Help Customers On 19 October 2004, Microsoft announced that its software licensed on a per-processor basis will continue to be licensed on that basis when installed on hardware that contains dual-core and multicore processors.

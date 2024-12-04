@@ -1,0 +1,1 @@
+Microsoft #39;s Sender ID sent packing The issue arose in the MARID (MTA Authorization Records in DNS) group, part of the Internet Engineering Task Force (IETF), which brings together representatives from various groups in the software industry to agree on common standards for Internet software 

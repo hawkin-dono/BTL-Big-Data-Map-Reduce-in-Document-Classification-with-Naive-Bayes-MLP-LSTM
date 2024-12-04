@@ -1,0 +1,1 @@
+Solaris 10 Released, Updated  amp; Free (Like Speech) Sivar writes  quot;Ace #39;s Hardware and news.com.com.com report Solaris that 10 has been released. Improvements include a performance-enhanced TCP-IP stack to shed the  quot;Slowaris quot; moniker and their much-vaunted ZFS (Z File System).

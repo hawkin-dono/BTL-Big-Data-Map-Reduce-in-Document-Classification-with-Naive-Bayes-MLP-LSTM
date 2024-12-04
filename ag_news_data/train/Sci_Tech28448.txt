@@ -1,0 +1,1 @@
+IBM launches virtualization assault on EMC IBM on Friday took aim at its primary competitor, EMC, by announcing storage virtualization software that allows EMC users to utilize storage systems from EMC, Hitachi, or IBM.

@@ -1,0 +1,1 @@
+Microsoft release patch to fix security flaw in Windows, Office SEATTLE -- Microsoft Corp. on Tuesday released a patch to fix a critical security flaw that could allow an attacker to infiltrate someone else #39;s computer, if the user was persuaded to open a specialized file.

@@ -1,0 +1,1 @@
+HyperTransport Broadens Its HPC Scope A technology group working on faster data transfer between devices announced a new specification targeted at improving high-performance computing systems.

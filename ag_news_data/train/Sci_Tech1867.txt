@@ -1,0 +1,1 @@
+Macromedia Bolsters Flex with New Development Environment Capitalizing on the rapid adoption of its Flex presentation server, Macromedia Inc. is rolling out a new integrated development environment for the platform based on the popular Dreamweaver Web site tool.

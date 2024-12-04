@@ -1,0 +1,1 @@
+BEA hails app server upgrade Not to be outdone by rival Oracle, BEA Systems has unveiled version 9.0 of its WebLogic Server application server. Homing in on the theme of service-oriented architecture deployment, BEA said the product would 

@@ -1,0 +1,1 @@
+Novell bundles JBoss app server Novell Inc. earlier this month bundled the open-source, J2EE-compliant JBoss Application Server with its SUSE Linux Enterprise Server 9, giving application developers a built-in deployment option.

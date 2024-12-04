@@ -1,0 +1,1 @@
+Sun adds nVidia power to Java Workstations Sun Microsystems has added nVidia Quadro graphics technology to the Java Workstations it detailed last month. The vendor has included the technology in its W1100z and W2100z models, which are based on AMD 

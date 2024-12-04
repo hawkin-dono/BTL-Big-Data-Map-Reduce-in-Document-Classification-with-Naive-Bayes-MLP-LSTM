@@ -1,0 +1,1 @@
+IBM makes Websphere smarter to improve business continuity IBM is fleshing out its On Demand computing strategy with the release later this year of Websphere 6.0, the next incarnation of its flagship application server software.

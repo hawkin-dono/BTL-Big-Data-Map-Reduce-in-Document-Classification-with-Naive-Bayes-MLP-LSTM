@@ -1,0 +1,1 @@
+WebSphere Gets Makeover from IBM (NewsFactor) NewsFactor - IBM (NYSE: IBM) has launched a major upgrade of its WebSphere flagship middleware\product, adding autonomic troubleshooting capabilities and other new\features designed to improve performance in the application-server\platform.

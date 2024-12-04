@@ -1,0 +1,1 @@
+ObjectWeb plans open source BPEL server ObjectWeb will begin distributing an open source BPEL server in the coming weeks, expanding the available options for a middleware technology used to link several applications and data sources into a larger business process. It will be the second open source BPEL server released in recent weeks.

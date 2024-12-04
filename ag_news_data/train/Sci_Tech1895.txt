@@ -1,0 +1,1 @@
+AMD uses strained silicon on 90-nanometer chips AMD will implement the strained silicon manufacturing technique on its upcoming 90-nanometer processors as well as 130-nanometer processors.

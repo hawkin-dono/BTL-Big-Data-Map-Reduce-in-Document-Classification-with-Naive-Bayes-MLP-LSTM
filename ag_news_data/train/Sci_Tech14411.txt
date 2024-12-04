@@ -1,0 +1,1 @@
+Newfound Allies Drive Web Services Spec The industrys latest allies -- Microsoft and Sun -- have supported the publication of Web Services Management (WS-Management), a Web services specification that provides a common way for enterprises to access and exchange management information across 

@@ -1,0 +1,12 @@
+
+Cocktail Conversations 
+I once met a professor at Chicago that would say "My business is war, and business is good." I have a food scientist friend from college who did his doctorate on starch and had a catch phrase "Everything you eat is healthy, safe and nutritious." But when I start having a conversation with non-scientists it often goes like this: 
+Them: "What do you do?" 
+Me: "I'm a professor at the University of Chicago." 
+"That's neat. What do you teach?" 
+"Computer Science." 
+(a) "Oh. Excuse me, I see someone I know," or
+(b) "I'm setting up a wireless network in my house.", or
+(c) "I don't use the computers much but my kids are really into it." 
+I'm sure many of you have had similar experiences. On occasion they will ask me about my research and I will regale them with stories about traveling salesman and Arthur and Merlin, but that rarely goes far. It could be worse, I might have done my research on Hopf algebras. 
+How do you discuss your research with non-specialists? I'm sure some of you solve this problem by not having any non-CS/Math friends. But if we can't easily discuss our work one-on-one how do we convince the public that our research is important to them and society at large.

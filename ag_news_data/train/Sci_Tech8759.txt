@@ -1,0 +1,1 @@
+AMD Opteron is reved up with PowerNow technology AMD said its Opteron processor will be bolstered by power management technology that will decrease overall power consumption and optimize performance in enterprise server systems.

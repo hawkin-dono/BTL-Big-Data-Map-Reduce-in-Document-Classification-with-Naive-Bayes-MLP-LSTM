@@ -1,0 +1,1 @@
+SP2 Internet Explorer enhancements for Windows XP only Part of the recently-released Service Pack 2 for Windows XP was a slew of long-awaited updates to Internet Explorer. Along with patches for the browser, SP2 also included features such as the ability to block 

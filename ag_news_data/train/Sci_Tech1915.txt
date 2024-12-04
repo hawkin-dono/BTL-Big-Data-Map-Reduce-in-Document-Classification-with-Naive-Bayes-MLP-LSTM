@@ -1,0 +1,1 @@
+Macromedia wires up Flex Builder Macromedia is heading in a new direction with the launch of a development tool for Flex, its development platform for rich internet applications (RIAs).

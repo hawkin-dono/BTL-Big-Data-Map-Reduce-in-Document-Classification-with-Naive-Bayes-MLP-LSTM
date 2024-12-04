@@ -1,0 +1,8 @@
+Communicating Open Problems 
+A famous complexity theorist once said "The hardest part of being an advisor is not working on your student's problems." Good open problems are quite rare and one is often torn between the desire to see a problem resolved as quickly as possible versus giving people a fair chance to work on them. So I put together a set of guidelines for distributing problems. 
+If you ask someone about what problems they are working on you shouldn't start working on those problems or give them to others without permission. When this rule is violated, even students in the same department are sometimes afraid to discuss their own research with each other. 
+If someone discusses a problem with you shouldn't mention the problem to others without permission. Asking a question like "Do you mind if I tell this problem to my students?" is sufficient. 
+If you are an advisor and you give a problem to a student you shouldn't work on the problem yourself or give it out to other students without the first student's permission. 
+Outside the advisor-student relationship the above rule does not apply. You can work on a problem even if you give it to someone else or distribute it as you wish unless you've had a prior agreement. 
+Once you make a problem public (in a talk, in a paper or on the web) the problem is fair game to all. 
+I realize I have not always followed all of these rules myself and I apologize. One could argue that one best advances science by making all problems as widely available as possible but following these guidelines will open communication as researchers will have less need to hide what they work on.

@@ -1,0 +1,20 @@
+Monday, July 04, 2005
+
+More singularity, A.I. and why we should be Futurologists 
+Ok, so I lied about the fist bit. There is not so much in here about the Technological Singularity. Not directly anyway.
+I was thinking about how the work we (my honours class) have done on the philosophy of language lately. Much of what I have come to believe has strong implications for how we might go about deveoping AI in the future. Ostensibly it is plausible to suggest that the goal of A.I. studies is to develop an artifical being that 'means' what it says, as opposed to one that just "makes noises". Being a scientific endeavour, this is usally done under the mantle of dispositional, or similar accounts of meaning
+
+Anyone at all familiar with Kripke would know that to put so much stock in being able to create a machine that 'means' things, espesially if it has to be in virtue of it's physical make-up. But such an effort need not fall flat. In fact, what we are learning from Kripke, and Wittgenstein, is that this task might be alot more simple that we thought. If we follow the sceptical solution, then all that it required to say "X means Y" is that X has used a given expression/function/word/whatever in enough circumstances to have passed the tests that a community requires of its members to be admited into the class of speakers who can use 'Y'. Enough different tests passed, and you are allowed into the community of speakers altogether. Thus, all we need to do to create A.I. is to create something that passes a comprehensive Turing test. I cannot stress this next point enough. It does not matter how they pass, or why. So long as the computer can use words in the way that is in agreement with the community, and can respond to feedback to allow for the dynamic aspect of language use, it will be a speaker, just like us. It might not be very smart. But it will fit the bill. (However, unless it can have some sort of self-directedness, that Dr Cliff Hooker talked about in his philosophy of mind lectures, it would not actually be much smarter than a person at all. )
+
+As to why philosophers should be futurologists, And why we would be better than the current crop.
+
+We have the requisite skill sets.
+
+We, unlike current theorists, might be critical of each others theories, instead of organising expensive seminars where we all tell each other how clever we are.
+
+We might think about some of the broader implications of what we are doing/saying.
+
+And most importantly: We are used to being wrong.
+
+singularity, Artificial Intelligence, philosophy 
+posted by Samuel Douglas at 8:17 AM 

@@ -1,0 +1,1 @@
+Security Flaws Found in SP2 Worries about how well SP2 will work with existing software, combined with concerns about possible security vulnerabilities, have led many corporates to hold back from installing the security update.

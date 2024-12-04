@@ -1,0 +1,1 @@
+Microsoft Investigates Reports of New Internet Explorer Hole Microsoft is investigating reports of a serious security flaw in Internet Explorer, but has not yet seen malicious code that exploits the reported flaw, the company said today.

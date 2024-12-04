@@ -1,0 +1,1 @@
+Google Corrects Gmail Exploit Search engine Google has fixed a security flaw that was occurring in their email service, Gmail. The company did not reveal the nature of flaw, only that they had corrected it.

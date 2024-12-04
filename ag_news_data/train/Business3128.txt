@@ -1,0 +1,1 @@
+Oracle launches business intelligence tools Oracle has launched a new set of business intelligence (BI) tools for its grid-enabled database technology. The BI 10g product has been separated out of Oracle #39;s existing application server software.

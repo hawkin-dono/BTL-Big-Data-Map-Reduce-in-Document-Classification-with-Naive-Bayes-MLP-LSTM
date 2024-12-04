@@ -1,0 +1,1 @@
+IBM Announces High-Capacity Storage Arrays The new IBM DS6000 and DS8000 data storage systems include aa massively scalable storage system and a compatible ultra-dense storage system.

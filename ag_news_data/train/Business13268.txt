@@ -1,0 +1,1 @@
+Red Hat Boosts Enterprise-Class Linux Services When Tim Howes and a group of colleagues created the Lightweight Directory Access Protocol almost 15 years ago, he had no idea this quiet little front end to the more robust X.500 directory 

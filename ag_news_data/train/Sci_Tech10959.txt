@@ -1,0 +1,1 @@
+Mercury Interactive unveils a tool to let users, not just IT, test applications In an effort to reduce the cycle time between application design and testing and when the application is put into production, Mercury Interactive introduced this week Mercury Business Process Testing. The application will be part of the Mercury Quality Center suite of applications.

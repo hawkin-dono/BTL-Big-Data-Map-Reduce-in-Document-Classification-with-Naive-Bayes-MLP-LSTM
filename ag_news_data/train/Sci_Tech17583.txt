@@ -1,0 +1,1 @@
+Intel outlines Wireless USB security, use Intel Corp. is backing the 128-bit AES (Advanced Encryption Standard) encryption protocol for securing wireless USB (Universal Serial Bus) connections, which it hopes will replace USB cables for connections over very short distances, a company engineer said this week.

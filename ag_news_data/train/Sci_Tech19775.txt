@@ -1,0 +1,1 @@
+VMware aims for four-processor abilities VMware, the EMC subsidiary whose software lets a computer run multiple operating systems simultaneously in separate  quot;virtual machines, quot; has grown a step more ambitious.

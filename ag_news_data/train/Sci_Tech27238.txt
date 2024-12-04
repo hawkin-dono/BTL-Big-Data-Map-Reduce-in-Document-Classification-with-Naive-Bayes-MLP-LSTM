@@ -1,0 +1,1 @@
+Lack of tests could block virtualization Attendees at Gartner's annual data center conference said their packaged applications have to be tested on servers equipped with virtualization software before they can adopt the technology. But some vendors may not have the wherewithal to do the testing.

@@ -1,0 +1,1 @@
+Mac users face rare threat Shell script disables Mac OS X's built-in firewall, steals personal information and can destroy data.

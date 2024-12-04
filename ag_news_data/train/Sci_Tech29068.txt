@@ -1,0 +1,1 @@
+Researchers Find Fewer Bugs In Linux The newest version of Linux sports far fewer bugs than the average commercial code, a group of former Stanford University researchers said Tuesday.

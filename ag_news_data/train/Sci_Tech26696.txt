@@ -1,0 +1,1 @@
+IBM Supports Sybase for Linux IBM has decided to extend its support for Sybase, a competing database product to its DB2 database package, to present a Linux server-software package.

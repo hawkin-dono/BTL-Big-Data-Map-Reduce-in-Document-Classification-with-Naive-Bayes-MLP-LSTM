@@ -1,0 +1,1 @@
+Sun Releases New Version of Java for Servers, Desktops Sun Microsystems Inc. Thursday announced the availability of the J2SE (Java 2 Platform Standard Edition) 5.0, which the company said looks to be the most significant Java upgrade to date.

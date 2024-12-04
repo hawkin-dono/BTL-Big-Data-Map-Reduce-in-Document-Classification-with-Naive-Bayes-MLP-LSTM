@@ -1,0 +1,1 @@
+IBM DB2 Takes Sting Out of Database Management IBM announced Thursday the general availability of the  quot;Stinger quot; version of its DB2 Universal Database, which delivers to database administrators a host of new autonomic database self-management and self-healing capabilities designed to simplify data 

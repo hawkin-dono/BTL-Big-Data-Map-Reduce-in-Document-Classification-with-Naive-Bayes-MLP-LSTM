@@ -1,0 +1,1 @@
+Google Adds POP3 Support to Gmail Google has announced plans to beef up its Gmail service with POP, or post office protocol, over the next couple of weeks. The feature, announced yesterday, will allow users to use other 

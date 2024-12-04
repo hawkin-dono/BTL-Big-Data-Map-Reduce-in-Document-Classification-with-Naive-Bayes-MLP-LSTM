@@ -1,0 +1,1 @@
+Tabbed Browsing Flaws Detected Tabbed browsing, one of the more popular features built into alternative Web browsers, contains a security flaw that puts users at risk of spoofing attacks, research firm Secunia warned on Wednesday.

@@ -1,0 +1,1 @@
+Virus poses as Christmas e-mail Security firms are warning about a Windows virus disguising itself as an electronic Christmas card. The Zafi.D virus translates the Christmas greeting on its subject line into the language of the person receiving infected e-mail.

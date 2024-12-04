@@ -1,0 +1,8 @@
+Do Only Simple Theorems Have Simple Proofs? 
+My technical posts rarely draw many comments but Tuesday's post on Savitch's Theorem brought a long discussion on hard versus easy proofs that started with this comment. 
+This is a good example of how STOC/FOCS have grown significantly in quality over the years. Savitch's theorem was in STOC 1969, and the proof is trivial. 
+The proof of Savitch's theorem is easy (trivial is a little strong) but the result was surprising at the time and has had a profound impact on complexity since. I'd love to see STOC and FOCS have results this easy and this important. 
+I had mentioned before that an easy proof can hurt your chances of acceptance at a conference. Let's take a look at the viewpoint of the program committee. 
+If you have a previously established hard theorem, one that many people have worked on but no proofs or only complicated proofs have been found, then short proofs are valued. Dinur's proof of the PCP theorem fits in this category. A simple proof of the parallel repetition theorem or the unique games conjecture would also be welcome in STOC or FOCS. 
+But most papers at STOC and FOCS do not solve previously established hard theorems. They extend previous work, improve bounds or make partial progress towards the major open questions. The program committee has to decide whether the result represents real progress or it just easily follows from previous work. An easy proof gives an indication of the latter. 
+Unfortunately this gives an incentive for the authors to make their proofs look difficult in their papers. A quick way for a PC member to kill a paper is to show an easy proof but the committee doesn't have the time to try and find easy proofs for all the submissions.

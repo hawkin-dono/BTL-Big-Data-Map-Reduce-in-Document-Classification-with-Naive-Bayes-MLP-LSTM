@@ -1,0 +1,1 @@
+Infocus: Trends in Web Application Security This article discusses current trends in penetration testing for web application security, and in particular discusses a framework for selecting the best tool or tools to use for these increasingly common type of application.

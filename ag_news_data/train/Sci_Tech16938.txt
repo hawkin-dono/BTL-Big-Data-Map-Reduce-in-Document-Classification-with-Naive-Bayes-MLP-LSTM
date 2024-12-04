@@ -1,0 +1,1 @@
+Linux wants to earn your trust Trusted Computer Solutions (TCS) Inc. officials are developing Trusted Linux, a highly secure version of Linux that will rival Unix in environments in which security is the highest priority.

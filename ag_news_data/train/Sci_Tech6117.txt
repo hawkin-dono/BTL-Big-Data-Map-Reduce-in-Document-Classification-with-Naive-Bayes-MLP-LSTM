@@ -1,0 +1,1 @@
+A new handshake for mini hard drives? Intel, Hitachi, Toshiba and others propose CE-ATA, a new interface for miniature hard drives used in consumer electronics.

@@ -1,0 +1,1 @@
+Oracle working on database development tool SAN FRANCISCO -- Oracle is working on a tool to provide a complete life cycle for building, managing, and updating database applications, a company executive revealed at the Oracle OpenWorld conference here on Wednesday morning.

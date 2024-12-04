@@ -1,0 +1,1 @@
+Microsoft Probes Flaw in ASP.NET Microsoft Corp. is investigating a reported security flaw in its ASP.NET technology that could allow intruders to access password-protected sections of a Web site simply by altering a URL.

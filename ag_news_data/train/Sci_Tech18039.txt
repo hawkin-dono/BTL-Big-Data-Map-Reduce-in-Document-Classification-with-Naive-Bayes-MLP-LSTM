@@ -1,0 +1,1 @@
+Red Hat hit by security-update email scam Red Hat is warning users that an email purporting to be a security update may contain malicious code. The email - which began appearing last Friday - uses a securityredhat 

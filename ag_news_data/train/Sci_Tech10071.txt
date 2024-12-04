@@ -1,0 +1,1 @@
+Question about file-name color has a black-and-white answer Q: Any idea why when I open folders in Excel or Word some of the file names are in blue and others are in black? Is it a function of when they were created or in what version of Office they were saved?

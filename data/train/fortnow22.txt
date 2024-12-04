@@ -1,0 +1,13 @@
+ 
+ 
+Rating Papers
+
+Suzanne Zeitman, associate editor of AMS Mathematical Reviews (and on the web), would like to get suggestions from the TCS community on how MR "can do a better job at covering the literature (wherever it is) in theoretical computer science."
+
+Looking at a random sampling of papers, the reviews seem to give a short description of the main results of the paper without much or any opinion on the quality of the paper though the fact the paper has a review indicates some positive view of the paper. Other than that the review doesn't seem to give more information than a well-written abstract.
+
+As comments on this weblog show, many people will give more honest views if they don't have to reveal their identities. Anonymous reviews of papers might prove equally fruitful.
+
+On this topic, David Bacon created a Digg-like site scirate.com for quant-ph. Kudos to Dave for bringing some Web 2.0 tools to highlight important papers.
+
+Still researchers looks at papers more like movies—we like different genres and then have different preferences within these genres. Could some sort of recommender system for academic papers help us find good papers to read?

@@ -1,0 +1,1 @@
+Adobe patches Acrobat Reader Security flaws in Adobe Acrobat Reader that could allow an attacker to take over a user #39;s system have been dealt with, as Adobe has patched the software.

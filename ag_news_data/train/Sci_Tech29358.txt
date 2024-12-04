@@ -1,0 +1,1 @@
+SAP offers new security service SAP is offering a new service called SAP Security Optimization, which provides a detailed analysis of security gaps and vulnerabilities and action plans on how to resolve them.

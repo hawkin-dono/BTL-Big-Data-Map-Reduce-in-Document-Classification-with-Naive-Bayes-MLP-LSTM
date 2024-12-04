@@ -1,0 +1,1 @@
+Critical IE patch issued MICROSOFT has issued an out-of-schedule critical patch for its Internet Explorer web browser, plugging a security hole that could allow a hacker to take control of a PC.

@@ -1,0 +1,1 @@
+Microsoft Warns of Critical JPEG Flaw A security flaw in the way many Microsoft applications process JPEG images could allow an attacker to gain control over a computer running the software, Microsoft warned this week.

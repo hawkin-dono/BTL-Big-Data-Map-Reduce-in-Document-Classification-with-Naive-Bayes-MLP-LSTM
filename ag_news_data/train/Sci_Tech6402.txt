@@ -1,0 +1,1 @@
+Sun adds UltraSparc IV to 4-way, 8-way servers SAN FRANCISCO - Sun Microsystems Inc. is preparing to launch two systems that will bring its UltraSparc IV processor into the low end of the company's server product line. Called the Sun Fire V490 and V890, the servers are slated to be introduced during Sun's Network Computing quarterly product announcement on Sept. 21, Sun said.

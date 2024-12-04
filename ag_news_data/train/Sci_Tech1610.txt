@@ -1,0 +1,1 @@
+Javalobby removes Java specs at Suns request Javalobby, an online community of Java developers, has removed from its new JDocs documentation Web site several vital Java APIs at the request of Java founder Sun Microsystems, an official with Javalobby said on Friday.

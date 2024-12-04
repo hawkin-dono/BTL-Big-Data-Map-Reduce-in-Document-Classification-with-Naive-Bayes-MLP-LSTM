@@ -1,0 +1,1 @@
+Software tracks status of batch processes BMC Software announced Tuesday the release of BMC Batch Impact Manager, a system that allows customers to manage batch processes according to their business importance.

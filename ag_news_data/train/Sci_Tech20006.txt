@@ -1,0 +1,1 @@
+Ingres r3 open source database ships for Linux, Windows Computer Associates International plans to widen the field for open source alternatives to commercial databases with the general release of the Ingres r3 database on the Linux and Windows platforms.

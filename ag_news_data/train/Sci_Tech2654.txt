@@ -1,0 +1,1 @@
+PlayStation Portable Chip Details boarder8925 writes  quot;The Register posted an article today that detailed the PlayStation Portable #39;s chip specs. The CPU will run at up to 333MHz, and its frontside bus at up to 166MHz.

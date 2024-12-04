@@ -1,0 +1,1 @@
+Webmail drops Windows for open source platform Webmail.us, which provides hosted e-mail service for small and medium-size businesses, will announce next week a raft of improvements to its service, including a major migration of its core e-mail platform from Microsoft Corp. Windows to an open source platform.

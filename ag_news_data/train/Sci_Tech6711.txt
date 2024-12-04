@@ -1,0 +1,1 @@
+Borland touts Software Delivery Optimization At the BorCon conference this week, Borland Software will reveal its Software Delivery Optimization strategy, which leverages the companys ALM (application lifecycle management) and developer products to ease software development and maintenance.

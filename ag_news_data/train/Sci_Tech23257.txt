@@ -1,0 +1,1 @@
+BEA Releases Enhanced Beehive Open-Source Framework LAS VEGASBEA Systems Inc. has made significant progress in the development of the Apache Beehive component model, which is designed to help accelerate the development of Web services and SOA (service-oriented architecture) applications.

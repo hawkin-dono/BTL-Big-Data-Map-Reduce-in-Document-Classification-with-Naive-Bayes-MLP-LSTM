@@ -1,0 +1,1 @@
+Vulnerability allows scammers to hijack pop-ups Security researchers warned today of a vulnerability in most Web browsers that could allow scammers to launch phishing attacks from pop-up windows on trusted Web sites.

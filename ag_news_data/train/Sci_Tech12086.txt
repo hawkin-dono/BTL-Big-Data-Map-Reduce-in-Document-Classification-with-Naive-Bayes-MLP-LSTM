@@ -1,0 +1,1 @@
+Intel plans faster bus for Pentium 4 Extreme Edition Increasing front-side bus speed from 800 to 1,066 MHz addresses crucial bottleneck in system performance.

@@ -1,0 +1,1 @@
+Thunderbird 1.0 email client bids to repeat Firefox success Hoping to emulate the success of the open source browser Firefox, the Mozilla group has now released version 1.0 of its Thunderbird email client.

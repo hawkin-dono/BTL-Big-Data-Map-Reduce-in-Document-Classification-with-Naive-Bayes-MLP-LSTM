@@ -1,0 +1,11 @@
+The Mega-Conferences
+
+Chicago will be invaded by economists in early January, coming to the American Economic Association's Annual Meeting. At the same time the mathematicians meet in New Orleans. The physicists meet in March and April. We computer scientists all get together…never.
+
+Most fields have their big annual get togethers with their plenary talks and many parallel sessions. New Ph.D's meet with potential employers often in a very organized way. Most importantly the entire community comes together to discuss the fundamental scientific and political issues of their discipline.
+
+We don't have those meetings in computer science. The ACM has an annual get together where they give out awards but that is relatively small. Every four years we have the Federated Conference, a joint meeting of several conferences but they don't span the field, usually lacking a major AI presence.
+
+So why don't we have a CS Annual Meeting drawing tens of thousands from across the discipline? Many of the other annual meeting started in a time when travel was more difficult and a single, or small number, of large general meetings made sense. We are a much more conference-oriented field and few of us would like to take yet another trip to a larger conference.
+
+We lose something by not having a single regular meeting across computer science. We rarely meet people outside our field who are outside our departments. Different subfields in CS have developed different cultures. We lack the cohesiveness of other fields. When someone says "I am a Physicist" we know what that means. When someone says "I am a Computer Scientist", do we?

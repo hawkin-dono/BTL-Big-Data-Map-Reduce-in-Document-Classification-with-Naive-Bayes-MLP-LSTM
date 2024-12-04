@@ -1,0 +1,1 @@
+Longhorn to arrive in 2006 Microsoft has announced plans to deliver Longhorn, the next version of the Windows desktop client, in 2006. But to meet this deadline, Longhorn will not include some previously announced features, such as the WinFS storage subsystem.

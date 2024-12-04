@@ -1,0 +1,1 @@
+New virus targets 64-bit version of Windows The virus, dubbed W64.Shruggle by Symantec, seems mainly to be an experiment to test the concept of a 64-bit infecter and is not actively spread, said Alfred Huger, senior director of security at Symantec.

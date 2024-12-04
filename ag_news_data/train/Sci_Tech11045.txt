@@ -1,0 +1,1 @@
+Hackers target Microsoft #39;s JPEG flaw In a sign of security threats to come, hackers have exploited a flaw in Microsoft programs and begun circulating a virus hidden in images that use the popular JPEG format.

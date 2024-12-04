@@ -1,0 +1,1 @@
+News: McAfee AV ate my application An Australian software developer has been left fuming after the latest virus definition update from McAfee caused his package to be wrongly identified as a Trojan horse programme.

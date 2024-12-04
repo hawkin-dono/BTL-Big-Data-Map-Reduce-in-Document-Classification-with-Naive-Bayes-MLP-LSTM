@@ -1,0 +1,1 @@
+News: Microsoft warns of poisoned picture peril A vulnerability in Windows XP and other products means JPEG viruses may not remain just a hoary myth.\

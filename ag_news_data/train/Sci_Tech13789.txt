@@ -1,0 +1,1 @@
+MS Word Security Flaw Reported A flaw in Microsoft Word 2000, and possibly Word 2002, could be used by hackers to crash PCs or run other code on the compromised machine.

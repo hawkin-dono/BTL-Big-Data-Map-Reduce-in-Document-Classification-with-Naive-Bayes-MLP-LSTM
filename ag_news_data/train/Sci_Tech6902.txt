@@ -1,0 +1,1 @@
+Open-Source Developers Cheer New Linux Base Standard The Free Standards Group will announce on Tuesday the availability of the Linux Standard Base (LSB) 2.0, and that this standard has the support of almost all global Linux distribution vendors.

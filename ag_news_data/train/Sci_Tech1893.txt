@@ -1,0 +1,1 @@
+BEA readies app server package for ISVs BEA Systems on Monday is releasing a version of its application infrastructure suite designed to enable ISVs to deliver products for SOAs (service-oriented architectures).

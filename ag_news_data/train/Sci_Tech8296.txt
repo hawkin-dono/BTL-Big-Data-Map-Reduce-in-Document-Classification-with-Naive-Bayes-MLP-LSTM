@@ -1,0 +1,1 @@
+WINDOWS IN THE ENTERPRISE --- Search utility possible solution for &lt;b&gt;...&lt;/b&gt; In June, I wrote a short series on Microsoft #39;s next major operating system release, codenamed Longhorn. I raved about the much-anticipated WinFS file system that was supposed to replace the existing file system with a more robust SQL-based version.

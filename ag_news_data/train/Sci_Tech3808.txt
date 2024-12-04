@@ -1,0 +1,1 @@
+DCML And Oasis Team To Boost Data-Center Interoperability DCML proponents hope that joining Oasis will help the standard cross a major barrier in adoption of its data-center standards--the inclusion of major server and operating system vendors.

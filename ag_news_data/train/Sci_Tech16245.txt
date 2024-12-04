@@ -1,0 +1,1 @@
+IBM Introduces Powerful Servers IBM has introduced three new POWER5 processor-based servers that the company says outpace Sun and HP in performance records and establish a new standard for server virtualization capabilities.

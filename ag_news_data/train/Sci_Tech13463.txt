@@ -1,0 +1,1 @@
+ClearSpeed races ahead on processor cores ClearSpeed Technology has doubled the performance of its high-performance computing co-processor for scientific workstations and server clusters by incorporating 96 separate processing cores on a single chip, the company announced Wednesday at the Fall Processor Forum in San Jose, California.

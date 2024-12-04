@@ -1,0 +1,1 @@
+IBM tightens up WebSphere IBM is expected to disclose on Wednesday features of the forthcoming version of its WebSphere application server, which will center on improving performance and administration.

@@ -1,0 +1,1 @@
+Microsoft slips out another database beta Microsoft has released another interim version of its forthcoming SQL Server 2005 database and has introduced a free management tool.

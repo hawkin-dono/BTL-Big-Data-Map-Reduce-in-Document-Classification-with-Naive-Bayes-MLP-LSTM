@@ -1,0 +1,1 @@
+ISP Telenor cripples zombie PC network Working with a local Internet service provider, authorities in Singapore this week shut down a network of around 10,000 robot, or "zombie," computers after technicians stumbled on the illicit network by tracing communications from compromised PCs.

@@ -1,0 +1,1 @@
+Authentication Is Not an Anti-Spam System Opinion: Already we #39;re hearing it, that spammers are beating SPF and the other authentication systems. But the truth has always been that authentication is only a tool for anti-spam systems to use.

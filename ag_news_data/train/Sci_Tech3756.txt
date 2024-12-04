@@ -1,0 +1,1 @@
+Juniper boosts end-point security Juniper Networks is beefing up security on its VPN gear to make sure that machines connecting to a network are safe. On Monday, the company announced updates to its NetScreen Secure Access SSL VPN product.

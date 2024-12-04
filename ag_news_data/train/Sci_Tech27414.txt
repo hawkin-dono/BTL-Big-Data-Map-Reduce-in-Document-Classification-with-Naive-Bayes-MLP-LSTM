@@ -1,0 +1,1 @@
+Thunderbird 1.0 takes on Outlook Express, Eudora The Mozilla Foundation today is set to release Version 1.0 of its Thunderbird e-mail client, an open-source application aimed at competitors, including Microsoft's Outlook Express and Qualcomm's Eudora.

@@ -1,0 +1,1 @@
+Novel Worms: One Sniffs, Another Talks Anti-virus companies are warning of a new variant of the Sdbot mass-mailing worm that installs a network sniffer in order to grab unencrypted passwords, apparently the first worm to do so.

@@ -1,0 +1,1 @@
+Intel Adds Tri-mode (802.11a,b,g) Wireless Module Intel announced a new tri-mode wireless module (supporting IEEE standards 802.11a, b and g) for notebooks based on Intel Centrino mobile technology.

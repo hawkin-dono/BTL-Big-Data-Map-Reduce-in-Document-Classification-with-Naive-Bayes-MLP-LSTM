@@ -1,0 +1,1 @@
+IOS glitch leaves some Cisco gear open to attack A software vulnerability in some Cisco Systems Inc. routers and switches could allow an attacker to cause the devices to hang, the vendor warned this week.

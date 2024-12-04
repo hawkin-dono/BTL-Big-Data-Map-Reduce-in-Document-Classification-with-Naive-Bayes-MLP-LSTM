@@ -1,0 +1,1 @@
+Use script to block Windows XP SP2 updates: Microsoft Microsoft has offered yet another way for businesses to block the Automatic Update of Windows XP to the big-deal SP2 upgrade. The developer posted a copy-and-paste script to 

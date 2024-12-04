@@ -1,0 +1,1 @@
+Cognos brings software to Linux on Power Firm's ReportNet product now is available for Red Hat Enterprise Linux running on IBM's pSeries servers.

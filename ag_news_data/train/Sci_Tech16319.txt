@@ -1,0 +1,1 @@
+Data Laws Set Storage Agenda for IBM The TotalStorage DS6000 ultra-dense server, about the size of a VCR, hold 16 disks, each capable of holding up to 300 GB. IBM #39;s larger system is the DS8000 array, based on two or four IBM Power5 chips.

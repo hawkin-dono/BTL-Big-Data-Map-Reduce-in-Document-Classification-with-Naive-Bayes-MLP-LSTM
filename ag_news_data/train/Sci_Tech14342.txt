@@ -1,0 +1,1 @@
+IBM upgrades blade servers IBM will soon begin shipping upgraded models of its HS20 and JS20 blade servers, including a new SCSI (small computer system interface) option for the HS20 that will double the number of SCSI blades that users can fit into a single chassis, the company 

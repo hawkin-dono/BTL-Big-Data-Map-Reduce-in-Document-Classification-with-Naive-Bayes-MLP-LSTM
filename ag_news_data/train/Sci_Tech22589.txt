@@ -1,0 +1,1 @@
+Microsoft probing reported flaws in Windows XP SP2 Microsoft Corp. Thursday said it is investigating claims that several new vulnerabilities have been found in Windows XP Service Pack 2 by security firm Finjan Software Inc. in San Jose, Calif. Finjan on Tuesday announced that it had found as many as 10 "serious" flaws in SP2.

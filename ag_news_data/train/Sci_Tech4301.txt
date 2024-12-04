@@ -1,0 +1,1 @@
+Microsoft Pads 64-bit Support in SQL Server Microsoft (Quote, Chart) has released its second Community Technology Preview (CTP) for SQL Server 2005, adding greater performance and 64-bit support for SQL Server 2005 Analysis Services and SQL Server 2005 Integration Services.

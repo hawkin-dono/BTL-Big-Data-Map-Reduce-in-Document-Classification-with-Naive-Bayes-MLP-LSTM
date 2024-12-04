@@ -1,0 +1,9 @@
+A Continuum of Quality
+
+Claire's post on French Universities brings up an interesting point. In most countries universities are almost all funded and run by the national government. The country divides the universities into a small number of groups and tries, with varying degrees of success, to keep the quality within each group about the same. This system keeps the quality of the elite schools reasonably strong but a student who just misses admission at that level, like the Grand Ecoles in France or one of the IITs in India, ends up with a weaker education and lesser job prospects down the road.
+
+The United States, outside of the military academies, does not run any universities directly. Rather most universities are either run privately or by individual states. These schools form a near continuum of quality from the best research schools in the world down to small community colleges. We have no large gaps, if a student just fails to get accepted to school A then they can go to school B with nearly as strong a program. Also universities in the US often have strength in different areas; one can find schools whose CS department have a much greater reputation than their university as a whole (and vice versa).
+
+Since US universities report to different masters they compete, trying to increase the reputation of their schools both informally and in published lists like the US News Rankings. Some of this competition leads to spending not directly related to education or research such as athletic programs and student amenities. But much effort does go into recruiting top faculty and students including from outside the US.
+
+Fifty computer science departments have a stated goal of becoming a top ten department in the long term. 80% of them will fail but the process will strengthen CS research across the board.

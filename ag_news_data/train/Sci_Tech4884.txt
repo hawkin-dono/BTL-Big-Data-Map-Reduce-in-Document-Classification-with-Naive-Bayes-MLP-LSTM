@@ -1,0 +1,1 @@
+Microsoft Warns Spyware Could Foul Up System Microsoft said some spyware could cause computers to freeze up upon installation of the SP2 update. Microsoft recommends that users clean their PCs of spyware and back up their data before 

@@ -1,0 +1,1 @@
+Microsoft Allows for Better Backups Microsoft jumped into the disk-based backup and recovery market this week with the announcement of the Microsoft Data Protection Server, a low-cost, continuous, disk-based backup and recovery system.

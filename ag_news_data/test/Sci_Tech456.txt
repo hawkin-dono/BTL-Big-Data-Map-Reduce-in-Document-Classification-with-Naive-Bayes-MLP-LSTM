@@ -1,0 +1,1 @@
+Microsoft Warns of JPEG Security Hole Microsoft, which recommended immediate updates, said the newly discovered vulnerability could allow remote code execution of code thanks to a buffer-overrun vulnerability in the processing of JPEG image formats.

@@ -1,0 +1,1 @@
+IBM Puts Spotlight On Entry-Level Linux Servers A virtualization option will be available for the systems, which are based on 1.5- or 1.6-GHz Power5 processors. By Darrell Dunn. IBM on Monday introduced a new line of Linux servers intended to compete with 

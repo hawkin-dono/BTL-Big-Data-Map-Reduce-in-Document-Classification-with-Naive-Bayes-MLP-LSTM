@@ -1,0 +1,1 @@
+IBM center gives partners a Linux playground A new set of offerings formed with the expansion of the IBM Virtualization Center has a distinct Linux flavor, including an online  quot;how to quot; guide for porting from Windows, Unix or Linux to Linux on Power5.

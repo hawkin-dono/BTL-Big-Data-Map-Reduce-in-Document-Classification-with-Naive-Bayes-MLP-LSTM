@@ -1,0 +1,1 @@
+Online Shoppers Vulnerable to Pop-Up Phishing Scam Danish security firm Secunia has issued warnings about a vulnerability in most Web browsers that could allow hackers to hijack pop-up windows on trusted Web sites to launch phishing attacks.

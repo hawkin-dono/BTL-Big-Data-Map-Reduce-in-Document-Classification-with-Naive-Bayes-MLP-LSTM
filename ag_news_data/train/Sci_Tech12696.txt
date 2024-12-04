@@ -1,0 +1,1 @@
+Apple issues Mac OS X security update Update addresses potential denial-of-service vulnerabilities as well as a flaw in QuickTime.

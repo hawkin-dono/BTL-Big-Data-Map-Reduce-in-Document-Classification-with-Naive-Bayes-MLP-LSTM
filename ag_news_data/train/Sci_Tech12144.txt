@@ -1,0 +1,1 @@
+Intel programming tools reach new 64-bit chips They let developers create software that supports 64-bit x86 chips--important in making the new generation of chips useful.

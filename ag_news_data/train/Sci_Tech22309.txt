@@ -1,0 +1,1 @@
+Playboy is a Mirror for Tomcat? \\This is really strange.\\Today I wanted to download a Tomcat source tarball and it pointed me to this\mirror:\\mirrors.*playboy.com*/apache...\\The full link to the Tomcat tarball is here :\\Whats up with that?  \\More evidence that Tomcat  is just cat on the prowl for a kitten in need:\\caption: Can you pass the Tomcat Rorschach  test? \\

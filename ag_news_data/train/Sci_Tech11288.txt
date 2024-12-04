@@ -1,0 +1,1 @@
+IBM reclaims supercomputer crown for U.S. IBM has assembled a 16,000-processor version of its BlueGene/L supercomputer, which on Sept. 16 edged out the Earth Simulator, built by IBM rival NEC, as the most powerful supercomputer on the planet.

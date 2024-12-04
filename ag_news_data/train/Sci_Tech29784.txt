@@ -1,0 +1,1 @@
+Microsoft Fixes  #39;Critical #39; XP Firewall Issue Microsoft has quietly released an update to Windows XP to fix a potentially serious configuration problem in the firewall that ships as part of Windows XP Service Pack 2. Users who installed SP2 on their Windows 

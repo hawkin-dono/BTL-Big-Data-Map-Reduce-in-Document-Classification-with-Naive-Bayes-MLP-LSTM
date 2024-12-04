@@ -1,0 +1,9 @@
+The Social Scientist
+
+Last month Yisroel Brumer wrote a Newsweek My Turn column Let's Not Crowd Me, I'm Only a Scientist. Brumer talks about how he has become a "social superstar" since taking on a job at Homeland Security's Science and Technology Directorate.
+
+    It wasn't always this way. Just a few years ago, I was a graduate student in chemical physics, working on obscure problems involving terms like quantum mechanics, supercooled liquids and statistical thermodynamics. The work I was doing was fascinating, and I could have explained the basic concepts with ease. Sure, people would sometimes ask about my work in the same way they say "How are you?" when you pass them in the hall, but no one, other than the occasional fellow scientist, would actually want to know. No one wanted to hear about a boring old scientist doing boring old science.
+
+    People want to hear only about how there's now a cell phone that plays iTunes, or maybe about cool communications that will facilitate emergency responses. But think about all the science that goes into making a cell phone work. Someone had to figure out the equations of electromagnetic waves, circuitry and myriad other scientific details. People have to figure all that stuff out, people who could have made more money and garnered greater prestige had they applied their skills in fields like patent law, business or medicine. 
+
+I sympathize with the old Brumer. Even among academics, I remember the political scientist who had the great opening line "My business is war, and business is good", or even my friend the food scientist who did his doctorate on starch. Much as I get excited about the P versus NP problem and its great importance to all science and society, trying to express these ideas to uninterested laypeople always seems to end up with "Should I buy an Apple or a Windows machine?"

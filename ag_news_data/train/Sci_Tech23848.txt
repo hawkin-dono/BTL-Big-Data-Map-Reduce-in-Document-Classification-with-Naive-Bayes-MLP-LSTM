@@ -1,0 +1,1 @@
+Microsoft Swings at Novell Microsoft is offering new migration tools to tempt NetWare users to move to Windows Server 2003. Along with the tools comes a promise that NetWare customers will get online training and unlimited technical support via newsgroups.

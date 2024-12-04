@@ -1,0 +1,1 @@
+IBM unveils new Shark and midrange array IBM has unveiled two new enterprise-class storage arrays which, despite being aimed at different markets, can be managed through a single interface and data can be replicated between them.

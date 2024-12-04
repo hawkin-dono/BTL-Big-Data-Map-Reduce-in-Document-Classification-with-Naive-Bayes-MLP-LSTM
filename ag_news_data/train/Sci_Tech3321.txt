@@ -1,0 +1,1 @@
+Gates: Longhorn changed to make deadlines Microsoft on Friday set late 2006 as the deadline when it will ship Longhorn, the next major version of Windows. But to make that date, it had to delay the full implementation WinFS, an ambitious file system 

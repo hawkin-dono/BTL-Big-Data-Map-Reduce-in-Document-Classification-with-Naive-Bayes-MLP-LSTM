@@ -1,0 +1,1 @@
+IBM Accelerates Grid-Computing Efforts For ISVs Grid computing already is close to being a \$1 billion business for IBM. Now the company is stepping up its efforts to make sure its independent software vendor partners are onboard the grid-computing bandwagon.

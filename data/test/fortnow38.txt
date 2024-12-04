@@ -1,0 +1,39 @@
+On Paper Titles
+
+How do you take a twenty page research paper and condense its essence into a few words? A couple of title don'ts with some (made up) examples.
+
+    * Starting a title with "On", "Towards", "New" or "Improved" or ending with "?"
+
+          You are announcing that you have failed to solve the problem you really care about and this is the best you can do. Nobody would title a paper proving P?NP "On an Open Problem of Cook".
+
+    * "Breaking the … Barrier"
+
+          Either it wasn't a barrier after all or you cheated and changed the model.
+
+    * Cutesy Titles
+
+          "A slice of p" 
+
+    * Ending with a Roman Numeral
+
+          "Pig Complexity I". Does the world need more than one paper on pig complexity?
+
+    * Out of Context Titles
+
+          "Three rounds suffice" 
+
+    * Technical Terms
+
+          Don't use highly technical terms or complexity classes in the title. Any computer scientist should at least understand the words in the title. 
+
+    * Formal Statement of Result
+
+          "A O(n3/2log n log log n/log* n)-time one-sided randomized algorithm giving a O(n1/3/(log n)4/3) approximation to 12-sided 3-way 20-dimensional hypergraph coloring." 
+
+    * Long Titles
+
+          Ditto. 
+
+What makes a good title? Short and to the point. Some of several titles I liked from the last FOCS: "Cryptography from Anonymity", "Fault-Tolerant Distributed Computing in Full-Information Networks", "Planar Point Location in Sublogarithmic Time". Enough to give you the idea of the paper and the desire to read more.
+
+I went through my bibtex file trying to find great papers with lousy titles. Except for a few "On"s (On computable numbers, with an application to the Entscheidungsproblem), great papers seem to have at least reasonable titles. A lesson for all of us paper titlers.

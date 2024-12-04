@@ -1,0 +1,1 @@
+HP To Stop Selling Itanium-Based Workstations HP says it is still committed to the Itanium processor, but it has decided to stop equipping workstations with the chip, due to demand for processors that run in both 32- and 64-bit environments.

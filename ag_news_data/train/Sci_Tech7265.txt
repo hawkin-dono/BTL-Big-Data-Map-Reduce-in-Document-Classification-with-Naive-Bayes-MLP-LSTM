@@ -1,0 +1,1 @@
+Sniffing worm snoops network PCs The latest variant of the SDbot worm contain network-sniffing software that enables it to retrieve passwords from other computers connected to the target PC.

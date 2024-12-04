@@ -1,0 +1,1 @@
+Start-up says it can deliver secure VoIP Net6 says it has just the trick to make voice calling over a Secure Sockets Layer VPN work well.\

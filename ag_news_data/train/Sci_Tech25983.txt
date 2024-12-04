@@ -1,0 +1,1 @@
+Cell Processor Unveiled Specifically, the companies confirmed that Cell is a multicore chip comprising a 64-bit Power processor core and multiple synergistic processor cores capable of massive floating point processing.

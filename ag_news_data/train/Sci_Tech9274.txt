@@ -1,0 +1,1 @@
+AMD improved Opterons with PowerNow feature AMD #39;s Opteron processors will soon be able to take advantage of the same powermanagement technology the company has already built into its desktop and laptop processors.

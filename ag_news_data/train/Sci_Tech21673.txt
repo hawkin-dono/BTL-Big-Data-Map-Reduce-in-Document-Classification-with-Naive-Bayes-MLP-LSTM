@@ -1,0 +1,1 @@
+IBM Sits Atop Supercomputer List As expected, IBM took over the top slot on the Top500 supercomputing list with a BlueGene/L system that shatters previous Linpack benchmarks at 70.

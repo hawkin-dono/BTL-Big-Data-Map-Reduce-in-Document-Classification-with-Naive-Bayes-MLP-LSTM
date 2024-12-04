@@ -1,0 +1,1 @@
+Veritas, Microsoft Give Backup a Speed Boost Storage management offerings on tap from Microsoft Corp. and Veritas Software Corp. aim to extend data replication, archiving and indexing capabilities to accelerate backup and recovery operations.

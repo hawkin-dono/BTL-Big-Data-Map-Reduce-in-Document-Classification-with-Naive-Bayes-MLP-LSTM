@@ -1,0 +1,1 @@
+Home Users Most Vulnerable to SP2 Flaw (NewsFactor) NewsFactor - One of the first flaws found in Windows XP SP2 -- which leaves a PC vulnerable through a drag-and-drop hole in Internet Explorer -- could be used by hackers for even greater mischief.

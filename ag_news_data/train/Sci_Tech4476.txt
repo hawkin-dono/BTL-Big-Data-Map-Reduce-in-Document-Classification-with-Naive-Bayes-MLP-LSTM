@@ -1,0 +1,1 @@
+Oracle Products Exposed To Hackers Oracle has issued an alert regarding multiple security vulnerabilities discovered across an unsettlingly wide range of its products.

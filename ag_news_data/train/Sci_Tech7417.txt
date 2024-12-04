@@ -1,0 +1,1 @@
+Visual Studio Aims At Structuring The Software Development Process Visual Studio 2005 Team System will try to include features that make it more likely that what the developers know in their hearts also is visible to managers.

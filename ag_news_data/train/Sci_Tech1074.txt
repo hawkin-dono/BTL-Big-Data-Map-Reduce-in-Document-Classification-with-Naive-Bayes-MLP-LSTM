@@ -1,0 +1,1 @@
+IBM tightening Eclipse, Java, Linux links IBM on Thursday will announce the release of a free tools bundle for Eclipse to make it easier to deploy Java applications on Linux.

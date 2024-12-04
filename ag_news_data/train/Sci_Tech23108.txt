@@ -1,0 +1,1 @@
+Dell, Microsoft Partner Up The companies are integrating Dell OpenManage 4 systems management software with Microsoft Systems Management Server (SMS) 2003 to unify the tools needed to update system software, operating systems (OS) and applications to one interface that customers 

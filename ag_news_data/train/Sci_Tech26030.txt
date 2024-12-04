@@ -1,0 +1,1 @@
+WS-Reliability middleware released as open source Three proponents of the WS-Reliability standard late last week released messaging software based on the specification as open source.

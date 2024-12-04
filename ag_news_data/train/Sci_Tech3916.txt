@@ -1,0 +1,1 @@
+Intel to cut Prescott leakage by 75 at 65nm Intel has pledged to reduce drastically leakage effects in its 65nm process, having punched out its first device containing over 500m transistors using the technology.

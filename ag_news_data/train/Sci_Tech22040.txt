@@ -1,0 +1,1 @@
+Microsoft skips Itanium with new Windows Microsoft will come out with a special version of Windows next year for clusters, but it won #39;t run on Intel #39;s most powerful server chip, at least for now.

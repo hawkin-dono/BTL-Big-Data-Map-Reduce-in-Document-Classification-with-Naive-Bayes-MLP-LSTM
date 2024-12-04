@@ -1,0 +1,1 @@
+Dell and Microsoft integrate patch management apps Dell and Microsoft are working together to integrate their systems management applications to allow customers to update server hardware and software with a single tool.

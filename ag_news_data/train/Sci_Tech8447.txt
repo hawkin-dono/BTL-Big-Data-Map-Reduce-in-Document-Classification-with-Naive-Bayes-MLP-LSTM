@@ -1,0 +1,1 @@
+Microsoft Shares Office Source Code Facing growing competition from open source software providers, Microsoft has decided to allow governments and international organizations access to source code for its Office 2003 productivity suite.
