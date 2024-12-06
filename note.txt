@@ -1,0 +1,5 @@
+sudo chmod -R 777 /home/hd_user/storage/BTL-Big-Data-Map-Reduce-in-Document-Classification-with-Naive-Bayes-MLP-LSTM/
+
+Chỉnh project path trong mlp/config.py, tạo folder "output/mlp"
+Chạy mlp.bat trên window (chỉ chạy được bản debug trong hàm run.py)
+Chạy mlp.sh trên ubuntu (chạy được cả debug, local và hadoop)
