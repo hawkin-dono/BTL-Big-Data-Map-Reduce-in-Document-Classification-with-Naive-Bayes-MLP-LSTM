@@ -7,7 +7,7 @@ import config as cf
 import util
 
 class TextClassifierTrainer(MRJob):
-    FILES = ["util.py", "config.py"]
+    FILES = ["util.py", "config.py", "cwd.txt"]
     INPUT_PROTOCOL = JSONValueProtocol
     INTERNAL_PROTOCOL = PickleProtocol if cf.MODE == "pickle" else JSONProtocol
     OUTPUT_PROTOCOL = PickleValueProtocol if cf.MODE == "pickle" else JSONValueProtocol
@@ -27,45 +27,8 @@ class TextClassifierTrainer(MRJob):
         self.fc2_lr = cf.FC2_LR
 
         logging.basicConfig(level=logging.DEBUG)
-
         self.load_checkpoint()
-        import numpy as np
-        self.total_fc1_weight_grads = np.zeros_like(self.fc1)
-        self.total_fc2_weight_grads = np.zeros_like(self.fc2)
-        self.total_fc1_bias_grads = np.zeros_like(self.fc1_b)
-        self.total_fc2_bias_grads = np.zeros_like(self.fc2_b)
-        self.total_embedding_grads = np.zeros_like(self.embed)
-        self.count = 0
-        self.line_count = 0
-    def load_checkpoint(self):
-        weight_path = os.path.join(cf.ABS_OUTPUT_PATH, f"model_weight.{cf.FILE_EXTENSION}")
-        if os.path.exists(weight_path):
-            weight = util.reader(weight_path, True)
-            self.embed = weight["embed"]
-            self.fc1 = weight["fc1"]
-            self.fc1_b = weight["fc1_b"]
-            self.fc2 = weight["fc2"]
-            self.fc2_b = weight["fc2_b"]
-        grad_path = os.path.join(cf.ABS_OUTPUT_PATH, f"grads.{cf.FILE_EXTENSION}")
-        if os.path.exists(grad_path):
-            grads = util.reader(grad_path, True)
-            self.embed_m = grads["embed_m"]
-            self.embed_v = grads["embed_v"]
-            self.fc1_m = grads["fc1_m"]
-            self.fc1_v = grads["fc1_v"]
-            self.fc2_m = grads["fc2_m"]
-            self.fc2_v = grads["fc2_v"]
-            self.fc1_b_m = grads["fc1_b_m"]
-            self.fc1_b_v = grads["fc1_b_v"]
-            self.fc2_b_m = grads["fc2_b_m"]
-            self.fc2_b_v = grads["fc2_b_v"]
-        metadata_path = os.path.join(cf.ABS_OUTPUT_PATH, "metadata.json")
-        if os.path.exists(metadata_path):
-            metadata = util.reader(metadata_path)
-            self.epoch = metadata["epoch"]
-            self.beta1 = metadata["beta1"]
-            self.beta2 = metadata["beta2"]
-            self.epsilon = metadata["epsilon"]
+
     def save_checkpoint(self):
         attr_name_map = {
             f"model_weight.{cf.FILE_EXTENSION}" : [
@@ -86,6 +49,15 @@ class TextClassifierTrainer(MRJob):
                 file_data[attr_name] = data
             file_path = os.path.join(cf.ABS_OUTPUT_PATH, file_name)
             util.writer(file_data, file_path, True)
+    def load_checkpoint(self):
+        weight_path = os.path.join(cf.ABS_OUTPUT_PATH, f"model_weight.{cf.FILE_EXTENSION}")
+        if os.path.exists(weight_path):
+            weight = util.reader(weight_path, True)
+            self.embed = weight["embed"]
+            self.fc1 = weight["fc1"]
+            self.fc1_b = weight["fc1_b"]
+            self.fc2 = weight["fc2"]
+            self.fc2_b = weight["fc2_b"]
     def mapper(self, _, data: str):
         if cf.MODE == "json" or cf.FORCE_JSON_INPUT:
             import numpy as np
@@ -152,6 +124,14 @@ class TextClassifierTrainer(MRJob):
                     "fc2_bias_grad" : (total_fc2_bias_grads/count),
                     "fc2_weight_grad" : (total_fc2_weight_grads/count)
                     }
+    def reducer_init(self):
+        import numpy as np
+        self.total_fc1_weight_grads = np.zeros_like(self.fc1)
+        self.total_fc2_weight_grads = np.zeros_like(self.fc2)
+        self.total_fc1_bias_grads = np.zeros_like(self.fc1_b)
+        self.total_fc2_bias_grads = np.zeros_like(self.fc2_b)
+        self.total_embedding_grads = np.zeros_like(self.embed)
+        self.count = 0
     def reducer(self, _, grads):
         if cf.MODE == "json":
             import numpy as np
@@ -170,26 +150,39 @@ class TextClassifierTrainer(MRJob):
                 self.total_fc2_bias_grads += grad_data["fc2_bias_grad"]
                 self.total_embedding_grads += grad_data["embedding_grad"]
                 self.count += 1
-
+    def final_reducer_init(self):
+        metadata_path = os.path.join(cf.ABS_OUTPUT_PATH, "metadata.json")
+        if os.path.exists(metadata_path):
+            metadata = util.reader(metadata_path)
+            self.epoch = metadata["epoch"]
+            self.beta1 = metadata["beta1"]
+            self.beta2 = metadata["beta2"]
+            self.epsilon = metadata["epsilon"]
+        grad_path = os.path.join(cf.ABS_OUTPUT_PATH, f"grads.{cf.FILE_EXTENSION}")
+        if os.path.exists(grad_path):
+            grads = util.reader(grad_path, True)
+            self.embed_m = grads["embed_m"]
+            self.embed_v = grads["embed_v"]
+            self.fc1_m = grads["fc1_m"]
+            self.fc1_v = grads["fc1_v"]
+            self.fc2_m = grads["fc2_m"]
+            self.fc2_v = grads["fc2_v"]
+            self.fc1_b_m = grads["fc1_b_m"]
+            self.fc1_b_v = grads["fc1_b_v"]
+            self.fc2_b_m = grads["fc2_b_m"]
+            self.fc2_b_v = grads["fc2_b_v"]
     def adam_update(self):
         import numpy as np
         if (self.count > 0):
             def adam(m, v, grad, lr, timestep):
-                m = 0.9 * m + (1 - 0.9) * grad
-                v = 0.999 * v + (1 - 0.999) * (grad ** 2)
-
-
-                m_hat = m / (1 - 0.9 ** timestep)
-                v_hat = v / (1 - 0.999 ** timestep)
+                m = self.beta1 * m + (1 - self.beta1) * grad
+                v = self.beta2 * v + (1 - self.beta2) * (grad ** 2)
+                m_hat = m / (1 - self.beta1 ** timestep)
+                v_hat = v / (1 - self.beta2 ** timestep)
                 v_hat = np.maximum(v_hat, 0)
-                # printf(np.sqrt(v_hat))
-                update = lr * m_hat / (np.sqrt(v_hat) + 1e-8)
-                # printf(m_hat)
-
+                update = lr * m_hat / (np.sqrt(v_hat) + self.epsilon)
                 return m, v, update
-            # printf(self.total_fc1_weight_grads / self.count)
             time_step = self.epoch + 1
-            # self.time_step = 1
             self.fc1_m, self.fc1_v, fc1_weight_update = adam(
                 self.fc1_m, self.fc1_v, self.total_fc1_weight_grads / self.count, self.fc1_lr, time_step
             )
@@ -211,6 +204,7 @@ class TextClassifierTrainer(MRJob):
             self.fc2_b -= fc2_bias_update
             self.embed -= embed_update
     def reducer_final(self):
+        self.final_reducer_init()
         self.adam_update()
         self.epoch += 1
         self.save_checkpoint()

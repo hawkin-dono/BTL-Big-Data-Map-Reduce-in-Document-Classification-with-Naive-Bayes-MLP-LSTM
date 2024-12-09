@@ -7,7 +7,7 @@ import util
 import config as cf
 
 class TextDataProcess(MRJob):
-    FILES = ["util.py", "config.py"]
+    FILES = ["util.py", "config.py", "cwd.txt"]
     INPUT_PROTOCOL = RawValueProtocol
     INTERNAL_PROTOCOL = PickleProtocol if cf.MODE == "pickle" else JSONProtocol
     OUTPUT_PROTOCOL = PickleValueProtocol if cf.MODE == "pickle" else JSONValueProtocol
@@ -25,6 +25,8 @@ class TextDataProcess(MRJob):
             self.output_folder = cf.TRAIN_DATA_PATH
         elif self.options.is_train == 0:
             self.output_folder = cf.TEST_DATA_PATH
+        elif self.options.is_train == 2:
+            self.output_folder = cf.TEMP_DATA_PATH
         else:
             raise Exception(f"Invalid or missing arg is_train {self.options.is_train}")
         self.extract_func = util.extract

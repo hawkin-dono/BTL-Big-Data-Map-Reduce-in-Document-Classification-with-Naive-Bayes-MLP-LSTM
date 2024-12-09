@@ -7,10 +7,13 @@ import config as cf
 import util
 
 class TextClassifierEvaluate(MRJob):
-    FILES = ["util.py", "config.py"]
+    FILES = ["util.py", "config.py", "cwd.txt"]
     INPUT_PROTOCOL = JSONValueProtocol
     INTERNAL_PROTOCOL = PickleProtocol if cf.MODE == "pickle" else JSONProtocol
     OUTPUT_PROTOCOL = PickleValueProtocol if cf.MODE == "pickle" else JSONValueProtocol
+    def configure_args(self):
+        super(TextClassifierEvaluate, self).configure_args()
+        self.add_passthru_arg("--is_infer", type=int, help="Is interence or evaluate")
     def __init__(self, *args, **kwargs):
         super(TextClassifierEvaluate, self).__init__(*args, **kwargs)
         vocab = util.get_vocab()
@@ -24,12 +27,17 @@ class TextClassifierEvaluate(MRJob):
 
         self.total_loss = 0
         self.total_accuracy = 0
+        self.detail = []
 
         logging.basicConfig(level=logging.DEBUG)
 
         self.load_checkpoint()
         self.count = 0
     def load_checkpoint(self):
+        if self.options.is_infer == 1:
+            self.mode = "infer"
+        elif self.options.is_infer == 0:
+            self.mode = "eval"
         weight_path = os.path.join(cf.ABS_OUTPUT_PATH, f"model_weight.{cf.FILE_EXTENSION}")
         if os.path.exists(weight_path):
             weight = util.reader(weight_path, True)
@@ -46,6 +54,10 @@ class TextClassifierEvaluate(MRJob):
             self.beta2 = metadata["beta2"]
             self.epsilon = metadata["epsilon"]
     def save_log(self):
+        if self.mode == 'infer':
+            file_path = os.path.join(cf.ABS_OUTPUT_PATH, "infer_result.json")
+            util.writer(self.metrics, file_path)
+            self.metrics.pop("detail")
         file_path = os.path.join(cf.ABS_OUTPUT_PATH, "evaluate.json")
         data = {}
         if (os.path.exists(file_path)):
@@ -68,10 +80,20 @@ class TextClassifierEvaluate(MRJob):
             predicted = np.argmax(probabilities, axis=1)
             true_class = np.argmax(y_np, axis=1)
             accuracy = np.mean(predicted == true_class)
-            yield key, {
+            result = {
                 "loss" : loss,
                 "accuracy" : accuracy
-                }
+            }
+            if self.mode == "infer":
+                detail = []
+                for i in range(probabilities.shape[0]):
+                    detail.append({
+                        'true' : y_np[i].tolist().index(1),
+                        'predicted' : int(predicted[i]),
+                        'probs' : probabilities[i].tolist()
+                    })
+                result['detail'] = detail
+            yield key, result
     def combiner(self, _, metric_datas):
         total_loss = 0
         total_accuracy = 0
@@ -80,21 +102,29 @@ class TextClassifierEvaluate(MRJob):
             total_loss += metric_data["loss"]
             total_accuracy += metric_data["accuracy"]
             count += 1
-            yield None, {
+            result = {
                 "loss" : total_loss / count,
                 "accuracy" : total_accuracy / count
             }
+            if self.mode == 'infer':
+                detail = []
+                detail.extend(metric_data['detail'])
+                result['detail'] = detail
+            yield None, result
     def reducer(self, _, metric_datas):
         for metric_data in metric_datas:
             self.total_loss += metric_data["loss"]
             self.total_accuracy += metric_data["accuracy"]
             self.count += 1
-
+            if self.mode == 'infer':
+                self.detail.extend(metric_data['detail'])
     def reducer_final(self):
         self.metrics = {
             "loss" : self.total_loss/self.count,
             "accuracy" : self.total_accuracy/self.count
         }
+        if self.mode == 'infer':
+            self.metrics['detail'] = self.detail
         self.save_log()
         import util
         util.printf("**********************END**********************")

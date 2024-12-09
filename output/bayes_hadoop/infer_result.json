@@ -1,0 +1,1 @@
+[{"correct": 0, "count": 1, "accuracy": 0.0, "metadata": {"smooth_value": 1, "vocab_size": 91344}}, {"predict": "Sports", "target": "empty", "prob": 1.0, "logits": {"Business": -234.74589934005905, "Sci_Tech": -232.76098652366872, "Sports": -196.08426857841118, "World": -228.86062155181259}}]

@@ -153,8 +153,8 @@ def writer(data: object, file_path: str, auto_convert: bool = False):
             with open(file_path, write_mode) as file:
                 file.write(json.dumps(convert(data) if auto_convert else data))
         except Exception as ex:
-            print("Path" + file_path)
-            print(ex)
+            printf("Path" + file_path)
+            printf(ex)
 
     else:
         with open(file_path, write_mode) as file:
