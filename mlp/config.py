@@ -11,8 +11,8 @@ else:
         PROJECT_PATH = file.read()
 
 ABS_OUTPUT_PATH = os.path.join(PROJECT_PATH, "output/mlp")
-RAW_TRAIN_DATA_PATH = os.path.join(PROJECT_PATH, "ag_news_data/train.csv")
-RAW_TEST_DATA_PATH = os.path.join(PROJECT_PATH, "ag_news_data/test.csv")
+RAW_TRAIN_DATA_PATH = os.path.join(PROJECT_PATH, "AllData/ag_news_data/train.csv")
+RAW_TEST_DATA_PATH = os.path.join(PROJECT_PATH, "AllData/ag_news_data/test.csv")
 TRAIN_DATA_PATH = os.path.join(ABS_OUTPUT_PATH, "train")
 TEST_DATA_PATH = os.path.join(ABS_OUTPUT_PATH, "test")
 VOCAB_PATH = os.path.join(ABS_OUTPUT_PATH, "vocab.json")
