@@ -1,1 +1,1 @@
-{"epoch": 20, "beta1": 0.9, "beta2": 0.999, "epsilon": 1e-08}
+{"epoch": 5, "beta1": 0.9, "beta2": 0.999, "epsilon": 1e-08}

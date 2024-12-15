@@ -1,1 +1,1 @@
-D:\Programming\Storage\Class\2024-2025\BigData\BTL-Big-Data-Map-Reduce-in-Document-Classification-with-Naive-Bayes-MLP-LSTM
+d:\code\bigdata_course\BTL-Big-Data-Map-Reduce-in-Document-Classification-with-Naive-Bayes-MLP-LSTM
